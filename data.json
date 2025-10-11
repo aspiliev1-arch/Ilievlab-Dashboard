@@ -1,0 +1,202 @@
+{
+  "request_id": "01d4fca7-835c-466a-91df-1f0458ead8ac",
+  "service": "smartscraper",
+  "status": "completed",
+  "website_url": "https://www.labroots.com/trending/health-and-medicine",
+  "user_prompt": "Extract all news articles with title, content, and hyperlink. Return as structured JSON array.",
+  "result": {
+    "news_articles": [
+      {
+        "title": "40% Fatal Vehicle Crashes Test Positive for THC",
+        "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29691/40-fatal-vehicle-crashes-test-positive-thc-2",
+        "content": "Over 40% of drivers who died in motor vehicle collisions tested positive for delta-9-tetrahydrocannabinol (THC) in Ohio'"
+      },
+      {
+        "title": "Slalom Chromatography: Rediscovering a Forgotten Separation Technique",
+        "hyperlink": "https://www.labroots.com/podcast-series/waters-chromatography-life-podcast-show/s1-e10-slalom-chromatography-rediscovering-a-forgotten-separation-technique",
+        "content": "Discover how slalom chromatography is revolutionizing biomolecule"
+      },
+      {
+        "title": "New Pill May Control High Blood Pressure",
+        "hyperlink": "https://www.labroots.com/trending/cardiology/29690/pill-control-blood-pressure-2",
+        "content": "A new medication may help patients who have high blood pressure and kidney disease"
+      },
+      {
+        "title": "Ultra-processed Foods May Not Drive Overeating",
+        "hyperlink": "https://www.labroots.com/trending/cardiology/29689/ultra-processed-foods-drive-overeating-2",
+        "content": "Your perception of foods may matter as much as their nutritional content in determining whether you'll overeat"
+      },
+      {
+        "title": "New Cannabis Compound Shows Potent Skin Benefits",
+        "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29687/cannabis-compound-potent-skin-benefits-2",
+        "content": "How can cannabis compounds be used to improve skin health? This is what a recent study published in the Journal of Natur"
+      },
+      {
+        "title": "Novel Antibody Neutralizes a Wide Range of HIV Variants",
+        "hyperlink": "https://www.labroots.com/trending/immunology/29686/novel-antibody-neutralizes-wide-range-hiv-variants",
+        "content": "Human immunodeficiency virus (HIV) is a viral infection that attacks our immune systems"
+      },
+      {
+        "title": "Three Immunologists Awarded the Nobel Prize in Physiology or Medicine for \"Breakthrough in Peripheral Immune Tolerance\"",
+        "hyperlink": "https://www.labroots.com/trending/immunology/29685/immunologists-awarded-nobel-prize-physiology-medicine-breakthrough-peripheral-immune-tolerance",
+        "content": "The Nobel Prize in Physiology or Medicine is the highest honor bestowed on a scientist concerning their research"
+      },
+      {
+        "title": "GLP-1 Inhibitors Could Reduce Cancer Risk",
+        "hyperlink": "https://www.labroots.com/trending/cancer/29684/glp-1-inhibitors-reduce-cancer-risk",
+        "content": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have garnered significant attention recently, both in the media and"
+      },
+      {
+        "title": "Asthma and COPD Inhalers Linked to 2 Million Tons of CO2 Annually",
+        "hyperlink": "https://www.labroots.com/trending/earth-and-the-environment/29682/asthma-copd-inhalers-linked-2-million-tons-co-annually-2",
+        "content": "Asthma and COPD inhalers have been found to contribute significantly to greenhouse gas emissions"
+      },
+      {
+        "title": "Asthma and COPD Inhalers Linked to 2 Million Tons of CO₂ Annually",
+        "hyperlink": "https://www.labroots.com/trending/earth-and-the-environment/29682/asthma-copd-inhalers-linked-2-million-tons-co-annually-2",
+        "content": "How can inhalers contribute to greenhouse gas (GHG) emissions? This is what a recent study published in JAMA hopes to address as a ..."
+      },
+      {
+        "title": "Can Chewing Gum Diagnose or Prevent Viral Illness?",
+        "hyperlink": "https://www.labroots.com/trending/microbiology/29671/chewing-gum-diagnose-prevent-viral-illness",
+        "content": "Influenza is a very contagious virus that can spread easily ... but one way to prevent the spread of illness is to isolate ..."
+      },
+      {
+        "title": "2-in-1 Inhaler Slashes Asthma Attacks in Children by 45%",
+        "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29680/2-in-1-inhaler-slashes-asthma-attacks-children-2",
+        "content": "A new study found that a 2-in-1 anti-inflammatory inhaler reduced asthma attacks in children by 45% compared to the widely ..."
+      },
+      {
+        "title": "Common Drug Effective in Patients Hospitalized with COVID-19",
+        "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29679/common-drug-effective-patients-hospitalized-covid-2",
+        "content": "Heparin, a widely available drug traditionally used to treat blood clots, lowers risk of death and ventilation in patients ..."
+      },
+      {
+        "title": "The importance of Differential Diagnosis in Respiratory MDx",
+        "hyperlink": "https://www.labroots.com/trending/clinical-and-molecular-dx/29620/importance-differential-diagnosis-respiratory-mdx",
+        "content": "Molecular Respiratory Panels — Importance of Differential Diagnosis With Respiratory Season rapidly approaching ..."
+      },
+      {
+        "title": "A Growing Role for Ancient Viruses in Human Development, Revealed",
+        "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29670/growing-role-ancient-viruses-human-development-revealed",
+        "content": "Scientists have long known that a significant portion of the human genome is made up of the remnants of ancient viruses; ..."
+      },
+      {
+        "title": "Study Explores Role of Cannabinoid Receptor Type 2 Activity in Granulocyte Colony-Stimulating Factor (G-CSF) Treatment for Traumatic Brain Injury (TBI)",
+        "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29674/study-explores-role-cannabinoid-receptor-type-2-activity-granulocyte-colony-stimulating-factor-g-csf-2",
+        "content": "A study published in the Journal of Cannabis Research examined the effect of granulocyte colony-stimulating factor (G-CSF) ..."
+      },
+      {
+        "title": "Poor Sleep Linked to Faster Brain Aging",
+        "hyperlink": "https://www.labroots.com/trending/neuroscience/29673/poor-sleep-linked-faster-brain-aging-2",
+        "content": "Poor sleep may speed up brain aging, found a new study published in eBioMedicine."
+      },
+      {
+        "title": "Acetaminophen Under the Microscope: Evidence from Peer-Reviewed Studies",
+        "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29668/acetaminophen-microscope-evidence-peer-reviewed-studies-2",
+        "content": "Acetaminophen is a common pain and fever reliever medication used for many ailments, including headaches, muscle aches, ..."
+      },
+      {
+        "title": "Navigating Cold Storage Solutions",
+        "hyperlink": "https://www.labroots.com/trending/ebooks/29586/navigating-cold-storage-solutions",
+        "content": "A Practical Guide to Choosing the Right Refrigerators and Freezers Refrigerators, freezers, and ultra-low temperature (U ..."
+      },
+      {
+        "title": "Anthony Letai, MD, PhD is Appointed as Director of the National Cancer Institute",
+        "hyperlink": "https://www.labroots.com/trending/nocat/29652/anthony-letai-md-phd-appointed-director-national-cancer-institute",
+        "content": ""
+      },
+      {
+        "title": "Ultra-processed foods drive overeating",
+        "hyperlink": "https://www.labroots.com/trending/cardiology/29689/ultra-processed-foods-drive-overeating-2",
+        "content": "Ultra-processed foods drive overeating"
+      },
+      {
+        "title": "Pill to control blood pressure",
+        "hyperlink": "https://www.labroots.com/trending/cardiology/29690/pill-control-blood-pressure-2",
+        "content": "Pill to control blood pressure"
+      },
+      {
+        "title": "Cannabis compound has potent skin benefits",
+        "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29687/cannabis-compound-potent-skin-benefits-2",
+        "content": "Cannabis compound has potent skin benefits"
+      },
+      {
+        "title": "Chewing gum to diagnose and prevent viral illness",
+        "hyperlink": "https://www.labroots.com/trending/microbiology/29671/chewing-gum-diagnose-prevent-viral-illness",
+        "content": "Chewing gum to diagnose and prevent viral illness"
+      },
+      {
+        "title": "Wildfire smoke and heat amplify urban pollutants",
+        "hyperlink": "https://www.labroots.com/trending/earth-and-the-environment/29663/wildfire-smoke-heat-amplify-urban-pollutants-2",
+        "content": "Wildfire smoke and heat amplify urban pollutants"
+      },
+      {
+        "title": "Lymph nodes facilitate cancer-killing immune cells",
+        "hyperlink": "https://www.labroots.com/trending/nocat/29666/lymph-nodes-facilitate-cancer-killing-immune-cells",
+        "content": "Lymph nodes facilitate cancer-killing immune cells"
+      },
+      {
+        "title": "Poor sleep linked to faster brain aging",
+        "hyperlink": "https://www.labroots.com/trending/neuroscience/29673/poor-sleep-linked-faster-brain-aging-2",
+        "content": "Poor sleep linked to faster brain aging"
+      },
+      {
+        "title": "2-in-1 inhaler slashes asthma attacks in children",
+        "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29680/2-in-1-inhaler-slashes-asthma-attacks-children-2",
+        "content": "2-in-1 inhaler slashes asthma attacks in children"
+      },
+      {
+        "title": "Cocoa lowers risk of age-related inflammation and heart disease",
+        "hyperlink": "https://www.labroots.com/trending/cardiology/29659/cocoa-lower-risk-age-related-inflammation-heart-disease-2",
+        "content": "Cocoa lowers risk of age-related inflammation and heart disease"
+      },
+      {
+        "title": "Medical cannabis patients use illegal products",
+        "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29661/medical-cannabis-patients-illegal-products-2",
+        "content": "Medical cannabis patients use illegal products"
+      },
+      {
+        "title": "40 fatal vehicle crashes test positive for THC",
+        "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29691/40-fatal-vehicle-crashes-test-positive-thc-2",
+        "content": "40 fatal vehicle crashes test positive for THC"
+      },
+      {
+        "title": "Asthma and COPD inhalers linked to 2 million tons of CO2 annually",
+        "hyperlink": "https://www.labroots.com/trending/earth-and-the-environment/29682/asthma-copd-inhalers-linked-2-million-tons-co-annually-2",
+        "content": "Asthma and COPD inhalers linked to 2 million tons of CO2 annually"
+      },
+      {
+        "title": "Bacteria boost chemotherapy effectiveness",
+        "hyperlink": "https://www.labroots.com/trending/nocat/29642/bacteria-boost-chemotherapy-effectiveness",
+        "content": "Bacteria boost chemotherapy effectiveness"
+      },
+      {
+        "title": "Legionnaires' recent outbreak insights",
+        "hyperlink": "https://www.labroots.com/trending/nocat/29640/legionnaires-recent-outbreak-insights",
+        "content": "Legionnaires' recent outbreak insights"
+      },
+      {
+        "title": "Anthony LeTai, MD, PhD, appointed director of National Cancer Institute",
+        "hyperlink": "https://www.labroots.com/trending/nocat/29652/anthony-letai-md-phd-appointed-director-national-cancer-institute",
+        "content": "Anthony LeTai, MD, PhD, appointed director of National Cancer Institute"
+      },
+      {
+        "title": "Immunologists awarded Nobel Prize in Physiology or Medicine for breakthrough in peripheral immune tolerance",
+        "hyperlink": "https://www.labroots.com/trending/immunology/29685/immunologists-awarded-nobel-prize-physiology-medicine-breakthrough-peripheral-immune-tolerance",
+        "content": "Immunologists awarded Nobel Prize in Physiology or Medicine for breakthrough in peripheral immune tolerance"
+      },
+      {
+        "title": "Growing role of ancient viruses in human development revealed",
+        "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29670/growing-role-ancient-viruses-human-development-revealed",
+        "content": "Growing role of ancient viruses in human development revealed"
+      },
+      {
+        "title": "Study explores role of cannabinoid receptor type 2 activity in granulocyte-colony stimulating factor (G-CSF)",
+        "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29674/study-explores-role-cannabinoid-receptor-type-2-activity-granulocyte-colony-stimulating-factor-g-csf-2",
+        "content": "Study explores role of cannabinoid receptor type 2 activity in granulocyte-colony stimulating factor (G-CSF)"
+      }
+    ]
+  },
+  "requested_at": "2025-10-10T22:33:09.087Z"
+}
