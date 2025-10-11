@@ -3,100 +3,131 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Operations Dashboard</title>
+<title>Live Dataset</title>
 <style>
-  :root{
-    --bg:#0b0c10;--panel:#111319;--muted:#8b93a7;--text:#e9ecf1;--line:#1d2230;
-    --accent:#4c8bf5;--accent-2:#22c55e;--warn:#f59e0b;--danger:#ef4444;
-    --radius:18px;--pad:16px;--shadow:0 10px 30px rgba(0,0,0,.35);
+  :root{--bg:#0b0c10;--panel:#111319;--muted:#8b93a7;--text:#e9ecf1;--line:#1d2230;--accent:#4c8bf5;--radius:16px}
+  @media (prefers-color-scheme: light){
+    :root{--bg:#f7f8fb;--panel:#fff;--muted:#5a6275;--text:#10131a;--line:#e8ebf3}
   }
-  @media(prefers-color-scheme:light){
-    :root{--bg:#f7f8fb;--panel:#ffffff;--muted:#5a6275;--text:#10131a;--line:#e8ebf3;--shadow:0 10px 25px rgba(16,19,26,.08)}
-  }
-  *{box-sizing:border-box}html,body{height:100%}
-  body{margin:0;background:radial-gradient(1200px 800px at 20% -10%,rgba(76,139,245,.14),transparent 40%),radial-gradient(1000px 600px at 120% 10%,rgba(34,197,94,.10),transparent 50%),var(--bg);color:var(--text);font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;}
-  .wrap{max-width:1200px;margin:28px auto;padding:0 16px}
-  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
-  .header{display:flex;gap:12px;align-items:center;justify-content:space-between;padding:18px var(--pad) 12px}
-  .title{font-size:18px;font-weight:700}
-  .sub{font-size:12px;color:var(--muted)}
-  .controls{display:flex;gap:10px;flex-wrap:wrap}
-  .search{display:flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:12px;padding:8px 10px}
-  .search input{all:unset;width:200px}
-  .select,.button{border:1px solid var(--line);padding:8px 12px;border-radius:12px;min-height:36px;background:transparent;color:var(--text)}
-  .button{cursor:pointer}
-  .button.primary{background:var(--accent);border-color:var(--accent);color:white}
-  .toolbar{display:flex;justify-content:space-between;align-items:center;padding:6px var(--pad) 12px;border-top:1px solid var(--line)}
+  *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+  .wrap{max-width:1100px;margin:28px auto;padding:0 16px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);box-shadow:0 10px 30px rgba(0,0,0,.2)}
+  .header{display:flex;justify-content:space-between;align-items:center;padding:16px}
+  .title{font-weight:700} .sub{font-size:12px;color:var(--muted)}
+  .controls{display:flex;gap:8px;flex-wrap:wrap}
+  .search{display:flex;gap:8px;align-items:center;border:1px solid var(--line);border-radius:12px;padding:6px 10px}
+  .search input{all:unset;width:220px}
+  button,select{border:1px solid var(--line);background:transparent;color:var(--text);border-radius:10px;padding:8px 12px;min-height:36px}
+  .primary{background:var(--accent);border-color:var(--accent);color:#fff}
   .table-wrap{overflow:auto;border-top:1px solid var(--line)}
   table{border-collapse:separate;border-spacing:0;width:100%;min-width:720px}
-  thead th{position:sticky;top:0;background:var(--panel);font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);border-bottom:1px solid var(--line);padding:12px;text-align:left;cursor:pointer}
-  tbody td{padding:12px;border-bottom:1px solid var(--line)}
+  thead th{position:sticky;top:0;background:var(--panel);font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);border-bottom:1px solid var(--line);padding:10px;text-align:left;cursor:pointer}
+  tbody td{padding:10px;border-bottom:1px solid var(--line);vertical-align:top}
   tbody tr:hover{background:rgba(76,139,245,.07)}
-  .pill{display:inline-block;padding:4px 8px;border-radius:999px;font-size:12px;font-weight:600}
-  .pill.ok{background:rgba(34,197,94,.15);color:#16a34a}
-  .pill.warn{background:rgba(245,158,11,.18);color:#b45309}
-  .pill.bad{background:rgba(239,68,68,.18);color:#b91c1c}
-  .pagination{display:flex;gap:8px;align-items:center;padding:12px var(--pad)}
-  .pagination .info{color:var(--muted);font-size:12px}
-  a.link{color:var(--accent);text-decoration:none}a.link:hover{text-decoration:underline}
-  .empty{padding:32px;color:var(--muted)}
+  .empty{padding:24px;color:var(--muted)}
+  .hint{padding:10px 16px;border-top:1px solid var(--line);font-size:12px;color:var(--muted)}
+  a.link{color:var(--accent);text-decoration:none}
 </style>
 </head>
 <body>
 <div class="wrap">
   <div class="card">
     <div class="header">
-      <div><div class="title">Live Dataset</div><div class="sub" id="meta">Loading…</div></div>
+      <div>
+        <div class="title">Live Dataset</div>
+        <div class="sub" id="meta">Loading…</div>
+      </div>
       <div class="controls">
-        <label class="search"><input id="q" placeholder="Search…" /></label>
-        <select id="pageSize" class="select"><option>10</option><option selected>25</option><option>50</option></select>
-        <button id="exportCsv" class="button">Export CSV</button>
-        <button id="refresh" class="button primary">Refresh</button>
+        <label class="search"><input id="q" placeholder="Search…"></label>
+        <select id="pageSize"><option>10</option><option selected>25</option><option>50</option><option>100</option></select>
+        <button id="exportCsv">Export CSV</button>
+        <button id="refresh" class="primary">Refresh</button>
       </div>
     </div>
-    <div class="table-wrap"><table id="grid"><thead></thead><tbody></tbody></table><div id="empty" class="empty" style="display:none">No data.</div></div>
-    <div class="pagination">
-      <button id="prev" class="button">Prev</button>
-      <button id="next" class="button">Next</button>
-      <div class="spacer"></div><div class="info" id="pageInfo">—</div>
+
+    <div class="table-wrap">
+      <table id="grid"><thead></thead><tbody></tbody></table>
+      <div id="empty" class="empty" style="display:none">No data.</div>
     </div>
+    <div class="hint" id="hint"></div>
   </div>
 </div>
 
 <script>
-const DATA_URL = './data.json';  // same origin
-let raw=[],filtered=[];let page=1,pageSize=25,sortKey=null,sortDir=1;
-const $=s=>document.querySelector(s);
-function escapeHTML(s){return s.replace(/[&<>'"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[m]))}
-function load(){
-  fetch(DATA_URL,{cache:'no-cache'}).then(r=>r.json()).then(j=>{
-    raw=Array.isArray(j)?j:(j.data||[]);applyFilters();render();
-  });
+/** CONFIG **/
+const DATA_URL = './data.json';           // same folder as index.html
+const AUTO_REFRESH_MS = 60000;            // 60s
+
+/** STATE **/
+let raw=[], filtered=[]; let page=1, pageSize=25, sortKey=null, sortDir=1;
+
+/** UTIL **/
+const $ = s => document.querySelector(s);
+const escapeHTML = s => String(s).replace(/[&<>'"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;' }[m]));
+const toCsv = rows => {
+  if(!rows.length) return '';
+  const cols = Object.keys(rows[0]);
+  const esc = v => `"${String(v??'').replace(/"/g,'""')}"`;
+  return [cols.map(esc).join(','), ...rows.map(r=>cols.map(c=>esc(r[c])).join(','))].join('\n');
+};
+
+/** IO **/
+async function load(){
+  try{
+    const r = await fetch(`${DATA_URL}?v=${Date.now()}`, {cache:'no-cache'});
+    if(!r.ok) throw new Error(`HTTP ${r.status}`);
+    const json = await r.json();
+    // Accept [ ... ] OR { data: [ ... ] }
+    raw = Array.isArray(json) ? json : (Array.isArray(json.data) ? json.data : []);
+    if(!Array.isArray(raw)) raw = [];
+    applyFilters(); render();
+    setHint(raw.length ? '' :
+      'Loaded 0 rows. Ensure data.json is a non-empty JSON array like: [ { "name": "Item", "status": "ok" } ]');
+  }catch(err){
+    console.error('data.json load error:', err);
+    setHint('Could not load data.json. Verify it sits next to index.html, on the published branch, and is valid JSON.');
+    showEmpty();
+  }
 }
+
+/** FILTER/SORT/RENDER **/
 function applyFilters(){
-  const q=$('#q').value.toLowerCase();
-  filtered=raw.filter(r=>!q||Object.values(r).some(v=>String(v).toLowerCase().includes(q)));
-  if(sortKey)filtered.sort((a,b)=>String(a[sortKey]).localeCompare(String(b[sortKey]))*sortDir);
+  const q = ($('#q')?.value || '').toLowerCase();
+  filtered = raw.filter(r => !q || Object.values(r).some(v => String(v??'').toLowerCase().includes(q)));
+  if(sortKey){
+    filtered.sort((a,b)=>{
+      const av=a[sortKey], bv=b[sortKey];
+      const an=Number(av), bn=Number(bv);
+      if(!isNaN(an)&&!isNaN(bn)) return (an-bn)*sortDir;
+      const ad=Date.parse(av), bd=Date.parse(bv);
+      if(!isNaN(ad)&&!isNaN(bd)) return (ad-bd)*sortDir;
+      return String(av??'').localeCompare(String(bv??''))*sortDir;
+    });
+  }
 }
 function render(){
-  const t=$('#grid'),th=t.querySelector('thead'),tb=t.querySelector('tbody');
-  if(!filtered.length){th.innerHTML='';tb.innerHTML='';$('#empty').style.display='block';return;}
+  const grid=$('#grid'), thead=grid.querySelector('thead'), tbody=grid.querySelector('tbody');
+  if(!filtered.length){ showEmpty(); return; }
   $('#empty').style.display='none';
-  const cols=Object.keys(filtered[0]);
-  th.innerHTML='<tr>'+cols.map(c=>`<th data-col="${c}">${c}${sortKey===c?(sortDir>0?' ▲':' ▼'):''}</th>`).join('')+'</tr>';
-  th.querySelectorAll('th').forEach(thh=>thh.onclick=()=>{sortKey=thh.dataset.col;sortDir*=-1;applyFilters();render();});
-  const start=(page-1)*pageSize,slice=filtered.slice(start,start+pageSize);
-  tb.innerHTML=slice.map(r=>'<tr>'+cols.map(c=>`<td>${escapeHTML(r[c]??'')}</td>`).join('')+'</tr>').join('');
-  $('#meta').textContent=`rows: ${raw.length} • updated: ${new Date().toLocaleString()}`;
+  const cols = Object.keys(filtered[0]);
+  thead.innerHTML = '<tr>' + cols.map(c=>`<th data-col="${c}">${c}${sortKey===c?(sortDir>0?' ▲':' ▼'):''}</th>`).join('') + '</tr>';
+  thead.querySelectorAll('th').forEach(h => h.onclick = ()=>{ sortKey=h.dataset.col; sortDir*=-1; applyFilters(); render(); });
+  const start=(page-1)*pageSize, rows=filtered.slice(start,start+pageSize);
+  tbody.innerHTML = rows.map(r=>'<tr>'+cols.map(c=>`<td>${isLink(r[c])?(`<a class="link" href="${r[c]}" target="_blank" rel="noopener">${escapeHTML(r[c])}</a>`):escapeHTML(r[c])}</td>`).join('')+'</tr>').join('');
+  $('#meta').textContent = `rows: ${raw.length} • updated: ${new Date().toLocaleString()}`;
 }
-$('#q').oninput=()=>{applyFilters();render();}
-$('#pageSize').onchange=e=>{pageSize=+e.target.value;render();}
-$('#refresh').onclick=load;
-$('#exportCsv').onclick=()=>{
-  const cols=Object.keys(filtered[0]||{}),csv=[cols.join(',')].concat(filtered.map(r=>cols.map(c=>`"${String(r[c]??'').replace(/"/g,'""')}"`).join(','))).join('\n');
-  const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([csv],{type:'text/csv'}));a.download='data.csv';a.click();
-};
-load();setInterval(load,60000);
+function isLink(v){ return /^https?:\/\//i.test(String(v||'')); }
+function showEmpty(){ $('#grid thead').innerHTML=''; $('#grid tbody').innerHTML=''; $('#empty').style.display='block'; }
+function setHint(msg){ const el=$('#hint'); if(el) el.textContent = msg||''; }
+
+/** EVENTS **/
+$('#q').addEventListener('input', ()=>{ applyFilters(); render(); });
+$('#pageSize').addEventListener('change', e=>{ pageSize=+e.target.value; page=1; render(); });
+$('#refresh').addEventListener('click', load);
+$('#exportCsv').addEventListener('click', ()=>{ if(!filtered.length) return; const csv=toCsv(filtered); const a=document.createElement('a'); a.href=URL.createObjectURL(new Blob([csv],{type:'text/csv'})); a.download='dataset.csv'; a.click(); });
+
+/** BOOT **/
+load(); setInterval(load, AUTO_REFRESH_MS);
 </script>
 </body>
 </html>
