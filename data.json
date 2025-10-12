@@ -1,15 +1,597 @@
-{"articles": [
-    {"title": "40% Fatal Vehicle Crashes Test Positive for THC", "summary": "Over 40% of drivers who died in motor vehicle collisions tested positive for delta-9-tetrahydrocannabinol (THC) in Ohio", "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29691/40-fatal-vehicle-crashes-test-positive-thc-2", "duplicate_count": 0},
-    {"title": "New Pill May Control High Blood Pressure", "summary": "A new medication may help patients who have high blood pressure and kidney disease", "hyperlink": "https://www.labroots.com/trending/cardiology/29690/pill-control-blood-pressure-2", "duplicate_count": 1},
-    {"title": "Ultra-processed Foods May Not Drive Overeating", "summary": "Your perception of foods may matter as much as their nutritional content in determining whether you'll overeat", "hyperlink": "https://www.labroots.com/trending/cardiology/29689/ultra-processed-foods-drive-overeating-2", "duplicate_count": 1},
-    {"title": "New Cannabis Compound Shows Potent Skin Benefits", "summary": "How can cannabis compounds be used to improve skin health? This is what a recent study published in the Journal of Natural", "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29687/cannabis-compound-potent-skin-benefits-2", "duplicate_count": 0},
-    {"title": "Novel Antibody Neutralizes a Wide Range of HIV Variants", "summary": "Human immunodeficiency virus (HIV) is a viral infection that attacks our immune systems", "hyperlink": "https://www.labroots.com/trending/immunology/29686/novel-antibody-neutralizes-wide-range-hiv-variants", "duplicate_count": 1},
-    {"title": "Three Immunologists Awarded the Nobel Prize in Physiology or Medicine for Breakthrough in Peripheral Immune Tolerance", "summary": "The Nobel Prize in Physiology or Medicine is the highest honor bestowed on a scientist concerning their research", "hyperlink": "https://www.labroots.com/trending/immunology/29685/immunologists-awarded-nobel-prize-physiology-medicine-breakthrough-peripheral-immune-tolerance", "duplicate_count": 2},
-    {"title": "GLP-1 Inhibitors Could Reduce Cancer Risk", "summary": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have garnered significant attention recently", "hyperlink": "https://www.labroots.com/trending/cancer/29684/glp-1-inhibitors-reduce-cancer-risk", "duplicate_count": 0},
-    {"title": "Asthma and COPD Inhalers Linked to 2 Million Tons of CO₂ Annually", "summary": " both in the media and", "hyperlink": "https://www.labroots.com/trending/earth-and-the-environment/29682/asthma-copd-inhalers-linked-2-million-tons-co-annually-2", "duplicate_count": 0},
-    {"title": "Can Chewing Gum Diagnose or Prevent Viral Illness?", "summary": "How can inhalers contribute to greenhouse gas (GHG) emissions? This is what a recent study published in JAMA hopes to address", "hyperlink": "https://www.labroots.com/trending/microbiology/29671/chewing-gum-diagnose-prevent-viral-illness", "duplicate_count": 1},
-    {"title": "2-in-1 Inhaler Slashes Asthma Attacks in Children by 45%", "summary": "Influenza is a very contagious virus that can spread easily ... but one way to prevent the spread of illness is to isolate", "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29680/2-in-1-inhaler-slashes-asthma-attacks-children-2", "duplicate_count": 1},
-    {"title": "Cocoa supplements may lower inflammation and risk of heart disease", "summary": "A new study found that a 2-in-1 anti-inflammatory inhaler reduced asthma attacks in children by 45% compared to the widely", "hyperlink": "https://www.labroots.com/trending/cardiology/29659/cocoa-lower-risk-age-related-inflammation-heart-disease-2", "duplicate_count": 1},
-    {"title": "How Cannabis Impacts Sales of Other Products", "summary": "Cocoa supplements may lower inflammation and risk of heart disease", "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29660/cannabis-impacts-sales-products-2", "duplicate_count": 0},
-    {"title": "Bacteria Boost Chemotherapy Effectiveness", "summary": "Can cannabis drinks be used to replace alcohol? This is what a recent study published in the Journal of Cannabis Research", "hyperlink": "https://www.labroots.com/trending/nocat/29642/bacteria-boost-chemotherapy-effectiveness", "duplicate_count": 1}
-]}
+{"unique_articles": [
+    {
+      "title": "40% Fatal Vehicle Crashes Test Positive for THC",
+      "summary": "Over 40% of drivers who died in motor vehicle collisions tested positive for delta-9-tetrahydrocannabinol (THC) in Ohio",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29691/40-fatal-vehicle-crashes-test-positive-thc-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "New Pill May Control High Blood Pressure",
+      "summary": "A new medication may help patients who have high blood pressure and kidney disease",
+      "hyperlink": "https://www.labroots.com/trending/cardiology/29690/pill-control-blood-pressure-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Ultra-processed Foods May Not Drive Overeating",
+      "summary": "Your perception of foods may matter as much as their nutritional content in determining whether you'll overeat",
+      "hyperlink": "https://www.labroots.com/trending/cardiology/29689/ultra-processed-foods-drive-overeating-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "New Cannabis Compound Shows Potent Skin Benefits",
+      "summary": "How can cannabis compounds be used to improve skin health? This is what a recent study published in the Journal of Natural",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29687/cannabis-compound-potent-skin-benefits-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Novel Antibody Neutralizes a Wide Range of HIV Variants",
+      "summary": "Human immunodeficiency virus (HIV) is a viral infection that attacks our immune systems",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29686/novel-antibody-neutralizes-wide-range-hiv-variants",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Three Immunologists Awarded the Nobel Prize in Physiology or Medicine for Breakthrough in Peripheral Immune Tolerance",
+      "summary": "The Nobel Prize in Physiology or Medicine is the highest honor bestowed on a scientist concerning their research",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29685/immunologists-awarded-nobel-prize-physiology-medicine-breakthrough-peripheral-immune-tolerance",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "GLP-1 Inhibitors Could Reduce Cancer Risk",
+      "summary": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have garnered significant attention recently",
+      "hyperlink": "https://www.labroots.com/trending/cancer/29684/glp-1-inhibitors-reduce-cancer-risk",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Asthma and COPD Inhalers Linked to 2 Million Tons of CO₂ Annually",
+      "summary": " both in the media and",
+      "hyperlink": "https://www.labroots.com/trending/earth-and-the-environment/29682/asthma-copd-inhalers-linked-2-million-tons-co-annually-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Can Chewing Gum Diagnose or Prevent Viral Illness?",
+      "summary": "How can inhalers contribute to greenhouse gas (GHG) emissions? This is what a recent study published in JAMA hopes to address",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29671/chewing-gum-diagnose-prevent-viral-illness",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "2-in-1 Inhaler Slashes Asthma Attacks in Children by 45%",
+      "summary": "Influenza is a very contagious virus that can spread easily ... but one way to prevent the spread of illness is to isolate",
+      "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29680/2-in-1-inhaler-slashes-asthma-attacks-children-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Cocoa supplements may lower inflammation and risk of heart disease",
+      "summary": "A new study found that a 2-in-1 anti-inflammatory inhaler reduced asthma attacks in children by 45% compared to the widely",
+      "hyperlink": "https://www.labroots.com/trending/cardiology/29659/cocoa-lower-risk-age-related-inflammation-heart-disease-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "How Cannabis Impacts Sales of Other Products",
+      "summary": "Cocoa supplements may lower inflammation and risk of heart disease",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29660/cannabis-impacts-sales-products-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Bacteria Boost Chemotherapy Effectiveness",
+      "summary": "Can cannabis drinks be used to replace alcohol? This is what a recent study published in the Journal of Cannabis Research",
+      "hyperlink": "https://www.labroots.com/trending/nocat/29642/bacteria-boost-chemotherapy-effectiveness",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Legionnaires' - A Recent Outbreak",
+      "summary": "Bacteria Boost Chemotherapy Effectiveness",
+      "hyperlink": "https://www.labroots.com/trending/nocat/29640/legionnaires-recent-outbreak-insights",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": " and New Insights",
+      "summary": "Legionnaires' - A Recent Outbreak",
+      "hyperlink": "https://www.labroots.com/trending/nocat/29666/lymph-nodes-facilitate-cancer-killing-immune-cells",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Lymph Nodes Facilitate Cancer-Killing Immune Cells",
+      "summary": " and New Insights",
+      "hyperlink": "https://www.labroots.com/trending/nocat/29652/anthony-letai-md-phd-appointed-director-national-cancer-institute",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Anthony Letai",
+      "summary": "Lymph Nodes Facilitate Cancer-Killing Immune Cells",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29661/medical-cannabis-patients-illegal-products-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Medical Cannabis Patients Turn to Illegal Products",
+      "summary": " PhD is Appointed as Director of the National Cancer Institute",
+      "hyperlink": "https://www.labroots.com/trending/nocat/29640/legionnaires-recent-outbreak-insights",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Asthma and COPD Inhalers Linked to 2 Million Tons of CO2 Annually",
+      "summary": "A recent study found that many medical cannabis patients are turning to illegal products due to lack of access to legal ones.",
+      "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29668/acetaminophen-microscope-evidence-peer-reviewed-studies-2",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Chewing Gum Could Diagnose and Prevent Viral Illness",
+      "summary": "A new study has found that inhalers used to treat asthma and COPD are linked to significant greenhouse gas emissions",
+      "hyperlink": "https://www.labroots.com/trending/nocat/29666/lymph-nodes-facilitate-cancer-killing-immune-cells",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Legionnaires' Recent Outbreak: Insights and Implications",
+      "summary": " highlighting the need for more sustainable treatments.",
+      "hyperlink": "https://www.labroots.com/trending/cancer/29684/glp-1-inhibitors-reduce-cancer-risk",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Acetaminophen Microscope Evidence in Peer-Reviewed Studies",
+      "summary": "Researchers have developed a chewing gum that can detect and prevent viral illnesses",
+      "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29664/cysteine-rich-diet-shown-boost-intestinal-regeneration",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Cocoa Lowers Risk of Age-Related Inflammation and Heart Disease",
+      "summary": " highlighting the importance of careful analysis in forensic science.",
+      "hyperlink": "",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Study Explores Role of Cannabinoid Receptor Type 2 Activity in Granulocyte-Colony Stimulating Factor (G-CSF)",
+      "summary": "Researchers have discovered that lymph nodes play a crucial role in facilitating cancer-killing immune cells",
+      "hyperlink": "",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Immunologists Awarded Nobel Prize in Physiology or Medicine for Breakthrough in Peripheral Immune Tolerance",
+      "summary": " offering new insights into cancer treatment and prevention.",
+      "hyperlink": "",
+      "source": "Labroots Health & Medicine"
+    },
+    {
+      "title": "Poor Sleep Linked to Faster Brain Aging",
+      "summary": "Poor sleep may speed up brain aging",
+      "hyperlink": "https://www.labroots.com/trending/neuroscience/29673/poor-sleep-linked-faster-brain-aging-2",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Researchers Reveal Autoimmune Response in Patients with ALS",
+      "summary": " including anti-tumor responses",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29655/researchers-reveal-autoimmune-response-patients-als",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "FDA Approves Injectable Immunotherapy Drug",
+      "summary": "A new study reported in Nature has determined that the amino acid cysteine could promote regeneration among cells in the intestine.",
+      "hyperlink": "https://www.labroots.com/trending/cancer/29636/fda-approves-injectable-immunotherapy-drug",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Novel Biomarkers Revealed in Pediatric Germ Tumors",
+      "summary": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease that affects nerve cells in the brain and spinal cord",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29633/novel-biomarkers-revealed-pediatric-germ-tumors",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Combination Therapy Overcomes Glioblastoma Resistance",
+      "summary": " and researchers have revealed an autoimmune response in patients with ALS.",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29632/combination-therapy-overcomes-glioblastoma-resistance",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Electric Fields and Fluoxetine Delivery Accelerate Healing",
+      "summary": "Rheumatoid arthritis is an autoimmune disorder that causes inflammation",
+      "hyperlink": "https://www.labroots.com/trending/technology/29631/electric-fields-fluoxetine-delivery-accelerate-healing-2",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "How Death Fold Domains Boost Immune Protection",
+      "summary": " swelling and pain in joints",
+      "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29608/death-fold-domains-boost-immune-protection",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Scientists Develop New Technology to Amplify Cancer Markers",
+      "summary": " and immune aging may drive arthritis.",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29602/scientists-develop-technology-amplify-cancer-markers",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Scientists Reveal How Nanoplastics Dysregulate Brain Cells",
+      "summary": "Cancer immunotherapies",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29601/scientists-reveal-nanoplastics-dysregulate-brain-cells",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "This Anti-Flu Antibody Cocktail Could Change Virus Treatment",
+      "summary": " anti-cancer treatments that target a patient’s own immune system",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29591/anti-flu-antibody-cocktail-change-virus-treatment",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "CBD Shows Promise Against Skin Cancers and Pigmentation Disorders",
+      "summary": " working to make it more effective at fighting cancer",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29571/cbd-promise-skin-cancers-pigmentation-disorders-2",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Study Reveals New Insights into Immune Dysregulation in Patients with Chronic Fatigue Syndrome (ME/CSF)",
+      "summary": " and the FDA has approved an injectable immunotherapy drug.",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29538/study-reveals-insights-immune-dysregulation-patients-chronic-fatigue-syndrome-me-csf",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Cell Reprogramming as an Approach to Cancer Therapy",
+      "summary": "Although pediatric cancer is rare",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29537/cell-reprogramming-approach-cancer-therapy",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Could mRNA Vaccines Be the Key to a Promising Future in Cancer Immunotherapy?",
+      "summary": " it is the leading cause of death by disease in children",
+      "hyperlink": "https://www.labroots.com/trending/cancer/29500/mrna-vaccines-key-promising-future-cancer-immunotherapy",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "American Association of Immunologists Created Science Forum for the Public",
+      "summary": "How can machine learning be used to treat and heal wounds",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29572/scientists-reveal-immune-cells-drive-tumor-progression",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Scientists Reveal Immune Cells Drive Tumor Progression",
+      "summary": "The immune system can be a double-edged sword",
+      "hyperlink": "https://www.labroots.com/trending/cancer/29504/exploration-tumor-immune-landscape-colorectal-adenocarcinoma-using-ai-powered-multiplexed-image-anal",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Exploration of Tumor Immune Landscape in Colorectal Adenocarcinoma",
+      "summary": "Cancer is a complex disease that evades the immune system through various mechanisms",
+      "hyperlink": "",
+      "source": "Labroots Immunology"
+    },
+    {
+      "title": "Epigenetics Links Maternal Infections & Neurodevelopmental Conditions",
+      "summary": " and new research can explain how they ...",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29667/component-mucus-stop-salmonella-infections",
+      "source": "Labroots Cell Biology"
+    },
+    {
+      "title": "A Component of Mucus Can Stop Salmonella Infections",
+      "summary": "Mucus isn't just some junk for tissues",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29674/study-explores-role-cannabinoid-receptor-type-2-activity-granulocyte-colony-stimulating-factor-g-csf-2",
+      "source": "Labroots Cell Biology"
+    },
+    {
+      "title": "Study Explores Role of Cannabinoid Receptor Type 2 Activity in Granulocyte Colony-Stimulating Factor (G-CSF) Treatment for Traumatic Brain Injury (TBI)",
+      "summary": " it serves important biological purposes. It is an important line of defense",
+      "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29665/insights-genetics-affects-metabolism",
+      "source": "Labroots Cell Biology"
+    },
+    {
+      "title": "How Lysosomes Can Make Longevity Heritable",
+      "summary": "A new study reported in Nature has determined that the amino acid cysteine could promote regeneration among cells in the intestine.",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29640/legionnaires-recent-outbreak-insights",
+      "source": "Labroots Cell Biology"
+    },
+    {
+      "title": "Genes Can Predict the Success of Some Weight Loss Drugs",
+      "summary": " is a neurodegenerative disease that affects nerve cells in the brain and spinal cord.",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29630/oral-bacteria-linked-parkinson-s-disease-development",
+      "source": "Labroots Cell Biology"
+    },
+    {
+      "title": "Oral Bacteria is Linked to Parkinson's Disease Development",
+      "summary": " but also for their offspring.",
+      "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29629/huntington-s-disease-therapy-slows-patients-disease-75",
+      "source": "Labroots Cell Biology"
+    },
+    {
+      "title": "New Huntington's Disease Therapy Slows Patients' Disease by 75%",
+      "summary": " even windshield wiper fluid",
+      "hyperlink": "https://www.labroots.com/trending/nocat/29666/lymph-nodes-facilitate-cancer-killing-immune-cells",
+      "source": "Labroots Cell Biology"
+    },
+    {
+      "title": "Cas9 Enzymes Improve Accuracy of CRISPR Prime Editing",
+      "summary": "Rheumatoid arthritis is an autoimmune disorder that causes inflammation",
+      "hyperlink": "",
+      "source": "Labroots Cell Biology"
+    },
+    {
+      "title": "Can Chewing Gum Diagnose or Prevent Viral Illness?",
+      "summary": "Influenza is a very contagious virus that can spread easily ... but one way to prevent the spread of illness is to isolate",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29671/chewing-gum-diagnose-prevent-viral-illness",
+      "source": "Labroots Microbiology"
+    },
+    {
+      "title": "The importance of Differential Diagnosis in Respiratory MDx",
+      "summary": "Molecular Respiratory Panels — Importance of Differential Diagnosis With Respiratory Season rapidly approaching",
+      "hyperlink": "https://www.labroots.com/trending/clinical-and-molecular-dx/29620/importance-differential-diagnosis-respiratory-mdx",
+      "source": "Labroots Microbiology"
+    },
+    {
+      "title": "Alcohol Lets a Microbial Molecule Escape the Gut & Damage the Liver",
+      "summary": "In Parkinson's disease",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29597/dirt-comes-antibiotic-candidates",
+      "source": "Labroots Microbiology"
+    },
+    {
+      "title": "From Dirt Comes Two New Antibiotic Candidates",
+      "summary": " certain dopamine-producing neurons in the brain die off",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29591/anti-flu-antibody-cocktail-change-virus-treatment",
+      "source": "Labroots Microbiology"
+    },
+    {
+      "title": "Mitochondria Help Defend Cells Against Infection",
+      "summary": "Microbes have long been engaged in warfare; these cells have to find a place to survive and thrive",
+      "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29534/beetroot-juice-lowers-blood-pressure-adults",
+      "source": "Labroots Microbiology"
+    },
+    {
+      "title": "Gut Immune Cells Migrate to the Brain",
+      "summary": " and collect enough n",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29508/cataloging-gut-microbes-diagnose-colon-cancer",
+      "source": "Labroots Microbiology"
+    },
+    {
+      "title": "Scientists Discover Genetic Element in Mouth Microbes",
+      "summary": "No summary available",
+      "hyperlink": "",
+      "source": "Labroots Microbiology"
+    },
+    {
+      "title": "Epigenetics Links Maternal Infections & Neurodevelopmental Conditions",
+      "summary": "There is increasing evidence linking maternal infections to developmental issues",
+      "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29669/epigenetics-links-maternal-infections-neurodevelopmental-conditions",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "Acetaminophen Under the Microscope: Evidence from Peer-Reviewed Studies",
+      "summary": "Poor sleep may speed up brain aging",
+      "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29668/acetaminophen-microscope-evidence-peer-reviewed-studies-2",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "Any Amount of Alcohol Consumption Increases Dementia Risk",
+      "summary": " found a new study published in eBioMedicine.",
+      "hyperlink": "https://www.labroots.com/trending/neuroscience/29653/amount-alcohol-consumption-increases-dementia-risk",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "Daylight Saving Time May Increase Strokes and Obesity",
+      "summary": " including headaches",
+      "hyperlink": "https://www.labroots.com/trending/cardiology/29615/daylight-saving-time-increase-strokes-obesity-2",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "Insomnia Linked to 40% Higher Dementia Risk",
+      "summary": "There may be a causal link between physical frailty and dementia",
+      "hyperlink": "https://www.labroots.com/trending/cardiology/29577/link-breakfast-timing-longevity-2",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "The Link Between Breakfast Timing and Longevity",
+      "summary": "Scientists have learned more about the effects of an experimental amyotrophic lateral sclerosis (ALS) drug candidate tha...",
+      "hyperlink": "https://www.labroots.com/trending/health-and-medicine/29573/targeting-brain-cancer-multiple-angles",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "New Study Reveals Foods that Delay Dementia and Heart Disease",
+      "summary": "A new study found that young children with ADHD often receive medication immediately after diagnosis without undergoing...",
+      "hyperlink": "https://www.labroots.com/trending/neuroscience/29560/artificial-sweeteners-linked-faster-brain-aging-2",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "Artificial Sweeteners Linked to Faster Brain Aging",
+      "summary": "People with chronic insomnia are 40% more likely to develop dementia or mild cognitive issues",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29548/cbd-treatment-linked-object-spatial-memory-functions-2",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "Researchers Discover How to Differentiate Parkinson's & Essential Tremor",
+      "summary": " reported a new study publ...",
+      "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29547/insights-alzheimer-s-risk-gene",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "CBD Treatment Linked to Better Object and Spatial Memory Functions",
+      "summary": "Frequent cannabis users do not display impaired driving after at least 48 hours of abstinence",
+      "hyperlink": "https://www.labroots.com/trending/neuroscience/29529/purpose-life-protect-cognitive-impairment-2",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "New Insights Into How An Alzheimer's Risk Gene Works",
+      "summary": " found a new study publish...",
+      "hyperlink": "https://www.labroots.com/trending/microbiology/29528/gut-immune-cells-migrate-brain-linked-alzheimer-s",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "Purpose in Life May Protect Against Cognitive Impairment",
+      "summary": "Eating breakfast later is associated with a higher risk of death in older adults.",
+      "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29516/mediterranean-diet-mitigate-genetic-alzheimer-s-risk",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "Mediterranean Diet May Mitigate Genetic Alzheimer's Risk",
+      "summary": "Glioblastoma multiforme (GBM) is a highly aggressive and malignant brain tumor that is resistant to many treatments.",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29578/cannabis-affect-driving-2-day-break-2",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "Cannabis Affects Driving 2 Days After Use",
+      "summary": "Millions of people worldwide are affected by Parkinson's disease",
+      "hyperlink": "https://www.labroots.com/trending/nocat/29666/lymph-nodes-facilitate-cancer-killing-immune-cells",
+      "source": "Labroots Neuroscience"
+    },
+    {
+      "title": "New Pill May Control High Blood Pressure",
+      "summary": "A new medication may help patients who have high blood pressure and kidney disease.",
+      "hyperlink": "https://www.labroots.com/trending/cardiology/29690/pill-control-blood-pressure-2",
+      "source": "Labroots Drug Discovery"
+    },
+    {
+      "title": "2-in-1 Inhaler Slashes Asthma Attacks in Children by 45%",
+      "summary": "A new study found that a 2-in-1 anti-inflammatory inhaler reduced asthma attacks in children by 45% compared to the wide ...",
+      "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29680/2-in-1-inhaler-slashes-asthma-attacks-children-2",
+      "source": "Labroots Drug Discovery"
+    },
+    {
+      "title": "Apple-based Compound May Protect Against Periodontal Disease",
+      "summary": "Colorectal cancer is a high disease burden cancer and is the second leading cause of cancer deaths worldwide. The first- ...",
+      "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29624/apple-based-compound-protect-periodontal-disease-2",
+      "source": "Labroots Drug Discovery"
+    },
+    {
+      "title": "High-intensity Interval Exercise and Hippocampal Health in Adults with Cannabis Use Disorder",
+      "summary": " hundreds of small structures located throughout the body",
+      "hyperlink": "https://www.labroots.com/trending/health-and-medicine/29618/high-intensity-interval-exercise-hippocampal-health-adults-cannabis-disorder-2",
+      "source": "Labroots Drug Discovery"
+    },
+    {
+      "title": "Study Highlights Link Between Alcohol and Cannabis Use and Adverse Effects in Young Adults",
+      "summary": " play a pivotal role in immunity",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29617/study-highlights-link-alcohol-cannabis-adverse-effects-adults-2",
+      "source": "Labroots Drug Discovery"
+    },
+    {
+      "title": "For the First Time",
+      "summary": "Scientists identified two types of brain cells",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251010091559.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "MIT’s New Precision Gene Editing Tool Could Transform Medicine",
+      "summary": " that are altered in people with depression.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251009033206.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Scientists Discover Brain Circuit That Can Switch Off Chronic Pain",
+      "summary": "Researchers have cracked the code behind how plants make mitraphylline",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030955.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Scientists Just Found a Molecule That Could Stop Parkinson’s in Its Tracks",
+      "summary": "Scientists at Skoltech developed a new mathematical model of memory that explores how information is encoded and stored.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251006051127.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Scientists Finally Reveal What’s Behind Long COVID’s Mysterious Brain Fog",
+      "summary": " the protein behind Parkinson’s and some dementias.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251005085628.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "New Research Reveals What’s Really Hiding in Bottled Water",
+      "summary": "Scientists have discovered that bacteria living inside tumors can produce a molecule that fights cancer and enhances chemotherapy.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251005085621.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "It’s Not Just Genes — Parents Can Pass Down Longevity Another Way",
+      "summary": "Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251005085616.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Nearly Half of Drivers Killed in Crashes Had THC in Their Blood",
+      "summary": "A chance encounter with plastic waste on a tropical beach sparked a deep investigation into what those fragments mean for human health.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251010091550.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Why the Brain’s GPS Fails with Age",
+      "summary": "Scientists studying tiny roundworms have uncovered how the secrets of a long life can be passed from parents to their offspring — without changing DNA.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251011043535.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "When Men Drink",
+      "summary": " showing cannabis use before driving remains widespread.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251009033244.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "MIT’s “stealth” Immune Cells Could Change Cancer Treatment Forever",
+      "summary": " mirroring spatial memory decline in humans.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251009033247.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "A Toxic Alzheimer’s Protein Could Be the Key to Fighting Cancer",
+      "summary": "Men’s heavy drinking is fueling a hidden crisis affecting millions of women and children worldwide.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030953.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Thousands Fall Ill as Mosquito Fever Explodes Across Southern China",
+      "summary": "MIT and Harvard scientists have designed an advanced type of immune cell called a CAR-NK cell that can destroy cancer while avoiding attack from the body’s own immune defenses.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030947.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "A Sweet Fix for Baldness? Stevia Compound Boosts Hair Growth",
+      "summary": "A surprising link between Alzheimer’s and cancer reveals that amyloid beta",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030951.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "A Hidden “backup Heater” That Helps Burn Fat and Boost Metabolism",
+      "summary": " a harmful protein in the brain",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/08/250824031540.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Common Medications May Secretly Rewire Your Gut for Years",
+      "summary": " actually empowers the immune system.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251005085625.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "New Pill Could Finally Control Stubborn High Blood Pressure",
+      "summary": "China’s Guangdong Province is battling its worst-ever chikungunya outbreak",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251005085623.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Scientists Reveal Green Tea’s Fat-Burning Secret",
+      "summary": " with thousands of infections spreading across major cities and nearby regions.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251005085618.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "The Hidden Denisovan Gene That Helped Humans Conquer a New World",
+      "summary": "Researchers discovered that stevioside",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251004092903.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Why Ultra-Processed Foods Aren’t the Real Villain Behind Overeating",
+      "summary": " a compound from the Stevia plant",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251004092858.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Would You Eat Yogurt Made With Ants? Scientists Did",
+      "summary": " enhances the skin absorption of minoxidil",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251003033915.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Brain Cancer That Eats the Skull Stuns Scientists",
+      "summary": " the main treatment for pattern baldness.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251002073959.htm",
+      "source": "ScienceDaily Health News"
+    },
+    {
+      "title": "Hidden Cellular “power Switch” Could Transform Parkinson’s Treatment",
+      "summary": "Scientists have uncovered a surprising new way the body can burn energy and stay warm.",
+      "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251003033913.htm",
+      "source": "ScienceDaily Health News"
+    }
+  ]
+}
