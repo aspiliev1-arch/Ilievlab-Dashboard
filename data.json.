@@ -1,0 +1,39 @@
+{
+  "digest_metadata": {
+    "generated_date": "",
+    "formatted_date": "",
+    "collection_sources": 13,
+    "processing_method": "AI-powered deduplication and ranking",
+    "total_input_articles": 331,
+    "duplicates_removed": 281,
+    "final_unique_articles": 50,
+    "top_50_articles": ,
+    "remaining_articles": ,
+    "top_research_categories": Immunology,Cancer Research,Neuroscience
+  },
+  "all_curated_articles": [
+    
+    {
+      "rank": ,
+      "title": "",
+      "summary": "",
+      "source_url": "",
+      "importance_score": ,
+      "research_category": "",
+      "priority_tier": "",
+      "is_top_50": truefalse
+    },
+    
+  ],
+  "research_insights": {
+    "high_impact_studies": "Articles with importance score ≥ 9",
+    "breakthrough_categories": ["Immunology", "Cancer Research", "Neuroscience"],
+    "clinical_significance": "Focus on FDA approvals, novel therapies, and diagnostic advances",
+    "article_structure": "First articles are highest priority, followed by additional research articles"
+  },
+  "usage_notes": {
+    "top_50_filter": "Filter by priority_tier === 'top_50' or is_top_50 === true for highest impact articles",
+    "all_articles": "Complete list includes all unique research articles, ranked by importance",
+    "categories": "Filter by research_category for domain-specific articles"
+  }
+}
