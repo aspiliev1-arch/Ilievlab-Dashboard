@@ -166,7 +166,7 @@
     fetch(jsonFile)
       .then(r => r.json())
       .then(data => {
-        fullData = Array.isArray(data) ? data : (data.articles || []);
+        fullData = data.unique_articles || data.articles || (Array.isArray(data) ? data : []);
         render(fullData);
       })
       .catch(err => {
@@ -177,6 +177,7 @@
 
 </body>
 </html>
+
 
 
 
