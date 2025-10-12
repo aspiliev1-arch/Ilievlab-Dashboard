@@ -97,7 +97,7 @@
   <div id="news-container">Loading…</div>
 
   <script>
-    const jsonFile = "https://raw.githubusercontent.com/aspiliev1-arch/Ilievlab-Dashboard/main/data.json"; // replace with your actual repo URL
+    const jsonFile = "https://raw.githubusercontent.com/aspiliev1-arch/Ilievlab-Dashboard/main/data.json";
 
     let fullData = [];
 
@@ -166,7 +166,18 @@
     fetch(jsonFile)
       .then(r => r.json())
       .then(data => {
-        fullData = data.unique_articles || data.articles || (Array.isArray(data) ? data : []);
+        if (Array.isArray(data)) {
+          fullData = data;
+        } else if (data.validated_articles) {
+          fullData = data.validated_articles;
+        } else if (data.unique_articles) {
+          fullData = data.unique_articles;
+        } else if (data.articles) {
+          fullData = data.articles;
+        } else {
+          throw new Error("Unrecognized JSON structure");
+        }
+
         render(fullData);
       })
       .catch(err => {
@@ -177,9 +188,4 @@
 
 </body>
 </html>
-
-
-
-
-
 
