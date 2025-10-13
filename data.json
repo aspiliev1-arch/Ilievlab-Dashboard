@@ -2,54 +2,89 @@
 {
   "validated_articles": [
     {
-      "title": "Cells Linked to Depression are Discovered",
-      "summary": "Depression is thought to affect over 250 million people around the world. It is a condition that is difficult to treat",
-      "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29696/cells-linked-depression-discovered"
+      "title": "Acetaminophen Under the Microscope: Evidence from Peer-Reviewed Studies",
+      "summary": "Acetaminophen is a common pain and fever reliever medication used for many ailments, including headaches, muscle aches...",
+      "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29668/acetaminophen-microscope-evidence-peer-reviewed-studies-2"
     },
     {
-      "title": "Study Shows Pupil Size Is Not a Reliable Indicator of Acute Cannabis Exposure",
-      "summary": "A study published in the Clinical Toxicology examined ocular measures as evidence of cannabis-induced impairment",
-      "hyperlink": "https://www.labroots.com/trending/health-and-medicine/29694/study-pupil-size-reliable-indicator-acute-cannabis-exposure-2"
-    },
-    {
-      "title": "40% Fatal Vehicle Crashes Test Positive for THC",
-      "summary": "Over 40% of drivers who died in motor vehicle collisions tested positive for delta-9-tetrahydrocannabinol (THC) in Ohio's",
-      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29691/40-fatal-vehicle-crashes-test-positive-thc-2"
-    },
-    {
-      "title": "New Pill May Control High Blood Pressure",
-      "summary": "A new medication may help patients who have high blood pressure and kidney disease",
-      "hyperlink": "https://www.labroots.com/trending/cardiology/29690/pill-control-blood-pressure-2"
-    },
-    {
-      "title": "Ultra-processed Foods May Not Drive Overeating",
-      "summary": "Your perception of foods may matter as much as their nutritional content in determining whether you'll overeat",
-      "hyperlink": "https://www.labroots.com/trending/cardiology/29689/ultra-processed-foods-drive-overeating-2"
-    },
-    {
-      "title": "New Cannabis Compound Shows Potent Skin Benefits",
-      "summary": "How can cannabis compounds be used to improve skin health?",
-      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29687/cannabis-compound-potent-skin-benefits-2"
-    },
-    {
-      "title": "Novel Antibody Neutralizes a Wide Range of HIV Variants",
-      "summary": "Human immunodeficiency virus (HIV) is a viral infection that attacks our immune systems",
-      "hyperlink": "https://www.labroots.com/trending/immunology/29686/novel-antibody-neutralizes-wide-range-hiv-variants"
-    },
-    {
-      "title": "Why do Some Medical Cannabis Patients Use Illegal Products?",
-      "summary": "While medical cannabis can now be legally accessed by patients through designated pharmacies, some still choose to use i ... ",
-      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29661/medical-cannabis-patients-illegal-products-2"
-    },
-    {
-      "title": "Anthony Letai, MD, PhD is Appointed as Director of the National Cancer Institute",
-      "summary": "Anthony Letai, MD, PhD has been appointed as the new director of the National Cancer Institute.",
+      "title": "Anthony Letai, MD, PhD, Appointed Director of National Cancer Institute",
+      "summary": "Dr. Anthony Letai has been appointed as the new director of the National Cancer Institute.",
       "hyperlink": "https://www.labroots.com/trending/nocat/29652/anthony-letai-md-phd-appointed-director-national-cancer-institute"
     },
     {
+      "title": "Bacteria Boost Chemotherapy Effectiveness",
+      "summary": "The microbiome encompasses all the microorganisms and viruses that reside in a particular environment in the body.",
+      "hyperlink": "https://www.labroots.com/trending/cancer/29642/bacteria-boost-chemotherapy-effectiveness"
+    },
+    {
       "title": "Can Chewing Gum Diagnose or Prevent Viral Illness?",
-      "summary": "Researchers explore the potential of chewing gum to diagnose or prevent viral illnesses.",
+      "summary": "Researchers explore the potential of chewing gum in diagnosing and preventing viral illnesses.",
       "hyperlink": "https://www.labroots.com/trending/nocat/29671/chewing-gum-diagnose-prevent-viral-illness"
+    },
+    {
+      "title": "CBD Shows Promise in Treating Skin Cancers and Pigmentation Disorders",
+      "summary": "A new study suggests that CBD may be effective in treating skin cancers and pigmentation disorders.",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29571/cbd-promise-skin-cancers-pigmentation-disorders-2"
+    },
+    {
+      "title": "Combination Therapy Overcomes Glioblastoma Resistance",
+      "summary": "Glioblastoma is the most common and aggressive form of brain cancer in adults. There are about 12,000 new cases diagnosed every year in the United States.",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29632/combination-therapy-overcomes-glioblastoma-resistance"
+    },
+    {
+      "title": "Electric Fields and Fluoxetine Delivery Accelerate Healing",
+      "summary": "How can machine learning be used to treat and heal wounds? This is what a recent study published in npj Biomedical Engineering explored.",
+      "hyperlink": "https://www.labroots.com/trending/technology/29631/electric-fields-fluoxetine-delivery-accelerate-healing-2"
+    },
+    {
+      "title": "FDA Approves Injectable Immunotherapy Drug",
+      "summary": "Cancer immunotherapies, anti-cancer treatments that target a patient’s own immune system, working to make it more effective at fighting cancer.",
+      "hyperlink": "https://www.labroots.com/trending/cancer/29636/fda-approves-injectable-immunotherapy-drug"
+    },
+    {
+      "title": "Immune Aging May Drive Arthritis",
+      "summary": "Rheumatoid arthritis is an autoimmune disorder that causes inflammation, swelling and pain in joints.",
+      "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29638/immune-aging-drive-arthritis"
+    },
+    {
+      "title": "Lymph Nodes Facilitate Cancer-Killing Immune Cells",
+      "summary": "Lymph nodes play a pivotal role in immunity, including anti-tumor responses. A new study reveals how lymph nodes facilitate cancer-killing immune cells.",
+      "hyperlink": "https://www.labroots.com/trending/cancer/29666/lymph-nodes-facilitate-cancer-killing-immune-cells"
+    },
+    {
+      "title": "New Cannabis Compound Shows Potent Skin Benefits",
+      "summary": "How can cannabis compounds be used to improve skin health? This is what a recent study published in the Journal of Natural Products hopes to address.",
+      "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29687/cannabis-compound-potent-skin-benefits-2"
+    },
+    {
+      "title": "New Huntington's Disease Therapy Slows Patients' Disease by 75%",
+      "summary": "Huntington's disease is a fatal genetic disorder, but new work could help change that...",
+      "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29629/huntington-s-disease-therapy-slows-patients-disease-75"
+    },
+    {
+      "title": "Novel Antibody Neutralizes a Wide Range of HIV Variants",
+      "summary": "Human immunodeficiency virus (HIV) is a viral infection that attacks our immune systems. Infection enters the body by coming into contact with bodily fluids that contain the virus, such as blood, semen, and vaginal fluids.",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29686/novel-antibody-neutralizes-wide-range-hiv-variants"
+    },
+    {
+      "title": "Poor Sleep Linked to Faster Brain Aging",
+      "summary": "Poor sleep may speed up brain aging, found a new study published in eBioMedicine.",
+      "hyperlink": "https://www.labroots.com/trending/neuroscience/29673/poor-sleep-linked-faster-brain-aging-2"
+    },
+    {
+      "title": "Researchers Reveal Autoimmune Response in Patients with ALS",
+      "summary": "Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig’s disease, is a neurodegenerative disease that affects the nerve cells responsible for controlling voluntary muscle movement.",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29655/researchers-reveal-autoimmune-response-patients-als"
+    },
+    {
+      "title": "Scientists Reveal Nanoplastics Dysregulate Brain Cells",
+      "summary": "Researchers have found that nanoplastics can dysregulate brain cells, leading to potential health risks.",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29601/scientists-reveal-nanoplastics-dysregulate-brain-cells"
+    },
+    {
+      "title": "Three Immunologists Awarded the Nobel Prize in Physiology or Medicine for Breakthrough in Peripheral Immune Tolerance",
+      "summary": "The Nobel Prize in Physiology or Medicine is the highest honor bestowed on a scientist concerning their research. The main purpose of the Nobel Prize is to recognize scientists who make significant contributions to their field.",
+      "hyperlink": "https://www.labroots.com/trending/immunology/29685/immunologists-awarded-nobel-prize-physiology-medicine-breakthrough-peripheral-immune-tolerance"
     }
   ]
 }
