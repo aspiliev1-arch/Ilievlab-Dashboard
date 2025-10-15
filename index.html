@@ -81,6 +81,11 @@
       font-size: 13px;
       color: var(--meta);
     }
+
+    .date {
+      color: var(--meta);
+      font-style: italic;
+    }
   </style>
 </head>
 <body>
@@ -98,8 +103,22 @@
 
   <script>
     const jsonFile = "./data.json";
-
     let fullData = [];
+
+    const formatDate = (raw) => {
+      if (!raw) return "";
+      try {
+        const parts = raw.replace(/[^0-9\-]/g, "").split("-");
+        if (parts.length === 3) {
+          const [d, m, y] = parts;
+          const date = new Date(`${y}-${m}-${d}`);
+          return date.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" });
+        }
+        return raw;
+      } catch {
+        return raw;
+      }
+    };
 
     const render = (items) => {
       const container = document.getElementById("news-container");
@@ -132,8 +151,9 @@
 
         const host = item.hyperlink ? new URL(item.hyperlink).hostname : "No link";
         const dup = typeof item.duplicate_count === "number" ? `Duplicate Count: ${item.duplicate_count}` : "";
+        const date = item.date ? `<span class="date">${formatDate(item.date)}</span>` : "";
 
-        meta.innerHTML = `${host} &nbsp;|&nbsp; ${dup}`;
+        meta.innerHTML = [host, date, dup].filter(Boolean).join(" &nbsp;|&nbsp; ");
 
         div.appendChild(titleDiv);
         div.appendChild(summary);
@@ -148,7 +168,7 @@
       if (!q) return render(fullData);
 
       const filtered = fullData.filter(item => {
-        const haystack = [item.title, item.summary, item.hyperlink]
+        const haystack = [item.title, item.summary, item.hyperlink, item.date]
           .join(" ")
           .toLowerCase();
         return haystack.includes(q);
@@ -188,8 +208,3 @@
 
 </body>
 </html>
-
-
-
-
-
