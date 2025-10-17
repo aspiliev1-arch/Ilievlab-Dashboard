@@ -1,38 +1,230 @@
 [
   {
-    "title": "This experimental 'super vaccine' stopped cancer cold in the lab",
+    "title": "This common liver supplement could boost cancer treatment success",
+    "summary": "Salk Institute scientists discovered that bile acids in the liver can weaken immune cell function, making immunotherapy less effective against liver cancer.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251017081515.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "They found the switch that makes the body attack cancer",
+    "summary": "Scientists have found a way to transform hard-to-treat tumors into targets for the immune system.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251015230959.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "A giant asteroid hit Earth, but its crater is missing",
+    "summary": "Researchers discovered a new field of ancient tektites in South Australia, revealing a long-forgotten asteroid impact.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251015230957.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "This type of meat supercharges muscle growth after workouts",
+    "summary": "Scientists discovered that lean pork builds muscle more effectively post-workout than high-fat pork, even with identical protein levels.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251015032318.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "A little stress could be the secret to healthy aging",
+    "summary": "Scientists discovered that specific nutrients in nematodes' diets activate stress defenses that keep their cells healthier over time.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251015032314.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Scientists grow mini human livers that predict toxic drug reactions",
+    "summary": "A new human liver organoid microarray developed by Cincinnati Children’s and Roche recreates immune-driven liver injury in the lab.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251015032259.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "This European treatment for joint pain just passed a major scientific test",
+    "summary": "Korean researchers found that low-dose radiation therapy eased knee pain and improved movement in people with mild to moderate osteoarthritis.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251015032316.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "From poison to power: How lead exposure helped shape human intelligence",
+    "summary": "Scientists studying ancient teeth found that early humans, great apes, and even Neanderthals were exposed to lead millions of years ago. Long before humans built cities or wrote words, our ancestors may have faced a hidden threat that shaped who we became.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251015230952.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Tiny brain nanotubes found by Johns Hopkins may spread Alzheimer’s",
+    "summary": "Johns Hopkins scientists uncovered microscopic “nanotube” channels that neurons use to transfer toxic molecules. While this process clears waste, it can also spread harmful proteins like amyloid-beta.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251015230939.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Exercise might be the key to a younger, sharper immune system",
+    "summary": "Endurance exercise may train the immune system as much as the muscles.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251014014421.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Scientists find the brain’s hidden pulse that may predict Alzheimer’s",
+    "summary": "Researchers at USC have created the first method to noninvasively measure microscopic blood vessel pulses in the human brain. Using advanced 7T MRI, they found these tiny pulsations grow stronger with age and vascular risk, disrupting the brain’s waste-clearing systems.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251014014418.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Supercharged vitamin k could help the brain heal itself",
+    "summary": "Researchers have synthesized enhanced vitamin K analogues that outperform natural vitamin K in promoting neuron growth. The new compounds, which combine vitamin K with retinoic acid, activate the mGluR1 receptor to drive neurogenesis.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251014014312.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "A single protein could stop sudden death after heart attacks",
+    "summary": "A team at Massachusetts General Hospital uncovered that an immune defense protein, Resistin-like molecule gamma, attacks heart cells after a heart attack—literally punching holes in them.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251013040341.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Popular hair-loss pill linked to depression and suicide",
+    "summary": "Finasteride, a common hair-loss drug, has long been tied to depression and suicide, but regulators ignored the warnings.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251013040343.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "C-section births linked to sleepless nights and painful recoveries",
+    "summary": "Women who undergo C-sections are more likely to experience debilitating pain and sleep disorders in the months after giving birth.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251013040331.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Scientists build artificial neurons that work like real ones",
+    "summary": "UMass Amherst engineers have built an artificial neuron powered by bacterial protein nanowires that functions like a real one, but at extremely low voltage. This allows for seamless communication with biological cells and drastically improved energy efficiency.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251013040335.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "This new blood test can catch cancer 10 years early",
+    "summary": "Scientists at Mass General Brigham have created HPV-DeepSeek, a blood test that can detect HPV-linked head and neck cancers nearly a decade before diagnosis.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251013040337.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Your skin could warn of hidden mental health trouble",
+    "summary": "People experiencing their first psychotic episode who also have skin conditions such as rashes or itching are at greater risk of depression and suicidal thoughts.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251013040328.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "This experimental “super vaccine” stopped cancer cold in the lab",
     "summary": "UMass Amherst researchers have developed a groundbreaking nanoparticle-based cancer vaccine that prevented melanoma, pancreatic, and triple-negative breast cancers in mice—with up to 88% remaining tumor-free.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251013040323.htm",
-    "date": "Mon, 13 Oct 2025 04:03:23 EDT"
+    "date": "25-10-2025"
   },
   {
-    "title": "Thousands fall ill as mosquito fever explodes across southern China",
-    "summary": "China’s Guangdong Province is battling its worst-ever chikungunya outbreak, with thousands of infections spreading across major cities and nearby regions.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251009033244.htm",
-    "date": "Fri, 10 Oct 2025 09:05:26 EDT"
+    "title": "Fentanyl overdoses among seniors surge 9,000% — A hidden crisis few saw coming",
+    "summary": "Overdose deaths from fentanyl mixed with stimulants have skyrocketed among seniors, increasing 9,000% in just eight years.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251012054606.htm",
+    "date": "25-10-2025"
   },
   {
-    "title": "Scientists finally reveal what's behind long COVID's mysterious brain fog",
-    "summary": "Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251006051127.htm",
-    "date": "Tue, 07 Oct 2025 02:46:31 EDT"
+    "title": "Scientists found a smarter Mediterranean diet that cuts diabetes risk by 31%",
+    "summary": "Spanish researchers found that combining a calorie-reduced Mediterranean diet with exercise and professional support cut type 2 diabetes risk by 31%.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251012054621.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "New research reveals how ADHD sparks extraordinary creativity",
+    "summary": "Researchers have discovered that ADHD’s hallmark mind wandering might actually boost creativity.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251012054608.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Your type of depression could shape your body’s future health",
+    "summary": "Different types of depression affect the body in different ways.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251012054604.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Keto diet shields young minds from early-life trauma",
+    "summary": "Young rats given a ketogenic diet were largely protected from the mental and behavioral issues caused by prenatal stress.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251012054601.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Scientists unlock nature’s secret to a cancer-fighting molecule",
+    "summary": "Researchers have cracked the code behind how plants make mitraphylline, a rare cancer-fighting molecule.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251009033206.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Scientists discover brain circuit that can switch off chronic pain",
+    "summary": "Scientists have pinpointed Y1 receptor neurons in the brain that can override chronic pain signals when survival instincts like hunger or fear take precedence. Acting like a neural switchboard, these cells balance pain with other biological needs.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251009033126.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Common medications may secretly rewire your gut for years",
+    "summary": "Drugs taken years—even decades—ago can leave lasting imprints on the gut microbiome, reshaping the community of microbes long after treatment stops.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030953.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Scientists reveal green tea’s fat-burning secret",
+    "summary": "New research shows green tea may help the body burn fat and balance blood sugar.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030951.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Scientists just found a molecule that could stop Parkinson’s in its tracks",
+    "summary": "Researchers have designed a peptide that prevents the deadly misfolding of alpha-synuclein, the protein behind Parkinson’s and some dementias. In lab and animal tests, it stabilized the protein and improved motor function. The work demonstrates the power of rational drug design in tackling brain diseases that have long lacked effective treatments.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030949.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "New pill could finally control stubborn high blood pressure",
+    "summary": "A new pill called baxdrostat may offer hope for people whose blood pressure stays high even after taking standard medications.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030947.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Bacteria hidden inside tumors could help beat cancer",
+    "summary": "Scientists have discovered that bacteria living inside tumors can produce a molecule that fights cancer and enhances chemotherapy.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251007081835.htm",
+    "date": "25-10-2025"
   },
   {
     "title": "Nanotech transforms vinegar into a lifesaving superbug killer",
     "summary": "Researchers have enhanced vinegar’s antibacterial properties by infusing it with cobalt-based carbon nanoparticles.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251006051122.htm",
-    "date": "Mon, 06 Oct 2025 05:11:22 EDT"
+    "date": "25-10-2025"
   },
   {
-    "title": "A flu test you can chew",
-    "summary": "Flu detection could soon be as simple as chewing gum.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251002074011.htm",
-    "date": "Fri, 03 Oct 2025 04:37:56 EDT"
+    "title": "Scientists finally reveal what’s behind long COVID’s mysterious brain fog",
+    "summary": "Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging. They discovered widespread increases in AMPA receptor density linked to cognitive impairment and inflammation. The findings confirm brain fog as a measurable, biological condition and reveal new targets for treatment. This could open the door to effective diagnostics and therapies.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251006051127.htm",
+    "date": "25-10-2025"
   },
   {
-    "title": "Millions could be living with hidden smell loss after COVID without knowing",
-    "summary": "A massive NIH-backed study reveals that COVID-19’s toll on smell may be more widespread and lasting than most realize.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251002074007.htm",
-    "date": "Fri, 03 Oct 2025 02:48:20 EDT"
+    "title": "Scientists find brain circuit that traps alcohol users in the vicious cycle of addiction",
+    "summary": "Addiction often isn’t about chasing pleasure—it’s about escaping pain. Researchers at Scripps Research have discovered that a tiny brain region called the paraventricular nucleus of the thalamus (PVT) becomes hyperactive when animals learn that alcohol eases the agony of withdrawal. This circuit helps explain why people relapse: their brains learn that alcohol brings relief from stress and anxiety.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251006051124.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Brain cancer that eats the skull stuns scientists",
+    "summary": "A new study shows glioblastoma isn’t confined to the brain—it erodes the skull and hijacks the immune system within skull marrow. The cancer opens channels that let inflammatory cells enter the brain, fueling its deadly progression. Even drugs meant to protect bones can make things worse, highlighting the need for therapies that target both brain and bone. The discovery reframes glioblastoma as a whole-body disease, not just a brain disorder.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251005085618.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "Doctors stunned by a cheap drug’s power against colon cancer",
+    "summary": "A Scandinavian clinical trial has revealed that low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251003033921.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "A single dose of psilocybin may rewire the brain for lasting relief",
+    "summary": "Penn researchers found that psilocybin can calm brain circuits tied to pain and mood, easing both physical suffering and emotional distress in animal studies. The compound works in the anterior cingulate cortex, bypassing injury sites and offering a dual benefit for pain and depression. Unlike opioids, psilocybin is non-addictive and may provide relief lasting weeks.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251002073959.htm",
+    "date": "25-10-2025"
+  },
+  {
+    "title": "A common supplement could supercharge cancer treatments",
+    "summary": "Zeaxanthin, best known for eye health, has been found to boost the tumor-killing power of T cells.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251001092214.htm",
+    "date": "25-10-2025"
   }
 ]
