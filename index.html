@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Medical News Viewer</title>
 <style>
   body {
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -28,7 +33,7 @@
     color: #007bff;
   }
 
-  /* ✅ Change color once visited */
+  /* ✅ Visited link color */
   .title a:visited {
     color: #7a4ec2;
   }
@@ -49,67 +54,87 @@
     font-style: italic;
   }
 </style>
+</head>
+<body>
+  <h2>Medical News Viewer</h2>
+  <div id="news-container">Loading...</div>
 
-<script>
-const jsonFile = "./data.json";
-let fullData = [];
+  <script>
+  const jsonFile = "./data.json";
+  let fullData = [];
 
-/* ✅ Date formatting: "DD-MM-YYYY" → localized short form */
-const formatDate = (raw) => {
-  if (!raw) return "";
-  try {
-    const parts = raw.replace(/[^0-9\-]/g, "").split("-");
-    if (parts.length === 3) {
-      const [d, m, y] = parts;
-      const date = new Date(`${y}-${m}-${d}`);
-      return date.toLocaleDateString("en-GB", {
-        day: "2-digit",
-        month: "short",
-        year: "numeric"
-      });
+  const formatDate = (raw) => {
+    if (!raw) return "";
+    try {
+      const parts = raw.replace(/[^0-9\-]/g, "").split("-");
+      if (parts.length === 3) {
+        const [d, m, y] = parts;
+        const date = new Date(`${y}-${m}-${d}`);
+        return date.toLocaleDateString("en-GB", {
+          day: "2-digit",
+          month: "short",
+          year: "numeric"
+        });
+      }
+      return raw;
+    } catch {
+      return raw;
     }
-    return raw;
-  } catch {
-    return raw;
-  }
-};
+  };
 
-const render = (items) => {
-  const container = document.getElementById("news-container");
-  container.innerHTML = "";
+  const render = (items) => {
+    const container = document.getElementById("news-container");
+    container.innerHTML = "";
 
-  items.forEach((item) => {
-    const div = document.createElement("div");
-    div.className = "news-item";
+    if (!items || !items.length) {
+      container.innerHTML = "<p>No data available.</p>";
+      return;
+    }
 
-    const titleDiv = document.createElement("div");
-    titleDiv.className = "title";
-    titleDiv.innerHTML = item.hyperlink
-      ? `<a href="${item.hyperlink}" target="_blank">${item.title}</a>`
-      : `<span>${item.title}</span>`;
+    items.forEach((item) => {
+      const div = document.createElement("div");
+      div.className = "news-item";
 
-    const summary = document.createElement("div");
-    summary.className = "summary";
-    summary.textContent = item.summary || "No summary available.";
+      const titleDiv = document.createElement("div");
+      titleDiv.className = "title";
+      titleDiv.innerHTML = item.hyperlink
+        ? `<a href="${item.hyperlink}" target="_blank">${item.title}</a>`
+        : `<span>${item.title}</span>`;
 
-    const meta = document.createElement("div");
-    meta.className = "meta";
-    const host = item.hyperlink ? new URL(item.hyperlink).hostname : "No link";
-    const date = item.date
-      ? `<span class="date">${formatDate(item.date)}</span>`
-      : "";
-    const dup =
-      typeof item.duplicate_count === "number"
+      const summary = document.createElement("div");
+      summary.className = "summary";
+      summary.textContent = item.summary || "No summary available.";
+
+      const meta = document.createElement("div");
+      meta.className = "meta";
+      const host = item.hyperlink ? new URL(item.hyperlink).hostname : "No link";
+      const date = item.date ? `<span class="date">${formatDate(item.date)}</span>` : "";
+      const dup = typeof item.duplicate_count === "number"
         ? `Duplicate Count: ${item.duplicate_count}`
         : "";
 
-    meta.innerHTML = [host, date, dup].filter(Boolean).join(" &nbsp;|&nbsp; ");
+      meta.innerHTML = [host, date, dup].filter(Boolean).join(" &nbsp;|&nbsp; ");
 
-    div.appendChild(titleDiv);
-    div.appendChild(summary);
-    div.appendChild(meta);
+      div.appendChild(titleDiv);
+      div.appendChild(summary);
+      div.appendChild(meta);
 
-    container.appendChild(div);
-  });
-};
-</script>
+      container.appendChild(div);
+    });
+  };
+
+  // ✅ Load JSON file dynamically
+  fetch(jsonFile)
+    .then((res) => res.json())
+    .then((data) => {
+      fullData = data;
+      render(fullData);
+    })
+    .catch((err) => {
+      console.error("Error loading JSON:", err);
+      document.getElementById("news-container").innerHTML =
+        "<p>⚠️ Could not load data.json</p>";
+    });
+  </script>
+</body>
+</html>
