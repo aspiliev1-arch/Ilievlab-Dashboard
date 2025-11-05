@@ -64,24 +64,36 @@
   let fullData = [];
 
   const formatDate = (raw) => {
-    if (!raw) return "";
-    try {
-      const parts = raw.replace(/[^0-9\-]/g, "").split("-");
-      if (parts.length === 3) {
-        const [d, m, y] = parts;
-        const date = new Date(`${y}-${m}-${d}`);
-        return date.toLocaleDateString("en-GB", {
-          day: "2-digit",
-          month: "short",
-          year: "numeric"
-        });
-      }
-      return raw;
-    } catch {
-      return raw;
-    }
-  };
+  if (!raw) return "";
+  // Nur Ziffern/Trenner behalten, Whitespace trimmen
+  const cleaned = String(raw).trim().replace(/[^\d./-]/g, "");
 
+  // Erlaubte Trenner: -, /, .
+  const m = cleaned.match(/^(\d{1,2})[./-](\d{1,2})[./-](\d{4})$/);
+  if (!m) return raw; // unbekanntes Format: roh anzeigen
+
+  let d = parseInt(m[1], 10);
+  let mo = parseInt(m[2], 10);
+  const y = parseInt(m[3], 10);
+
+  // Heuristik: falls einer >12, Format eindeutig
+  // Standardvorgabe: DD-MM-YYYY (dein neues Format)
+  if (d <= 12 && mo > 12) {
+    // war MM-DD-YYYY → tauschen
+    const tmp = d; d = mo; mo = tmp;
+  }
+  // Monat in 0-basiert für Date
+  mo = mo - 1;
+
+  // Ungültige Daten abfangen
+  if (mo < 0 || mo > 11 || d < 1 || d > 31) return raw;
+
+  // UTC nutzen, um Tages-Off-by-One zu vermeiden
+  const dt = new Date(Date.UTC(y, mo, d));
+  // „04 Oct 2025“ in en-GB
+  return dt.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric", timeZone: "UTC" });
+};
+    
   const render = (items) => {
     const container = document.getElementById("news-container");
     container.innerHTML = "";
@@ -138,3 +150,4 @@
   </script>
 </body>
 </html>
+
