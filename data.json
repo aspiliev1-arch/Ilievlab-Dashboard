@@ -1,86 +1,290 @@
 [
   {
+    "title": "A Guide to Single-Cell Sequencing",
+    "summary": "Single-cell sequencing is a valuable tool for analyzing complex cellular populations, enabling high-resolution views of ...",
+    "hyperlink": "https://www.labroots.com/trending/ebooks/29803/guide-single-cell-sequencing",
+    "date": "2025-12-11"
+  },
+  {
+    "title": "Scientists tie lupus to a virus nearly all of us carry",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-scientists-lupus-virus.html",
+    "date": "2025-12-11"
+  },
+  {
     "title": "Scientists Link Novel Cell Types to Multiple Sclerosis",
     "summary": "Multiple sclerosis (MS) is an autoimmune condition in which the protective insulation surrounding ...",
     "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29697/scientists-link-novel-cell-types-multiple-sclerosis",
     "date": "2025-12-10"
   },
   {
-    "title": "Parents struggle with emotions, leading to higher burnout",
-    "summary": "A new study has found that parents are struggling with emotions, leading to higher burnout rates.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-parents-struggle-emotions-higher-burnout.html",
+    "title": "Discovery of key to joint regeneration could help regrow lost limbs",
+    "summary": "Researchers at Texas A&M University have uncovered a key element of joint cartilage regrowth, which brings them one step closer to regrowing human limbs.",
+    "hyperlink": "https://medicalxpress.com/news/2025-11-discovery-key-joint-regeneration-regrow.html",
+    "date": "2025-11-18"
+  },
+  {
+    "title": "Researchers uncover the secrets of 'cell cannibalism' in oral cancer",
+    "summary": "Researchers from the University of Sheffield, working in collaboration with Fiocruz-Bahia in Brazil, are shedding new light on a mysterious process known as tumor cell cannibalism, where one cancer cell engulfs another in ...",
+    "hyperlink": "https://medicalxpress.com/news/2025-11-uncover-secrets-cell-cannibalism-oral.html",
+    "date": "2025-11-18"
+  },
+  {
+    "title": "Very low LDL-cholesterol correlates to fewer heart problems after stroke",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-ldl-cholesterol-heart-problems.html",
+    "date": "2025-11-18"
+  },
+  {
+    "title": "Cellular protein FGD3 boosts breast cancer chemotherapy and immunotherapy, study finds",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-cellular-protein-fgd3-boosts-breast.html",
+    "date": "2025-11-18"
+  },
+  {
+    "title": "Wearable ultrasound sensor delivers noninvasive treatment with adjustable, body-conforming design",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-wearable-ultrasound-sensor-noninvasive-treatment.html",
+    "date": "2025-11-18"
+  },
+  {
+    "title": "High blood pressure in children nearly doubled from 2000–2020, global study finds",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-high-blood-pressure-children-global.html",
+    "date": "2025-11-18"
+  },
+  {
+    "title": "Extending anti-clotting treatment linked to lower rates of new clots",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-anti-clotting-treatment-linked-clots.html",
+    "date": "2025-11-18"
+  },
+  {
+    "title": "Common gout drug may reduce risk of heart attack and stroke",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-common-gout-drug-heart.html",
+    "date": "2025-11-18"
+  },
+  {
+    "title": "LSD microdosing reduces depression scores without major side effects, clinical trial finds",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-lsd-microdosing-depression-scores-major.html",
+    "date": "2025-11-17"
+  },
+  {
+    "title": "Symptom-free H5N1 infection in humans: Evidence remains scarce",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-symptom-free-h5n1-infection-humans.html",
+    "date": "2025-11-17"
+  },
+  {
+    "title": "Early-life ketone signaling may shape long-term metabolic health",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-early-life-ketone-term-metabolic.html",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Speaking more languages might keep you younger, study suggests",
+    "summary": null,
+    "hyperlink": "https://medicalxpress.com/news/2025-11-languages-younger.html",
+    "date": "2025-11-14"
+  },
+  {
+    "title": "Cheap gout drug may slash heart attack and stroke risk",
+    "summary": "Colchicine, a cheap and widely used gout drug, may help prevent heart attacks and strokes in people with cardiovascular disease.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251112220234.htm",
+    "date": "2025-11-13"
+  },
+  {
+    "title": "Smart drug strikes a hidden RNA weak point in cancer cells",
+    "summary": "Researchers have designed a smart drug that hunts down and breaks a little-known RNA that cancer cells depend on.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251112111033.htm",
+    "date": "2025-11-13"
+  },
+  {
+    "title": "Strange microscopic structures found in Long COVID blood",
+    "summary": "Scientists have discovered strange microscopic structures in the blood of people with Long COVID—clusters of tiny microclots tangled together with sticky immune webs known as neutrophil extracellular traps, or NETs.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251112111021.htm",
+    "date": "2025-11-13"
+  },
+  {
+    "title": "Scientists find 15 gut bacteria that may drive heart disease",
+    "summary": "Scientists in Seoul have uncovered 15 gut bacterial species linked to coronary artery disease, showing that microbes can influence heart health far beyond digestion.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251112011818.htm",
+    "date": "2025-11-12"
+  },
+  {
+    "title": "What brain scans reveal about soccer fans’ passion and rage",
+    "summary": "Researchers scanning soccer fans’ brains found that wins trigger bursts of reward activity while losses dampen control signals.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251111233952.htm",
+    "date": "2025-11-12"
+  },
+  {
+    "title": "Hidden household toxin triples liver disease risk, study finds",
+    "summary": "Scientists have uncovered a new environmental culprit behind liver disease: tetrachloroethylene (PCE), a chemical used in dry cleaning and household products.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251112011835.htm",
+    "date": "2025-11-12"
+  },
+  {
+    "title": "New study finds Ozempic and Mounjaro protect the heart too",
+    "summary": "New research from the Technical University of Munich and Harvard Medical School reveals that popular GLP-1-based drugs, semaglutide (Ozempic) and tirzepatide (Mounjaro), not only promote weight loss but also significantly reduce the risk of heart attacks and strokes in patients with type 2 diabetes.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251112011814.htm",
+    "date": "2025-11-12"
+  },
+  {
+    "title": "Wegovy and Ozempic tied to dramatically lower cancer deaths",
+    "summary": "GLP-1 drugs such as Ozempic and Wegovy may extend the lives of colon cancer patients, according to a major UC San Diego study.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251112011810.htm",
+    "date": "2025-11-12"
+  },
+  {
+    "title": "COVID-19 Vaccine Linked to Fewer Allergies and Infections",
+    "summary": "A new study found that children who received the COVID-19 vaccine had lower rates of infections and allergies compared to those who did not.",
+    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29826/covid-19-vaccine-linked-fewer-allergies-infections-2",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "Tailored Vitamin D Doses Halve Risk of Second Heart Attack",
+    "summary": "Tailoring vitamin D3 doses according to patient needs following a heart attack reduces the risk of a second heart attack by half.",
+    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29825/tailored-vitamin-doses-halve-risk-heart-attack-2",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "The Early Life Gut Microbiome is Linked to Emotional Health",
+    "summary": "Scientists have now found that the composition of the gut microbiome during childhood can have an influence on whether a person will experience emotional health issues later in life.",
+    "hyperlink": "https://www.labroots.com/trending/microbiology/29819/life-gut-microbiome-linked-emotional-health",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "The Mechanism Behind a Common Virus is Revealed",
+    "summary": "Astroviruses may not be well known, but they are very common and are the leading cause of diarrhea in children...",
+    "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29818/mechanism-common-virus-revealed",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "A Veterans Day Reflection of Long-Term Cancer Risks for Veterans",
+    "summary": "Veterans Day falls on November 11 each year to honor the men and women who have served in the United States military.",
+    "hyperlink": "https://www.labroots.com/trending/cancer/29820/veterans-day-reflection-long-term-cancer-risks-veterans",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "Surprising blood stem cell diversification revealed in humans",
+    "summary": "Every second, millions of blood cells are produced in the human body, and about 90% of the cells replaced daily are blood cells. These include red blood cells essential for oxygen transport, platelets for blood clotting, ...",
+    "hyperlink": "https://medicalxpress.com/news/2025-11-blood-stem-cell-diversification-revealed.html",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "Unlocking key insights into gene expression using a novel mouse model",
+    "summary": "A newly developed mouse model enables real-time visualization of RNA Polymerase II (RNAP2) during DNA transcription, as reported by researchers from Science Tokyo. The team engineered mice to produce a fluorescent antibody ...",
+    "hyperlink": "https://medicalxpress.com/news/2025-11-key-insights-gene-mouse.html",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "Risk tools pinpoint patients most vulnerable to overdose or death after leaving hospital early",
+    "summary": "Risk prediction tools might help identify patients at the highest risk of overdose and death after a \"before medically advised\" (BMA) hospital discharge, according to new research in the Canadian Medical Association Journal.",
+    "hyperlink": "https://medicalxpress.com/news/2025-11-tools-patients-vulnerable-overdose-death.html",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "Tiny implant wipes out bladder cancer in 82% of patients",
+    "summary": "TAR-200, a small drug-releasing implant, wiped out tumors in most patients with high-risk bladder cancer.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251111010000.htm",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "Clearing brain plaques isn’t enough to heal Alzheimer’s",
+    "summary": "Japanese researchers found that lecanemab, an amyloid-clearing drug for Alzheimer’s, does not improve the brain’s waste clearance system in the short term.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251111005944.htm",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "The rarest element on Earth could revolutionize cancer treatment",
+    "summary": "Texas A&M scientists have unlocked new potential for astatine-211, a rare and short-lived element, as a highly precise cancer-fighting isotope.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251111010008.htm",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "Scientists turn body fat into bone to heal spinal fractures",
+    "summary": "Researchers in Osaka have found that stem cells from fat tissue can repair spinal fractures similar to those caused by osteoporosis. By turning these cells into bone-forming clusters and pairing them with a bone-rebuilding material, rats regained stronger, healthier spines.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251111005949.htm",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "Running on little sleep? You’re twice as likely to get hurt",
+    "summary": "Researchers found that runners who sleep poorly face nearly double the injury risk compared to those who rest well.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251111005945.htm",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "This 14th century story fooled the world about the Black Death",
+    "summary": "Historians have traced myths about the Black Death’s rapid journey across Asia to one 14th-century poem by Ibn al-Wardi.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251111005957.htm",
+    "date": "2025-11-11"
+  },
+  {
+    "title": "Peru’s Serpent Mountain sheds its mysterious past",
+    "summary": null,
+    "hyperlink": "https://www.sciencenews.org/article/peru-serpent-mountain-mystery-inca",
     "date": "2025-11-10"
   },
   {
-    "title": "Brain-computer interface decodes Mandarin neural activity",
-    "summary": "Researchers have developed a brain-computer interface that can decode Mandarin neural activity.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-brain-interface-decodes-mandarin-neural.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "Kids screened for high cholesterol due to genetic risk",
-    "summary": "Children are being screened for high cholesterol due to genetic risk factors.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-kids-screened-high-cholesterol-genes.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "Advice on coffee consumption and atrial fibrillation",
-    "summary": "New research has provided advice on coffee consumption and atrial fibrillation.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-advice-coffee-atrial-fibrillation.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "Protein linked to cancer may play key role in disease",
-    "summary": "Researchers have made a groundbreaking discovery about a protein linked to cancer.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-protein-linked-cancer-play-key.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "Stenting blocked arteries outperforms culprit-only procedure",
-    "summary": "A new study has found that stenting blocked arteries outperforms culprit-only procedures.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-stenting-blocked-arteries-outperforms-culprit.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "PCSK9 inhibitor lowers heart disease risk in high-risk patients",
-    "summary": "A new study has found that a PCSK9 inhibitor can lower heart disease risk in high-risk patients.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-pcsk9-inhibitor-lowers-heart-high.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "Toast ingredient BRD4 acidity regulates immune response",
-    "summary": "Researchers have discovered that the toast ingredient BRD4 acidity regulates immune response.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-toast-brd4-acidity-immune-response.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "Alzheimer's patients may benefit from new treatment approach",
-    "summary": "A new study has found that Alzheimer's patients may benefit from a new treatment approach.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-alzheimer-patients.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "Gut-brain axis restricts illness-provoking protein",
-    "summary": "A new study has found that the gut-brain axis restricts illness-provoking protein.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-gut-brain-restricts-illness-protein.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "Women and men with severe COVID-19 have different immune responses",
-    "summary": "Researchers have found that women and men with severe COVID-19 have different immune responses.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-women-men-severe-covid.html",
-    "date": "2025-11-10"
-  },
-  {
-    "title": "Colorectal cancer evades immunotherapy through dual mechanism",
-    "summary": "A new study has found that colorectal cancer can evade immunotherapy through a dual mechanism.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-colorectal-cancer-evades-immunotherapy-dual.html",
+    "title": "If another country tested nuclear weapons, here’s how we’d know",
+    "summary": null,
+    "hyperlink": "https://www.sciencenews.org/article/nuclear-weapons-test-monitoring",
     "date": "2025-11-10"
   },
   {
     "title": "New online tool can predict how well blood pressure drugs will work",
     "summary": "A new blood pressure calculator built on extensive clinical trial data helps doctors accurately estimate how much each medication will reduce blood pressure.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251109013248.htm",
+    "date": "2025-11-10"
+  },
+  {
+    "title": "AI unravels the hidden communication of gut microbes",
+    "summary": "Scientists have turned to advanced AI to decode the intricate ecosystem of gut bacteria and their chemical signals.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251109013246.htm",
+    "date": "2025-11-10"
+  },
+  {
+    "title": "Scientists find brain chemical tied to trauma and depression",
+    "summary": "Researchers identified SGK1 as a key chemical connecting childhood trauma to depression and suicidal behavior.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251110021114.htm",
+    "date": "2025-11-10"
+  },
+  {
+    "title": "Goodbye cavities? This new toothpaste made from hair can heal enamel",
+    "summary": "Scientists have found that keratin, the protein in hair and skin, can repair and protect tooth enamel.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251110021058.htm",
+    "date": "2025-11-10"
+  },
+  {
+    "title": "Hidden weakness makes prostate cancer self-destruct",
+    "summary": "Researchers have discovered that prostate cancer depends on two key enzymes, PDIA1 and PDIA5, to survive and resist therapy.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251110021056.htm",
+    "date": "2025-11-10"
+  },
+  {
+    "title": "New research finds no clear link between acetaminophen (Tylenol) and autism",
+    "summary": "A sweeping review of existing studies finds no solid evidence that using acetaminophen (Tylenol) during pregnancy increases the risk of autism or ADHD in children.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251110021050.htm",
+    "date": "2025-11-10"
+  },
+  {
+    "title": "Surprising heart study finds daily coffee may cut AFib risk by 39%",
+    "summary": "New research finds that daily coffee drinking may cut AFib risk by nearly 40%, defying decades of medical caution.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251110021046.htm",
+    "date": "2025-11-10"
+  },
+  {
+    "title": "Vitamin D3 breakthrough halves risk of second heart attack",
+    "summary": "Intermountain Health researchers discovered that customizing vitamin D3 doses for heart attack survivors slashed their risk of another heart attack by 50%.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251110021043.htm",
+    "date": "2025-11-10"
+  },
+  {
+    "title": "A hidden breathing problem may be behind chronic fatigue’s crushing exhaustion",
+    "summary": "Scientists have discovered that most chronic fatigue patients experience dysfunctional breathing, which may worsen their symptoms.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251110021041.htm",
     "date": "2025-11-10"
   },
   {
@@ -97,7 +301,7 @@
   },
   {
     "title": "A simple DNA test could reveal the right antidepressant for you",
-    "summary": "Scientists in Sweden, Denmark, and Germany are developing a genetic test to predict which medications will actually work.",
+    "summary": "Millions struggle with depression and anxiety, often enduring long waits for effective treatment. Scientists in Sweden, Denmark, and Germany are developing a genetic test to predict which medications will actually work.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251109013242.htm",
     "date": "2025-11-09"
   },
@@ -108,12 +312,6 @@
     "date": "2025-11-09"
   },
   {
-    "title": "Common antidepressant found to work in just two weeks",
-    "summary": "Sertraline (Zoloft) may relieve emotional symptoms of depression and anxiety within two weeks, while physical side effects stabilize later.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251108083910.htm",
-    "date": "2025-11-09"
-  },
-  {
     "title": "Stanford makes stem cell transplants safer without chemo",
     "summary": "A Stanford-led team has replaced toxic pre-transplant chemotherapy with a targeted antibody, allowing children with Fanconi anemia to receive stem cell transplants safely.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251107010324.htm",
@@ -121,7 +319,7 @@
   },
   {
     "title": "Scientists find brain cells that could stop Alzheimer’s",
-    "summary": "Researchers have identified special immune cells in the brain that help slow Alzheimer’s. These microglia work to reduce inflammation and block the spread of harmful proteins.",
+    "summary": "Researchers have identified special immune cells in the brain that help slow Alzheimer’s.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251108083902.htm",
     "date": "2025-11-08"
   },
@@ -132,38 +330,20 @@
     "date": "2025-11-08"
   },
   {
-    "title": "New laser treatment could stop blindness before it starts",
-    "summary": "Aalto University scientists have created a laser-based treatment that uses gentle heat to stop the progression of dry macular degeneration.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251108083906.htm",
-    "date": "2025-11-08"
-  },
-  {
-    "title": "Common pesticides may cause testicular damage and lower sperm counts",
-    "summary": "A decade-long review by George Mason University researchers reveals growing evidence that neonicotinoid insecticides—the world’s most widely used class of pesticides—may harm male reproductive health.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251108083900.htm",
-    "date": "2025-11-08"
-  },
-  {
     "title": "COVID vaccine linked to fewer infections and allergies in kids with eczema",
-    "summary": "New research suggests the COVID-19 vaccine could help children with eczema stay healthier overall. Vaccinated kids had lower rates of infections and allergies, including asthma and rhinitis, compared with unvaccinated peers.",
+    "summary": "New research suggests the COVID-19 vaccine could help children with eczema stay healthier overall.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251108012853.htm",
     "date": "2025-11-08"
   },
   {
-    "title": "A hidden cellular cleanup trick could reverse aging",
-    "summary": "Researchers found that the body’s natural recycling system, the lysosome, plays a vital role in removing the protein that drives premature aging.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251107010326.htm",
-    "date": "2025-11-08"
-  },
-  {
     "title": "A special shape shift helps a shrub thrive in blistering heat",
-    "summary": "A special shape shift helps a shrub thrive in blistering heat",
+    "summary": null,
     "hyperlink": "https://www.sciencenews.org/article/death-valley-shrub-survival-heat",
     "date": "2025-11-07"
   },
   {
     "title": "What causes the rainbow shimmer of ammolite gems?",
-    "summary": "What causes the rainbow shimmer of ammolite gems?",
+    "summary": null,
     "hyperlink": "https://www.sciencenews.org/article/rainbow-shimmer-ammolite-gems-crystals",
     "date": "2025-11-07"
   },
@@ -180,25 +360,7 @@
     "date": "2025-11-07"
   },
   {
-    "title": "The hidden “Big Bang” that decides how bowel cancer grows",
-    "summary": "Scientists have pinpointed a “Big Bang” moment in bowel cancer—when cells first evade the immune system.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251107010250.htm",
-    "date": "2025-11-07"
-  },
-  {
-    "title": "Scientists discover how hair cells can help heal skin faster",
-    "summary": "Rockefeller scientists uncovered how hair follicle stem cells can switch from growing hair to repairing skin when nutrients run low.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251107010248.htm",
-    "date": "2025-11-07"
-  },
-  {
-    "title": "The bright colors in your food may be harming your kids",
-    "summary": "Almost 20% of packaged foods and beverages in the US contain synthetic dyes, often paired with excessive sugar to attract children.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251107010245.htm",
-    "date": "2025-11-07"
-  },
-  {
-    "title": "Mini llama proteins show promise for Alzheimer’s treatment",
+    "title": "Miniature antibodies from camels and llamas can slip into the brain more easily than conventional drugs, offering a new way to treat disorders like Alzheimer’s and schizophrenia.",
     "summary": "Miniature antibodies from camels and llamas can slip into the brain more easily than conventional drugs, offering a new way to treat disorders like Alzheimer’s and schizophrenia.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251106213557.htm",
     "date": "2025-11-07"
@@ -210,9 +372,9 @@
     "date": "2025-11-07"
   },
   {
-    "title": "Woodpecker hammering is a full-body affair",
-    "summary": "Woodpecker hammering is a full-body affair",
-    "hyperlink": "https://www.sciencenews.org/article/woodpecker-hammering-full-body-muscles",
+    "title": "Water jets may break up into droplets thanks to jiggling molecules",
+    "summary": null,
+    "hyperlink": "https://www.sciencenews.org/article/water-jets-droplets-jiggling-molecules",
     "date": "2025-11-06"
   },
   {
@@ -253,7 +415,7 @@
   },
   {
     "title": "How did Pluto capture its largest moon, Charon?",
-    "summary": "How did Pluto capture its largest moon, Charon?",
+    "summary": null,
     "hyperlink": "https://www.sciencenews.org/article/adeene-denton-pluto-moon-formation",
     "date": "2025-11-05"
   },
@@ -265,7 +427,7 @@
   },
   {
     "title": "Scientists uncover meditation’s hidden side effects",
-    "summary": "Meditation is widely praised for its mental health benefits, but new research shows that it can also produce unexpected side effects for some people—from anxiety and dissociation to functional impairment.",
+    "summary": "Meditation is widely praised for its mental health benefits, but new research shows that it can also produce unexpected side effects for some people—FROM anxiety and dissociation to functional impairment.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251105050730.htm",
     "date": "2025-11-05"
   },
@@ -283,7 +445,7 @@
   },
   {
     "title": "A shapeshifting protein explains rabies’ deadly power",
-    "summary": "Researchers discovered how rabies virus exerts massive control over host cells with very few genes. A key viral protein changes shape and binds RNA, allowing it to infiltrate different cellular systems.",
+    "summary": "Researchers discovered how rabies virus exerts massive control over host cells with very few genes.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251105050708.htm",
     "date": "2025-11-05"
   },
@@ -300,20 +462,20 @@
     "date": "2025-11-05"
   },
   {
-    "title": "As teens in crisis turn to AI chatbots, simulated chats highlight risks",
-    "summary": "From blaming the victim to replying \"I have no interest in your life\" to suicidal thoughts, AI chatbots can respond unethically when used for therapy.",
-    "hyperlink": "https://www.sciencenews.org/article/teens-crisis-ai-chatbots-risks-mental",
-    "date": "2025-11-04"
-  },
-  {
     "title": "See the largest, most detailed radio image of the Milky Way yet",
-    "summary": "See the largest, most detailed radio image of the Milky Way yet",
+    "summary": null,
     "hyperlink": "https://www.sciencenews.org/article/largest-radio-image-milky-way-galaxy",
     "date": "2025-11-04"
   },
   {
+    "title": "As teens in crisis turn to AI chatbots, simulated chats highlight risks",
+    "summary": null,
+    "hyperlink": "https://www.sciencenews.org/article/teens-crisis-ai-chatbots-risks-mental",
+    "date": "2025-11-04"
+  },
+  {
     "title": "This new drug candidate might finally outsmart tuberculosis",
-    "summary": "A new compound called CMX410 may change the fight against tuberculosis. It targets a weak point in the bacteria’s defenses, even in drug-resistant forms of the disease.",
+    "summary": "A new compound called CMX410 may change the fight against tuberculosis.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251104013033.htm",
     "date": "2025-11-04"
   },
@@ -325,13 +487,13 @@
   },
   {
     "title": "Think melatonin is safe? New research reveals a hidden heart risk",
-    "summary": "Long-term melatonin use for sleep problems may come with unexpected heart dangers. Researchers found that chronic users were almost twice as likely to die and 3.5 times more likely to be hospitalized for heart failure.",
+    "summary": "Long-term melatonin use for sleep problems may come with unexpected heart dangers.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251104012959.htm",
     "date": "2025-11-04"
   },
   {
     "title": "A 25-year Crohn’s disease mystery finally cracked by AI",
-    "summary": "UC San Diego researchers combined artificial intelligence with molecular biology to unravel how immune cells in the gut decide between inflammation and healing, a process gone awry in Crohn’s disease.",
+    "summary": "UC San Diego researchers combined artificial intelligence with molecular biology to unravel how immune cells in the gut decide between inflammation and healing.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251103093012.htm",
     "date": "2025-11-04"
   },
@@ -366,21 +528,15 @@
     "date": "2025-11-04"
   },
   {
-    "title": "Your eyes could reveal how fast you’re aging, scientists say",
-    "summary": "Researchers at McMaster University have discovered that the eyes may offer a powerful, non-invasive way to assess heart health and biological aging",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251103093018.htm",
-    "date": "2025-11-04"
-  },
-  {
-    "title": "Volunteers agreed to be buried face-down in the snow, for science",
-    "summary": "Volunteers agreed to be buried face-down in the snow, for science",
-    "hyperlink": "https://www.sciencenews.org/article/oxygen-avalanche-snow-safety-device",
+    "title": "Mosquitoes infiltrated Iceland. Will they survive the winter?",
+    "summary": null,
+    "hyperlink": "https://www.sciencenews.org/article/mosquitoes-iceland-survive-winter",
     "date": "2025-11-03"
   },
   {
-    "title": "Mosquitoes infiltrated Iceland. Will they survive the winter?",
-    "summary": "Mosquitoes infiltrated Iceland. Will they survive the winter?",
-    "hyperlink": "https://www.sciencenews.org/article/mosquitoes-iceland-survive-winter",
+    "title": "Volunteers agreed to be buried face-down in the snow, for science",
+    "summary": null,
+    "hyperlink": "https://www.sciencenews.org/article/oxygen-avalanche-snow-safety-device",
     "date": "2025-11-03"
   },
   {
@@ -402,30 +558,6 @@
     "date": "2025-11-03"
   },
   {
-    "title": "Your bedroom glow might be quietly damaging your heart",
-    "summary": "Boston researchers linked nighttime light exposure to greater stress-related brain activity and inflamed arteries, signaling a higher risk of heart disease",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251103093005.htm",
-    "date": "2025-11-03"
-  },
-  {
-    "title": "Breakthrough blood test finally confirms Chronic Fatigue Syndrome",
-    "summary": "A team of scientists has developed a highly accurate blood test for Chronic Fatigue Syndrome",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251102205021.htm",
-    "date": "2025-11-03"
-  },
-  {
-    "title": "A gene from 100-year-olds could help kids who age too fast",
-    "summary": "Scientists have discovered that a “longevity gene” found in people who live beyond 100 can reverse heart aging in models of Progeria",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251102205019.htm",
-    "date": "2025-11-03"
-  },
-  {
-    "title": "Scientists discover the nutrient that supercharges cellular energy",
-    "summary": "Scientists uncovered how the amino acid leucine enhances mitochondrial efficiency by preserving crucial proteins that drive energy production",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251102205014.htm",
-    "date": "2025-11-03"
-  },
-  {
     "title": "Alarming surge in memory problems among young adults",
     "summary": "Cognitive struggles are climbing across the U.S., especially among young and economically disadvantaged adults.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251102011158.htm",
@@ -438,26 +570,14 @@
     "date": "2025-11-01"
   },
   {
-    "title": "Scientists just shattered a major exercise myth",
-    "summary": "New research from Australia overturns the old idea that exercise “uses up” heartbeats",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251101000423.htm",
-    "date": "2025-11-01"
-  },
-  {
-    "title": "Too much screen time may be hurting kids’ hearts",
-    "summary": "More screen time among children and teens is linked to higher risks of heart and metabolic problems",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/11/251101000418.htm",
-    "date": "2025-11-01"
-  },
-  {
-    "title": "Study Finds Smoking Cannabis and Tobacco Alters the Brain's Bliss Molecule",
-    "summary": "A study led by McGill University researchers found that adults who use both cannabis and tobacco revealed distinct brain ...",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29783/study-smoking-cannabis-tobacco-alters-brain-s-bliss-molecule-2",
+    "title": "Zombie Cells: They Don't Die Easily",
+    "summary": "Today, in many places around the world, Halloween celebrations will take place. The spooky holiday culminates with ...",
+    "hyperlink": "https://www.labroots.com/trending/cancer/29778/zombie-cells-don-t-die-easily",
     "date": "2025-10-31"
   },
   {
     "title": "Cancer treatments may get a boost from mRNA COVID vaccines",
-    "summary": "Cancer treatments may get a boost from mRNA COVID vaccines",
+    "summary": "Cancer patients who got an mRNA COVID vaccine within a few months of their immunotherapy lived longer than those who did not, health records show.",
     "hyperlink": "https://www.sciencenews.org/article/cancer-immunotherapy-mrna-covid-vaccines",
     "date": "2025-10-31"
   },
@@ -480,54 +600,6 @@
     "date": "2025-10-31"
   },
   {
-    "title": "Your ZIP Code could reveal your risk of dementia",
-    "summary": "People living in socially and economically disadvantaged neighborhoods may face higher dementia risks",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251030075136.htm",
-    "date": "2025-10-31"
-  },
-  {
-    "title": "A hidden blood molecule may hold the secret to healthy aging and long life",
-    "summary": "Scientists discovered that a blood molecule called CtBP2 may play a major role in how we age",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251030075128.htm",
-    "date": "2025-10-31"
-  },
-  {
-    "title": "Zombie Cells: They Don't Die Easily",
-    "summary": "Today, in many places around the world, Halloween celebrations will take place. The spooky holiday culminates with ...",
-    "hyperlink": "https://www.labroots.com/trending/cancer/29778/zombie-cells-don-t-die-easily",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "Teen Cannabis Use Linked to Higher Risk of Health Problems",
-    "summary": "Teens who start using cannabis before age 15 are more likely to require healthcare for mental and physical health proble ...",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29781/teen-cannabis-linked-risk-health-2",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "Scientists Find Several Links Between Gene Variants & Cholesterol",
-    "summary": "Heart disease is still the number one cause of death among adults worldwide. High cholesterol levels are one contributor ...",
-    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29780/scientists-links-gene-variants-cholesterol",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "Interval Running Provides Major Health and Heart Benefits",
-    "summary": "Running in intervals may be more effective and efficient than steady runs for improving your health.",
-    "hyperlink": "https://www.labroots.com/trending/cardiology/29776/interval-running-provides-major-health-heart-benefits-2",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "Messaging Network Improves Hospital Discharges",
-    "summary": "How can text messages improve hospital discharges and post-discharge quality? This is what a recent study published in t ...",
-    "hyperlink": "https://www.labroots.com/trending/technology/29779/messaging-network-improves-hospital-discharges-2",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "Longer Walks May Cut Heart Risks by Two Thirds",
-    "summary": "Longer walks may be the secret to better heart health and a lower overall risk of death.",
-    "hyperlink": "https://www.labroots.com/trending/cardiology/29775/walks-cut-heart-risks-thirds-2",
-    "date": "2025-10-30"
-  },
-  {
     "title": "Novel Cells Found to Drive Heart Failure Progression",
     "summary": "Heart failure is a leading cause of death and disability. Unfortunately, this affects millions of individuals and their ...",
     "hyperlink": "https://www.labroots.com/trending/immunology/29774/novel-cells-found-drive-heart-failure-progression",
@@ -540,27 +612,21 @@
     "date": "2025-10-30"
   },
   {
+    "title": "Scientists Find Several Links Between Gene Variants & Cholesterol",
+    "summary": "Heart disease is still the number one cause of death among adults worldwide. High cholesterol levels are one contributor ...",
+    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29780/scientists-links-gene-variants-cholesterol",
+    "date": "2025-10-30"
+  },
+  {
+    "title": "Teen Cannabis Use Linked to Higher Risk of Health Problems",
+    "summary": "Teens who start using cannabis before age 15 are more likely to require healthcare for mental and physical health proble ...",
+    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29781/teen-cannabis-linked-risk-health-2",
+    "date": "2025-10-30"
+  },
+  {
     "title": "Hundreds of animal studies on brain damage after stroke flagged for problematic images",
     "summary": "A new study has identified over 240 scientific publications on animal models of hemorrhagic stroke that contain potentially problematic images, thereby raising concerns about the trustworthiness of the body of literature ...",
     "hyperlink": "https://medicalxpress.com/news/2025-10-hundreds-animal-brain-flagged-problematic.html",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "Discovery of viral entry routes and decoy molecules could block yellow fever and encephalitis",
-    "summary": "Researchers at Washington University School of Medicine in St. Louis have identified central routes that two deadly viruses take to invade human cells and have designed decoy molecules that block the infections.",
-    "hyperlink": "https://medicalxpress.com/news/2025-10-discovery-viral-entry-routes-decoy.html",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "First online app for selecting best AI models for treatment of individual organs could help patients and physicians",
-    "summary": "A team from the Department of Electronics, Information and Bioengineering of the Politecnico di Milano,",
-    "hyperlink": "https://medicalxpress.com/news/2025-10-online-app-ai-treatment-individual.html",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "Decentralized future: Expanding clinical trials by allowing people to participate from home",
-    "summary": "Decentralized clinical trials allow participants to take part from home, making research more accessible",
-    "hyperlink": "https://medicalxpress.com/news/2025-10-decentralized-future-clinical-trials-people.html",
     "date": "2025-10-30"
   },
   {
@@ -568,48 +634,6 @@
     "summary": "By electrically stimulating macrophages, scientists at Trinity College Dublin have found a way to calm inflammation and promote faster healing.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251029100202.htm",
     "date": "2025-10-30"
-  },
-  {
-    "title": "Your pumpkin might be hiding a toxic secret",
-    "summary": "Researchers in Japan have revealed how some gourds draw pollutants into their fruits",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251030075117.htm",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "It sounds creepy, but these scientific breakthroughs could save lives",
-    "summary": "From mini-brains to spider-inspired gloves and wolf apple coatings, scientists are turning eerie-sounding experiments into real innovations",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251030075112.htm",
-    "date": "2025-10-30"
-  },
-  {
-    "title": "Deep Antarctic waters hold geometric communities of fish nests",
-    "summary": "Deep Antarctic waters hold geometric communities of fish nests",
-    "hyperlink": "https://www.sciencenews.org/article/antarctic-waters-geometric-fish-nests",
-    "date": "2025-10-29"
-  },
-  {
-    "title": "Some planets might home brew their own water",
-    "summary": "Some planets might home brew their own water",
-    "hyperlink": "https://www.sciencenews.org/article/planets-make-own-water",
-    "date": "2025-10-29"
-  },
-  {
-    "title": "Discovery of 'doorstop' for brain's electrical gates may open path to new therapies for neurodegenerative conditions",
-    "summary": "Scientists have discovered a 'doorstop' for the brain's electrical gates, which could lead to new therapies for neurodegenerative conditions",
-    "hyperlink": "https://medicalxpress.com/news/2025-10-discovery-doorstop-brain-electrical-gates.html",
-    "date": "2025-10-29"
-  },
-  {
-    "title": "Clinical trial shows efficacy of bacteriophage therapy for Staphylococcus aureus bacteremia",
-    "summary": "A clinical trial has shown that bacteriophage therapy is effective in treating Staphylococcus aureus bacteremia",
-    "hyperlink": "https://medicalxpress.com/news/2025-10-clinical-trial-efficacy-bacteriophage-therapy.html",
-    "date": "2025-10-29"
-  },
-  {
-    "title": "In drug trials, lack of oversight of research ethics boards could put Canadian patients at risk",
-    "summary": "The lack of oversight of research ethics boards in drug trials could put Canadian patients at risk",
-    "hyperlink": "https://medicalxpress.com/news/2025-10-drug-trials-lack-oversight-ethics.html",
-    "date": "2025-10-29"
   },
   {
     "title": "Scientists find hidden antibiotic 100x stronger against deadly superbugs",
@@ -630,33 +654,27 @@
     "date": "2025-10-28"
   },
   {
+    "title": "Lower Cholesterol to Reduce Dementia Risk",
+    "summary": null,
+    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29768/lower-cholesterol-reduce-dementia-risk-",
+    "date": "2025-10-28"
+  },
+  {
     "title": "Lower Cholesterol May Reduce Dementia Risk",
     "summary": "People with genetic variants linked to lower cholesterol levels are less likely to develop dementia.",
     "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29768/lower-cholesterol-reduce-dementia-risk-2",
     "date": "2025-10-28"
   },
   {
-    "title": "Ozempic Shows Promise for Substance Use Disorders",
-    "summary": "GLP-1 drugs like Ozempic which are used to treat diabetes and obesity may help treat substance use disorders.",
-    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29767/ozempic-promise-substance-disorders-2",
+    "title": "Study Examines the Impact of Legalization on Cannabis Use Among Individuals with Psychosis",
+    "summary": "A study published in JAMA Psychiatry examined recreational cannabis legalization (RCL) has impacted cannabis use in indi ...",
+    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29762/study-examines-impact-legalization-cannabis-individuals-psychosis-2",
     "date": "2025-10-28"
   },
   {
     "title": "Two tiny genetic shifts helped early humans walk upright",
-    "summary": "Two tiny genetic shifts helped early humans walk upright",
+    "summary": "Scientists have linked bipedalism to changes in how the human pelvis developed millions of years ago.",
     "hyperlink": "https://www.sciencenews.org/article/genetic-shifts-helped-humans-walk-two-legs",
-    "date": "2025-10-28"
-  },
-  {
-    "title": "Animal study links regional PFAS levels to male reproductive impacts",
-    "summary": "A study has found a link between regional PFAS levels and male reproductive impacts",
-    "hyperlink": "https://medicalxpress.com/news/2025-10-animal-links-regional-pfas-male.html",
-    "date": "2025-10-28"
-  },
-  {
-    "title": "Opt-out organ donation policies may reduce organ supply",
-    "summary": "Opt-out organ donation policies may actually reduce the supply of available organs",
-    "hyperlink": "https://medicalxpress.com/news/2025-10-opt-donation-policies.html",
     "date": "2025-10-28"
   },
   {
@@ -678,15 +696,15 @@
     "date": "2025-10-27"
   },
   {
-    "title": "Eating More Fruits and Veg Linked to Less Sleep Disturbance",
-    "summary": "Higher fruit and vegetable consumption during the day is linked to significantly better sleep the same night.",
-    "hyperlink": "https://www.labroots.com/trending/neuroscience/29760/eating-fruits-veg-linked-sleep-disturbance-2",
+    "title": "Ozempic Shows Promise for Substance Use Disorders",
+    "summary": "GLP-1 drugs like Ozempic which are used to treat diabetes and obesity may help treat substance use disorders.",
+    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29767/ozempic-promise-substance-disorders-2",
     "date": "2025-10-27"
   },
   {
-    "title": "Study Examines the Impact of Legalization on Cannabis Use Among Individuals with Psychosis",
-    "summary": "A study published in JAMA Psychiatry examined recreational cannabis legalization (RCL) has impacted cannabis use in indi ...",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29762/study-examines-impact-legalization-cannabis-individuals-psychosis-2",
+    "title": "Eating More Fruits and Veg Linked to Less Sleep Disturbance",
+    "summary": "Higher fruit and vegetable consumption during the day is linked to significantly better sleep the same night.",
+    "hyperlink": "https://www.labroots.com/trending/neuroscience/29760/eating-fruits-veg-linked-sleep-disturbance-2",
     "date": "2025-10-27"
   },
   {
@@ -714,14 +732,20 @@
     "date": "2025-10-24"
   },
   {
+    "title": "Some Utah Medical Cannabis Patients Use Illegal Products",
+    "summary": "A study published in the Journal of Cannabis Research examined the reasons why some patients enrolled in Utah’ ...",
+    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29645/utah-medical-cannabis-patients-illegal-products-2",
+    "date": "2025-10-24"
+  },
+  {
     "title": "Napoleon’s retreating army may have been plagued by these microbes",
-    "summary": "Napoleon’s retreating army may have been plagued by these microbes",
+    "summary": "DNA from Napoleonic soldiers’ teeth uncovered two fever-causing bacteria that may have worsened the army’s fatal retreat from Russia.",
     "hyperlink": "https://www.sciencenews.org/article/napoleon-army-retreat-russia-bacteria",
     "date": "2025-10-24"
   },
   {
     "title": "Brain cancer can dissolve parts of the skull",
-    "summary": "Brain cancer can dissolve parts of the skull",
+    "summary": "Glioblastoma doesn't just affect the brain. It also erodes bones in the skull and changes the composition of immune cells in skull marrow.",
     "hyperlink": "https://www.sciencenews.org/article/brain-cancer-glioblastoma-erode-skull",
     "date": "2025-10-24"
   },
@@ -744,15 +768,9 @@
     "date": "2025-10-23"
   },
   {
-    "title": "Alcohol Consumption Raises Risk of Dementia, Heart Disease",
-    "summary": null,
-    "hyperlink": "https://www.labroots.com/trending/cardiology/29748/alcohol-consumption-raises-risk-dementia-heart-disease-",
-    "date": "2025-10-23"
-  },
-  {
-    "title": "Some Utah Medical Cannabis Patients Use Illegal Products",
-    "summary": "A study published in the Journal of Cannabis Research examined the reasons why some patients enrolled in Utah’s ...",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29645/utah-medical-cannabis-patients-illegal-products-2",
+    "title": "Any Alcohol Consumption Raises the Risk of Dementia, Heart Disease",
+    "summary": "To prevent both dementia and heart disease, it may be best to avoid alcohol.",
+    "hyperlink": "https://www.labroots.com/trending/cardiology/29748/alcohol-consumption-raises-risk-dementia-heart-disease-2",
     "date": "2025-10-23"
   },
   {
@@ -763,15 +781,15 @@
   },
   {
     "title": "Most women get uterine fibroids. This researcher wants to know why",
-    "summary": "Most women get uterine fibroids. This researcher wants to know why",
+    "summary": "Biomedical engineer Erika Moore investigates diseases that disproportionately affect women of color.",
     "hyperlink": "https://www.sciencenews.org/article/erika-moore-uterine-fibroids-research",
     "date": "2025-10-22"
   },
   {
-    "title": "X-Linked Gene May Increase Women's Disease Risk",
-    "summary": "Multiple sclerosis is an autoimmune and neurological disorder that is three times more common in women...",
-    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29735/x-linked-gene-increase-women-s-disease-risk",
-    "date": "2025-10-21"
+    "title": "COVID-related smell loss may last years",
+    "summary": "Using a scratch-and-sniff test, researchers discovered that smell loss after COVID-19 may linger for more than two years.",
+    "hyperlink": "https://www.sciencenews.org/article/long-covid-smell-loss-persistent-years",
+    "date": "2025-10-22"
   },
   {
     "title": "Clinical Trial Suggests New Antibody Can Prevent Malaria",
@@ -786,44 +804,20 @@
     "date": "2025-10-21"
   },
   {
-    "title": "Niraparib Shows Promise in Hard-to-Treat Prostate Cancers",
-    "summary": "Adding PARP inhibitor niraparib to standard prostate cancer treatment delays disease progression in men with certain DNA ...",
-    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29739/niraparib-promise-hard-to-treat-prostate-cancers-2",
-    "date": "2025-10-21"
-  },
-  {
-    "title": "Nicotinamide Significantly Lowers Skin Cancer Risk",
-    "summary": "Nicotinamide, a vitamin B3 derivative, could significantly reduce skin cancer risk.",
-    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/29738/nicotinamide-significantly-lowers-skin-cancer-risk-2",
-    "date": "2025-10-21"
-  },
-  {
-    "title": "COVID-related smell loss may last years",
-    "summary": "COVID-related smell loss may last years",
-    "hyperlink": "https://www.sciencenews.org/article/long-covid-smell-loss-persistent-years",
-    "date": "2025-10-21"
-  },
-  {
     "title": "Bird flu hiding in cheese? The surprising new discovery",
     "summary": "Researchers discovered that avian influenza (H5N1) can survive in raw milk cheese made from contaminated milk, even after the 60-day aging process required by the FDA.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251020092841.htm",
     "date": "2025-10-21"
   },
   {
-    "title": "New Health Insights From Long-Lived People",
-    "summary": "Researchers found a genetic variant in people with especially long lives, which could help children who age prematurely",
-    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29730/health-insights-long-lived-people",
+    "title": "X-Linked Gene May Increase Women's Disease Risk",
+    "summary": "Multiple sclerosis is an autoimmune and neurological disorder that is three times more common in women...",
+    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29735/x-linked-gene-increase-women-s-disease-risk",
     "date": "2025-10-20"
   },
   {
-    "title": "Can a Drug Prevent Mitochondrial Diseases?",
-    "summary": "Mitochondria are incredible organelles. They not only provide crucial power to our cells, these little machines also hav ...",
-    "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29729/drug-prevent-mitochondrial-diseases",
-    "date": "2025-10-20"
-  },
-  {
-    "title": "Elite athletes hit a metabolic limit",
-    "summary": "Ultramarathoners are capable of huge energy spurts, overall the athletes top out at 2.5 times the metabolic rate needed for basic body functions.",
+    "title": "Even for elite athletes, the body’s metabolism has its limits",
+    "summary": "While ultramarathoners are capable of huge energy spurts, overall the athletes top out at 2.5 times the metabolic rate needed for basic body functions.",
     "hyperlink": "https://www.sciencenews.org/article/elite-athletes-metabolism-limits",
     "date": "2025-10-20"
   },
@@ -841,7 +835,7 @@
   },
   {
     "title": "Cancer patients who got a COVID vaccine lived much longer",
-    "summary": "A groundbreaking study reveals that cancer patients who received a COVID-19 mRNA vaccine within 100 days of starting immunotherapy lived dramatically longer than those who didn’t.",
+    "summary": "A groundbreaking study reveals that cancer patients who received a COVID-19 mRNA vaccine within 100 days of starting immunotherapy lived dramatically longer.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251019120503.htm",
     "date": "2025-10-19"
   },
@@ -894,6 +888,30 @@
     "date": "2025-10-14"
   },
   {
+    "title": "Acne Drug May Cut Schizophrenia Risk by 30%",
+    "summary": "A new study has found that an acne drug may cut the risk of schizophrenia by 30%.",
+    "hyperlink": "https://www.labroots.com/trending/neuroscience/29822/acne-drug-cut-schizophrenia-risk-30",
+    "date": "2025-10-13"
+  },
+  {
+    "title": "Melatonin Linked to Heart Failure",
+    "summary": "Researchers have found a link between melatonin and heart failure.",
+    "hyperlink": "https://www.labroots.com/trending/nocat/29799/melatonin-linked-heart-failure-2",
+    "date": "2025-10-13"
+  },
+  {
+    "title": "Novel Pathway Identified in Alzheimer's Disease",
+    "summary": "A novel pathway has been identified in Alzheimer's disease.",
+    "hyperlink": "https://www.labroots.com/trending/nocat/29808/novel-pathway-identified-alzheimer-s-disease",
+    "date": "2025-10-13"
+  },
+  {
+    "title": "Body's Own Ozempic",
+    "summary": "The body's own Ozempic has been found to have potential health benefits.",
+    "hyperlink": "https://www.labroots.com/trending/nocat/29789/body-s-own-ozempic",
+    "date": "2025-10-13"
+  },
+  {
     "title": "How a Bacterium Got More Dangerous After Defending Against a Virus",
     "summary": "Some viruses, known as bacteriophages, only infect bacterial cells, often destroying those bacteria in the process. Bact ...",
     "hyperlink": "https://www.labroots.com/trending/microbiology/29700/bacterium-dangerous-defending-virus",
@@ -906,16 +924,64 @@
     "date": "2025-10-13"
   },
   {
-    "title": "TBI in Older Adults Linked to Higher Rates of Dementia",
-    "summary": "Traumatic brain injury (TBI) in older adults is linked to higher rates of dementia.",
+    "title": "TBI in Adults Linked to Higher Rates of Dementia",
+    "summary": "A new study has found that traumatic brain injury (TBI) in adults may be linked to higher rates of dementia.",
     "hyperlink": "https://www.labroots.com/trending/neuroscience/29701/tbi-adults-linked-rates-dementia-2",
     "date": "2025-10-13"
   },
   {
+    "title": "Novel Cells Found to Drive Heart Failure Progression",
+    "summary": "Researchers have identified novel cells that may drive heart failure progression.",
+    "hyperlink": "https://www.labroots.com/trending/nocat/29774/novel-cells-found-drive-heart-failure-progression",
+    "date": "2025-10-13"
+  },
+  {
     "title": "This experimental “super vaccine” stopped cancer cold in the lab",
-    "summary": "UMass Amherst researchers have developed a groundbreaking nanoparticle-based cancer vaccine that prevented melanoma, pancreatic, and triple-negative breast cancers in mice—with up to 88% remaining tumor-free.",
+    "summary": "UMass Amherst researchers have developed a groundbreaking nanoparticle-based cancer vaccine that prevented melanoma, pancreatic, and triple-negative breast cancers in mice.",
     "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251013040323.htm",
     "date": "2025-10-13"
+  },
+  {
+    "title": "How One Molecule Goes Wrong in Both ALS & FTD",
+    "summary": "Although amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). are very different diseases, they have s ...",
+    "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/29817/molecule-goes-wrong-als-ftd",
+    "date": "2025-10-11"
+  },
+  {
+    "title": "DNA Maintenance Problems may Underlie Some Diseases",
+    "summary": "Our DNA is arranged into chromosomes that carry a kind of protective shield at their ends, called telomeres. These prote ...",
+    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29815/dna-maintenance-underlie-diseases",
+    "date": "2025-10-11"
+  },
+  {
+    "title": "Building on Ambros and Ruvkun's Nobel-Winning Studies with Revvity's microRNA Toolkit",
+    "summary": "The 2024 Nobel Prize in Physiology or Medicine was awarded to Victor Ambros and Gary Ruvkun for their groundbreaking discovery of microRNAs.",
+    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29712/building-ambros-ruvkun-s-nobel-winning-studies-revvity-s-microrna-toolkit",
+    "date": "2025-10-11"
+  },
+  {
+    "title": "The Future of 3D Cell Analysis - From Isolation to Insight",
+    "summary": "Three-dimensional (3D) cell models, such as organoids and spheroids, are transforming medicine by providing crucial insights into human biology and disease.",
+    "hyperlink": "https://www.labroots.com/trending/ebooks/29757/future-3d-cell-analysis-isolation-insight",
+    "date": "2025-10-11"
+  },
+  {
+    "title": "Unfolding the truth about bladder function: New insights into how the organ actually works",
+    "summary": "According to researcher Anne Robertson, the bladder is not considered a particularly glamorous organ, despite hosting many of the same physiological elements and processes as the heart.",
+    "hyperlink": "https://medicalxpress.com/news/2025-11-unfolding-truth-bladder-function-insights.html",
+    "date": "2025-10-11"
+  },
+  {
+    "title": "What happens when you donate your brain to science?",
+    "summary": "On a cutting surface inside a Scaife Hall laboratory at the University of Pittsburgh, Julia Kofler examines a brain, pointing out its weight, tiny specks of fatty plaque and other features visible even to the naked eye that ...",
+    "hyperlink": "https://medicalxpress.com/news/2025-11-donate-brain-science.html",
+    "date": "2025-10-11"
+  },
+  {
+    "title": "Connecticut doctors are part of new cancer trials: The goal? 'Eradicate all deaths from breast cancer'",
+    "summary": "About 170,000 women in the United States are living with metastatic breast cancer—or cancer that has spread to other organs—and eventually leads to death.",
+    "hyperlink": "https://medicalxpress.com/news/2025-11-connecticut-doctors-cancer-trials-goal.html",
+    "date": "2025-10-11"
   },
   {
     "title": "Thousands fall ill as mosquito fever explodes across southern China",
@@ -924,16 +990,28 @@
     "date": "2025-10-10"
   },
   {
-    "title": "You’re probably eating enough protein, but maybe not the right mix",
-    "summary": "Protein is having a moment. But even if most people are eating enough protein, studies suggest they may not be eating the right mix.",
-    "hyperlink": "https://www.sciencenews.org/article/protein-intake-balance-benefits",
+    "title": "New pill could finally control stubborn high blood pressure",
+    "summary": "A new pill called baxdrostat may offer hope for people whose blood pressure stays high even after taking standard medications. In a recent study, the drug lowered blood pressure and also seemed to protect the kidneys by reducing signs of damage.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030947.htm",
     "date": "2025-10-09"
   },
   {
-    "title": "Scientists finally reveal what’s behind long COVID’s mysterious brain fog",
-    "summary": "Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251006051127.htm",
-    "date": "2025-10-06"
+    "title": "Scientists reveal green tea’s fat-burning secret",
+    "summary": "New research shows green tea may help the body burn fat and balance blood sugar.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030953.htm",
+    "date": "2025-10-08"
+  },
+  {
+    "title": "Scientists just found a molecule that could stop Parkinson’s in its tracks",
+    "summary": "Researchers have designed a peptide that prevents the deadly misfolding of alpha-synuclein, the protein behind Parkinson’s and some dementias.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251008030951.htm",
+    "date": "2025-10-08"
+  },
+  {
+    "title": "Bacteria hidden inside tumors could help beat cancer",
+    "summary": "Scientists have discovered that bacteria living inside tumors can produce a molecule that fights cancer and enhances chemotherapy.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251007081835.htm",
+    "date": "2025-10-07"
   },
   {
     "title": "Nanotech transforms vinegar into a lifesaving superbug killer",
@@ -942,9 +1020,33 @@
     "date": "2025-10-06"
   },
   {
-    "title": "Millions could be living with hidden smell loss after COVID without knowing",
-    "summary": "A massive NIH-backed study reveals that COVID-19’s toll on smell may be more widespread and lasting than most realize.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251002074007.htm",
+    "title": "Scientists finally reveal what’s behind long COVID’s mysterious brain fog",
+    "summary": "Researchers in Japan have pinpointed a biological cause of Long COVID brain fog using advanced PET brain imaging.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251006051127.htm",
+    "date": "2025-10-06"
+  },
+  {
+    "title": "Brain cancer that eats the skull stuns scientists",
+    "summary": "A new study shows glioblastoma isn’t confined to the brain—it erodes the skull and hijacks the immune system within skull marrow.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251005085618.htm",
+    "date": "2025-10-05"
+  },
+  {
+    "title": "Doctors stunned by a cheap drug’s power against colon cancer",
+    "summary": "A Scandinavian clinical trial has revealed that low-dose aspirin can halve the risk of colon and rectal cancer recurrence in patients with specific genetic mutations.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251003033921.htm",
+    "date": "2025-10-03"
+  },
+  {
+    "title": "A single dose of psilocybin may rewire the brain for lasting relief",
+    "summary": "Penn researchers found that psilocybin can calm brain circuits tied to pain and mood, easing both physical suffering and emotional distress in animal studies.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251002073959.htm",
+    "date": "2025-10-02"
+  },
+  {
+    "title": "A common supplement could supercharge cancer treatments",
+    "summary": "Zeaxanthin, best known for eye health, has been found to boost the tumor-killing power of T cells.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/10/251001092214.htm",
     "date": "2025-10-02"
   },
   {
@@ -954,14 +1056,20 @@
     "date": "2025-09-30"
   },
   {
+    "title": "A plant compound might be the secret weapon against gum disease",
+    "summary": "A team of researchers tested morin, a plant compound, against gum disease bacteria and found strong antimicrobial benefits.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2025/09/250930034211.htm",
+    "date": "2025-09-30"
+  },
+  {
     "title": "Oral Bacteria is Linked to Parkinson's Disease Development",
-    "summary": "In Parkinson's disease, certain dopamine-producing neurons in the brain die off, disrupting movement",
+    "summary": "In Parkinson's disease, certain dopamine-producing neurons in the brain die off, disrupting movement ...",
     "hyperlink": "https://www.labroots.com/trending/microbiology/29630/oral-bacteria-linked-parkinson-s-disease-development",
     "date": "2025-09-29"
   },
   {
     "title": "Bacteria Boost Chemotherapy Effectiveness",
-    "summary": "The microbiome encompasses all the microorganisms and viruses that reside in a particular environment in the body. ...",
+    "summary": "The microbiome encompasses all the microorganisms and viruses that reside in a particular environment in the body.",
     "hyperlink": "https://www.labroots.com/trending/cancer/29642/bacteria-boost-chemotherapy-effectiveness",
     "date": "2025-09-29"
   },
@@ -978,28 +1086,22 @@
     "date": "2025-09-23"
   },
   {
-    "title": "From Dirt Comes Two New Antibiotic Candidates",
-    "summary": "Microbes have long been engaged in warfare; these cells have to find a place to survive and thrive, and collect enough n ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29597/dirt-comes-antibiotic-candidates",
-    "date": "2025-09-21"
+    "title": "Mutations Lurking in Alternative Proteins May Cause Disease",
+    "summary": "Although the genetic cause of many diseases have been identified, it's estimated that as many as 70% of patients with a ...",
+    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29816/mutations-lurking-alternative-proteins-cause-disease",
+    "date": "2025-09-11"
   },
   {
-    "title": "This Anti-Flu Antibody Cocktail Could Change Virus Treatment",
-    "summary": "Researchers have developed a new type of flu treatment that could have a dramatic impact on the fight against influenza ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29591/anti-flu-antibody-cocktail-change-virus-treatment",
-    "date": "2025-09-16"
+    "title": "This Bacterium Converts Trash to Energy",
+    "summary": "It's been estimated that about one-third of all food that is produced for human consumption is wasted.",
+    "hyperlink": "https://www.labroots.com/trending/microbiology/29814/bacterium-converts-trash-energy",
+    "date": "2025-09-11"
   },
   {
-    "title": "Understanding How Host Genetics Can Affect Microbes in the Gut",
-    "summary": "The relationship between the gut microbiome and the human body is complex. While the microbes in the human gastrointesti ...",
-    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29582/understanding-host-genetics-affect-microbes-gut",
-    "date": "2025-09-15"
-  },
-  {
-    "title": "Exposure to Drugs has a Long Term Impact on the Microbiome",
-    "summary": "The human gut microbiome is known to have a powerful impact on our health and well-being. Scientists are learning more a ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29580/exposure-drugs-term-impact-microbiome",
-    "date": "2025-09-14"
+    "title": "New Cannabis Compound Shows Potent Skin Benefits",
+    "summary": "How can cannabis compounds be used to improve skin health? This is what a recent study published in the Journal of Natur ...",
+    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29687/cannabis-compound-potent-skin-benefits-2",
+    "date": "2025-09-10"
   },
   {
     "title": "Novel Antibody Neutralizes a Wide Range of HIV Variants",
@@ -1020,45 +1122,21 @@
     "date": "2025-09-10"
   },
   {
-    "title": "Conservative care vs. dialysis: Model shows which is better for individual advanced chronic kidney disease patients",
-    "summary": "It can be challenging to identify which patients with advanced chronic kidney disease (CKD) will most benefit from conservative care rather than initiating dialysis.",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-dialysis-individual-advanced-chronic-kidney.html",
-    "date": "2025-08-11"
-  },
-  {
     "title": "James Watson helped crack DNA's code, sparking medical advances and ethical debates",
     "summary": "On a foggy Saturday morning in 1953, a tall, skinny 24-year-old man fiddled with shapes he had cut out of cardboard. They represented fragments of a DNA molecule, and young James Watson was trying to figure how they fit together ...",
     "hyperlink": "https://medicalxpress.com/news/2025-11-james-watson-dna-code-medical.html",
     "date": "2025-08-11"
   },
   {
-    "title": "'Mind-captioning' technique can read human thoughts from brain scans",
-    "summary": "A 'mind-captioning' technique has been developed that can read human thoughts from brain scans",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-mind-captioning-technique-human-thoughts.html",
+    "title": "Conservative care vs. dialysis: Model shows which is better for individual advanced chronic kidney disease patients",
+    "summary": "It can be challenging to identify which patients with advanced chronic kidney disease (CKD) will most benefit from conservative care rather than initiating dialysis.",
+    "hyperlink": "https://medicalxpress.com/news/2025-11-dialysis-individual-advanced-chronic-kidney.html",
     "date": "2025-08-11"
   },
   {
-    "title": "Tylenol during pregnancy: No strong evidence ties use to autism or ADHD risk",
-    "summary": "There is no strong evidence to suggest that taking Tylenol during pregnancy increases the risk of autism or ADHD",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-tylenol-pregnancy-strong-evidence-autism.html",
-    "date": "2025-08-11"
-  },
-  {
-    "title": "Husbands' self-esteem linked to lower risk of preterm birth in partners",
-    "summary": null,
-    "hyperlink": "https://medicalxpress.com/news/2025-11-husbands-esteem-linked-preterm-birth.html",
-    "date": "2025-08-11"
-  },
-  {
-    "title": "A study questions melatonin use and heart health but don't lose sleep over it",
-    "summary": null,
-    "hyperlink": "https://medicalxpress.com/news/2025-11-melatonin-heart-health-dont.html",
-    "date": "2025-08-11"
-  },
-  {
-    "title": "Can Chewing Gum Diagnose or Prevent Viral Illness?",
-    "summary": "Influenza is a very contagious virus that can spread easily ... but one way to prevent the spread of illness is to isola ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29671/chewing-gum-diagnose-prevent-viral-illness",
+    "title": "Asthma and COPD Inhalers Linked to 2 Million Tons of CO₂ Annually",
+    "summary": "How can inhalers contribute to greenhouse gas (GHG) emissions? This is what a recent study published in JAMA hopes to ad ...",
+    "hyperlink": "https://www.labroots.com/trending/earth-and-the-environment/29682/asthma-copd-inhalers-linked-2-million-tons-co-annually-2",
     "date": "2025-08-10"
   },
   {
@@ -1066,215 +1144,5 @@
     "summary": "How does climate change impact homeowners’ insurance companies? This is what a recent study published in Humanitie ...",
     "hyperlink": "https://www.labroots.com/trending/earth-and-the-environment/29812/climate-change-threatens-u-s-homeowners-insurance-profitability-2",
     "date": "2025-07-11"
-  },
-  {
-    "title": "Urolithin A nudges aging immune cells toward a youthful profile in 28 days",
-    "summary": "Urolithin A has been found to nudge aging immune cells toward a youthful profile in 28 days",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-urolithin-nudges-aging-immune-cells.html",
-    "date": "2025-07-11"
-  },
-  {
-    "title": "Coordinated brain network activity during emotional arousal may explain vivid, lasting memories",
-    "summary": null,
-    "hyperlink": "https://medicalxpress.com/news/2025-11-brain-network-emotional-arousal-vivid.html",
-    "date": "2025-07-11"
-  },
-  {
-    "title": "Coronavirus replication relies on newly identified host enzyme, study finds",
-    "summary": "A research team at Ruhr University Bochum, Germany, has identified a previously unknown cellular mechanism crucial to the replication of coronaviruses: c-Jun N-terminal kinase (JNK) is activated during infection with human ...",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-coronavirus-replication-newly-host-enzyme.html",
-    "date": "2025-07-11"
-  },
-  {
-    "title": "Disagreement between two kidney function tests predicts serious health problems",
-    "summary": null,
-    "hyperlink": "https://medicalxpress.com/news/2025-11-disagreement-kidney-function-health-problems.html",
-    "date": "2025-07-11"
-  },
-  {
-    "title": "Chronic kidney disease is now the ninth leading cause of death, global analysis finds",
-    "summary": "Chronic kidney disease has been found to be the ninth leading cause of death, according to a global analysis",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-chronic-kidney-disease-affects-million.html",
-    "date": "2025-07-11"
-  },
-  {
-    "title": "Hot pants for good health: Scientists try heat therapy to lower blood pressure",
-    "summary": "Scientists are trying heat therapy to lower blood pressure, using 'hot pants'",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-hot-pants-good-health-scientists.html",
-    "date": "2025-07-11"
-  },
-  {
-    "title": "Promising drug can inhibit aggressive breast cancer",
-    "summary": "A promising drug has been found to inhibit aggressive breast cancer",
-    "hyperlink": "https://medicalxpress.com/news/2025-11-drug-inhibit-aggressive-breast-cancer.html",
-    "date": "2025-07-11"
-  },
-  {
-    "title": "The importance of Differential Diagnosis in Respiratory MDx",
-    "summary": "Molecular Respiratory Panels — Importance of Differential Diagnosis With Respiratory Season rapidly approach ...",
-    "hyperlink": "https://www.labroots.com/trending/clinical-and-molecular-dx/29620/importance-differential-diagnosis-respiratory-mdx",
-    "date": "2025-07-10"
-  },
-  {
-    "title": "Ultra-processed Foods May Not Drive Overeating",
-    "summary": "Your perception of foods may matter as much as their nutritional content in determining whether you'll overeat.",
-    "hyperlink": "https://www.labroots.com/trending/cardiology/29689/ultra-processed-foods-drive-overeating-2",
-    "date": "2025-07-10"
-  },
-  {
-    "title": "Epigenetics Links Maternal Infections & Neurodevelopmental Conditions",
-    "summary": "There is increasing evidence linking maternal infections to developmental issues, and new research can explain how they ...",
-    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/29669/epigenetics-links-maternal-infections-neurodevelopmental-conditions",
-    "date": "2025-07-10"
-  },
-  {
-    "title": "Cannabis Store Proximity Linked to Less Heavy Alcohol Use",
-    "summary": "Living nearer to cannabis retail stores is linked to more frequent cannabis use and less heavy alcohol consumption.",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29811/cannabis-store-proximity-linked-heavy-alcohol-2",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "Cannabis Retail Access Linked to Lower Heavy Drinking in Oregon",
-    "summary": "How can access to marijuana stores influence alcohol consumption? This is what a recent study published in the American ...",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/29810/cannabis-retail-access-linked-lower-heavy-drinking-oregon-2",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "Melatonin Use Linked to Heart Failure",
-    "summary": "Long-term use of melatonin, a common sleep aid, may increase risk of heart failure.",
-    "hyperlink": "https://www.labroots.com/trending/cardiology/29799/melatonin-linked-heart-failure-2",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "Novel Therapy Developed for Aggressive Melanoma Subtype",
-    "summary": "Neuroblastoma RAS viral oncogene homolog (NRAS)-mutant melanoma is an aggressive form of skin cancer that develops becau ...",
-    "hyperlink": "https://www.labroots.com/trending/immunology/29807/novel-therapy-developed-aggressive-melanoma-subtype",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "Exercise Benefits Cancer Survivorship",
-    "summary": "Exercise has numerous advantages, including improving benefits for individuals with cancer. Observational studies ...",
-    "hyperlink": "https://www.labroots.com/trending/health-and-medicine/29619/exercise-benefits-cancer-survivorship-2",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "New Insights Into the Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29617/insights-role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29616/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29615/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29614/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29613/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29612/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29611/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29610/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29609/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29608/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29607/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29606/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29605/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29604/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29603/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29602/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29601/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29600/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29599/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
-  },
-  {
-    "title": "The Role of the Gut Microbiome in Cancer",
-    "summary": "The gut microbiome is a complex community of microorganisms that live in the digestive tract. It plays a crucial role in ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/29598/role-gut-microbiome-cancer",
-    "date": "2025-06-11"
   }
 ]
