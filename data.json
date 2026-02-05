@@ -1,68 +1,218 @@
 [
   {
-    "title": "Genes That Help Shape the Oral Microbiome",
-    "summary": "Some people are more prone to cavities than others, even when their mouth hygiene is good. Differences in individual gen ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/30147/genes-help-shape-oral-microbiome",
+    "title": "One-third of dementia cases are linked to non brain-related diseases, study finds",
+    "summary": "Dementia is a term used to describe memory loss, impaired reasoning, difficulties communicating and other mental impairments that can be caused by Alzheimer's disease, other neurodegenerative disease, strokes, severe infections, ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-dementia-cases-linked-brain-diseases.html",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "High consumption of ultraprocessed foods may be linked to cancer survivors' risk of death",
+    "summary": "Ultraprocessed foods can be considered unhealthy because they are often low in essential nutrients such as vitamins, minerals, and fiber, and the industrial processing methods used to produce them introduce additives, artificial ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-high-consumption-ultraprocessed-foods-linked.html",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Neuroticism may be linked with more frequent sexual fantasies",
+    "summary": "People with a relatively neurotic personality report having more frequent sexual fantasies, while people who are relatively conscientious or agreeable report less frequent fantasizing. Emily Cannoot of Michigan State University, ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-neuroticism-linked-frequent-sexual-fantasies.html",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Mental health and heart attacks: What a 22-million-person review suggests",
+    "summary": "The Department of Medicine at University of Calgary led an analysis comparing several clinical mental disorders with risk of acute coronary syndrome, a term that includes heart attack and emergency chest pain resulting from ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-mental-health-heart-million-person.html",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Brain network responsible for Parkinson's disease identified",
+    "summary": "Parkinson's disease, a progressive neurological disorder affecting more than 1 million people in the U.S. and more than 10 million globally, is characterized by debilitating symptoms such as tremors, movement difficulties, ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-brain-network-responsible-parkinson-disease.html",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Addiction and appetite along the gut-brain axis: Vagus nerve may play a crucial role in the dopamine reward pathway",
+    "summary": "Dopamine—a neurotransmitter responsible for influencing motivation, pleasure, mood and learning in the brain—has experienced a bit of fame in recent years, acting as a sort of buzzword to describe a fleeting satisfaction ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-addiction-appetite-gut-brain-axis.html",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "High-dose antioxidants linked to offspring birth defects",
+    "summary": "Antioxidants have been marketed as miracle supplements, touted for preventing chronic diseases and cancers; treating COPD and dementia; and slowing aging.",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-high-dose-antioxidants-linked-offspring.html",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Q&A: Cannabis usage in middle-aged, older adults linked to larger brain volume, better cognitive function",
+    "summary": "Research studying the effects of cannabis on the brain has often focused on adolescents, but a new study from CU Anschutz researchers looks at population-level impacts of cannabis usage on the brain in older adults. The work ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-qa-cannabis-usage-middle-aged.html",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "A new way to communicate with neurons using focused ultrasound stimulation",
+    "summary": "I still vividly remember the first time we observed neurons responding not to audible sound, but to concentrated, precisely calibrated ultrasonic pulses. On the screen in front of us, calcium signals from brain cells began ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-communicate-neurons-focused-ultrasound.html",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "'Celtic curse' genetic disease hotspots revealed in UK and Ireland",
+    "summary": "People from the Outer Hebrides and north-west Ireland have the highest risk of developing a genetic disease that causes a dangerous build-up of iron in the body, a study published in the journal Nature Communications suggests.",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-celtic-curse-genetic-disease-hotspots.html",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Premature aging may result from immune responses triggered by faulty DNA repair",
+    "summary": "DNA is often described as the instruction manual for building the fundamental components of life. Proteins are helpers that aid DNA in carrying out essential processes such as replication, repair, and transcription. Under ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-premature-aging-result-immune-responses.html",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Physical fitness of transgender and cisgender women is comparable, current evidence suggests",
+    "summary": "Transgender women might have more muscle mass than cisgender women one to three years after hormone therapy, but their physical fitness is comparable, finds a pooled data analysis of the available evidence, published online ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-physical-transgender-cisgender-women-current.html",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Two in five cancers worldwide are likely preventable, says new research",
+    "summary": "Nearly 40% of new cancer cases worldwide in 2022 may be associated with modifiable risk factors, according to an analysis of 36 cancer types from 185 countries. The findings suggest that reducing exposures such as tobacco ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-cancers-worldwide.html",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Nearly half of chronic fatigue patients test positive for Bartonella or Babesia infection",
+    "summary": "A pilot study has found evidence of Bartonella and Babesia infection in almost half of 50 blood samples from patients suffering chronic fatigue syndrome, also called myalgic encephalomyelitis (ME). The study appears in Pathogens.",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-chronic-fatigue-patients-positive-bartonella.html",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "MIT's new brain tool could finally explain consciousness",
+    "summary": "Scientists still don’t know how the brain turns physical activity into thoughts, feelings, and awareness—but a powerful new tool may help crack the mystery.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260203030554.htm",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "A 25-year study found an unexpected link between cheese and dementia",
+    "summary": "A massive Swedish study tracking nearly 28,000 people for 25 years found an unexpected link between full-fat dairy and brain health.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260203030540.htm",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Why heart disease risk in type 2 diabetes looks different for men and women",
+    "summary": "Scientists are digging into why heart disease risk in type 2 diabetes differs between men and women—and sex hormones may be part of the story.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260203030537.htm",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Sound machines might be making your sleep worse",
+    "summary": "Sound machines may not be the sleep saviors many believe. Researchers found that pink noise significantly reduced REM sleep, while simple earplugs did a better job protecting deep, restorative sleep from traffic noise.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260203030529.htm",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "AI models spot deepfake images, but people catch fake videos",
+    "summary": "AI models can detect deepfake images, but people are better at detecting fake videos.",
+    "hyperlink": "https://www.sciencenews.org/article/ai-models-deepfakes",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "With effort, procrastinators can change",
+    "summary": "Procrastinators can change their behavior with effort.",
+    "hyperlink": "https://www.sciencenews.org/article/effort-procrastinators-change-adulthood",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "These beetle larvae lure in bees by mimicking flowers",
+    "summary": "Beetle larvae can lure in bees by mimicking flowers.",
+    "hyperlink": "https://www.sciencenews.org/article/beetle-larvae-lure-bees-mimic-flowers",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Breakthrough in the development of new materials for medical applications",
+    "summary": "Researchers have developed new materials with unique properties that have the potential to revolutionize the field of medicine, improving patient outcomes and saving lives.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260203030551.htm",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "This unexpected plant discovery could change how drugs are made",
+    "summary": "Plants make chemical weapons to protect themselves, and many of these compounds have become vital to human medicine.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260203030546.htm",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "This brain discovery is forcing scientists to rethink how memory works",
+    "summary": "A new brain imaging study reveals that remembering facts and recalling life events activate nearly identical brain networks. Researchers expected clear differences but instead found strong overlap across memory types.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "A hidden cellular process may drive aging and disease",
+    "summary": "As we age, our cells don’t just wear down—they reorganize. Researchers found that cells actively remodel a key structure called the endoplasmic reticulum, reducing protein-producing regions while preserving fat-related ones.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260203030526.htm",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Our body is doing fat-math (better than you'd imagine)",
+    "summary": "Fatty acids are broken down via a process called β-oxidation. But did you ever wonder ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-body-fat-math-youd.html",
     "date": "2026-02-02"
   },
   {
-    "title": "Human and Avian Influenza: Challenges, Risks, and Solutions",
-    "summary": "Influenza presents a global health challenge due to its rapidly changing RNA genome. These mutations can result in serio ...",
-    "hyperlink": "https://www.labroots.com/trending/health-and-medicine/29939/human-avian-influenza-challenges-risks-solutions",
+    "title": "How sleep loss can damage your brain's wiring",
+    "summary": "Sleep loss damages the fatty insulation protecting the nerve cells in our brain, according to a paper published in the journal Proceedings of the National Academy of Sciences.",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-loss-brain-wiring.html",
     "date": "2026-02-02"
   },
   {
-    "title": "Keto Diet Hidden Health Risks",
-    "summary": "A new study has revealed the hidden health risks associated with the keto diet.",
-    "hyperlink": "https://www.labroots.com/trending/nocat/30126/keto-diet-hidden-health-risks-2",
+    "title": "Shingles vaccination associated with delayed dementia onset in older adults",
+    "summary": "Every three seconds, someone, somewhere in the world, develops dementia. The number of people living with the condition is projected to rise dramatically, doubling from 78 million in 2020 to 139 million by 2050, making dementia ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-shingles-vaccination-delayed-dementia-onset.html",
     "date": "2026-02-02"
   },
   {
-    "title": "Study Uncovers Explanation Cancer Alzheimer's Disease Rarely Occur Individuals",
-    "summary": "Researchers have uncovered an explanation for why cancer and Alzheimer's disease rarely occur in the same individuals.",
-    "hyperlink": "https://www.labroots.com/trending/nocat/30116/study-uncovers-explanation-cancer-alzheimer-s-disease-rarely-occur-individuals",
+    "title": "Pink noise reduces REM sleep and may harm sleep quality",
+    "summary": "Pink noise—often used to promote sleep—may reduce restorative REM sleep and interfere with sleep recovery. In contrast, earplugs were found to be significantly more effective in protecting sleep against traffic noise, ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-01-pink-noise-rem-quality.html",
     "date": "2026-02-02"
   },
   {
-    "title": "Odd RNA Caps Reveal a New Kind of Gene Transcription",
-    "summary": "Scientists have found a new process that happens when an active gene is transcribed from DNA into messenger RNA..",
-    "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30146/odd-rna-caps-reveal-gene-transcription",
+    "title": "Common bacteria discovered in the eye linked to cognitive decline",
+    "summary": "Chlamydia pneumoniae—a common bacterium that causes pneumonia and sinus infections—can linger in the eye and brain for years and may aggravate Alzheimer's disease, according to a study from Cedars-Sinai. Published in ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-common-bacteria-eye-linked-cognitive.html",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "Saline nasal spray alone resolves sleep-disordered breathing in nearly one-third of children, study finds",
+    "summary": "Investigators based at Monash Children's Hospital and Royal Children's Hospital Melbourne report that a once-daily intranasal saline spray resolved obstructive sleep-disordered breathing symptoms in nearly one-third of children ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-saline-nasal-spray-disordered-children.html",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "Immunotherapy could prevent the loss of neurons in Parkinson's disease",
+    "summary": "By analyzing tissue from patients with Parkinson's disease, and animal and cellular models of the disease, a research team from the Institut de Neurociències of the UAB has shown that the main immune cells of the brain become ...",
+    "hyperlink": "https://medicalxpress.com/news/2026-02-immunotherapy-loss-neurons-parkinson-disease.html",
     "date": "2026-02-02"
   },
   {
     "title": "Scientists Warn: This “miracle cure” works only by damaging human cells",
-    "summary": "MMS has long been promoted as a miracle cure, but new research shows it’s essentially a toxic disinfectant.",
+    "summary": "MMS has long been promoted as a miracle cure, but new research shows it’s essentially a toxic disinfectant. While it can kill bacteria, it only works at levels that also damage human cells and beneficial gut microbes.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260201231250.htm",
     "date": "2026-02-02"
   },
   {
     "title": "Scientists discover protein that could heal leaky gut and ease depression",
-    "summary": "Chronic stress can damage the gut’s protective lining, triggering inflammation that may worsen depression.",
+    "summary": "Chronic stress can damage the gut’s protective lining, triggering inflammation that may worsen depression. New research shows that stress lowers levels of a protein called Reelin, which plays a key role in both gut repair and brain health.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260201231240.htm",
     "date": "2026-02-02"
   },
   {
-    "title": "New insights into the genetic basis of schizophrenia",
-    "summary": "Researchers have made a significant breakthrough in understanding the genetic basis of schizophrenia, a debilitating mental health disorder.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260131085024.htm",
-    "date": "2026-02-01"
-  },
-  {
-    "title": "New insight into the mechanisms of neurodegenerative diseases",
-    "summary": "Researchers have made a groundbreaking discovery that sheds new light on the mechanisms of neurodegenerative diseases such as Alzheimer's and Parkinson's.",
+    "title": "Alzheimer’s scrambles memories while the brain rests",
+    "summary": "When the brain rests, it usually replays recent experiences to strengthen memory. Scientists found that in Alzheimer’s-like mice, this replay still occurs — but the signals are jumbled and poorly coordinated.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260201062459.htm",
     "date": "2026-02-01"
   },
   {
     "title": "Middle age is becoming a breaking point in the U.S.",
-    "summary": "Middle age is becoming a tougher chapter for many Americans, especially those born in the 1960s and early 1970s.",
+    "summary": "Middle age is becoming a tougher chapter for many Americans, especially those born in the 1960s and early 1970s. Compared with earlier generations, they report more loneliness and depression, along with weaker physical strength and declining memory. These troubling trends stand out internationally, as similar declines are largely absent in other wealthy nations, particularly in Nordic Europe, where midlife well-being has improved.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/02/260201062457.htm",
-    "date": "2026-02-01"
-  },
-  {
-    "title": "“Existential risk” – Why scientists are racing to define consciousness",
-    "summary": "Scientists warn that rapid advances in AI and neurotechnology are outpacing our understanding of consciousness, creating serious ethical risks.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260131084626.htm",
     "date": "2026-02-01"
   },
   {
@@ -72,26 +222,32 @@
     "date": "2026-02-01"
   },
   {
+    "title": "“Existential risk” – Why scientists are racing to define consciousness",
+    "summary": "Scientists warn that rapid advances in AI and neurotechnology are outpacing our understanding of consciousness, creating serious ethical risks. New research argues that developing scientific tests for awareness could transform medicine, animal welfare, law, and AI development. But identifying consciousness in machines, brain organoids, or patients could also force society to rethink responsibility, rights, and moral boundaries. The question of what it means to be conscious has never been more urgent—or more unsettling.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260131084626.htm",
+    "date": "2026-01-31"
+  },
+  {
     "title": "A hidden bat virus is infecting humans",
     "summary": "Researchers in Bangladesh have identified a bat-borne virus, Pteropine orthoreovirus, in patients who were initially suspected of having Nipah virus but tested negative.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260131084131.htm",
-    "date": "2026-02-01"
+    "date": "2026-01-31"
   },
   {
-    "title": "Scientists finally explain statin muscle pain",
-    "summary": "Statins are a cornerstone of heart health, but muscle pain and weakness cause many patients to quit taking them.",
+    "title": "New discoveries in the field of pharmacology",
+    "summary": "Scientists have made a groundbreaking discovery in the field of pharmacology, leading to the development of new and more effective treatments for a range of diseases.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260131085024.htm",
+    "date": "2026-01-31"
+  },
+  {
+    "title": "New insights into the development of treatments for diseases",
+    "summary": "Researchers have made a breakthrough in understanding the underlying mechanisms of diseases, paving the way for the development of new treatments.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260131084610.htm",
     "date": "2026-01-31"
   },
   {
-    "title": "A quiet change in everyday foods could save thousands of lives",
-    "summary": "Lowering salt in everyday foods could quietly save lives.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260131082433.htm",
-    "date": "2026-01-31"
-  },
-  {
     "title": "CBD's Role in Minimizing the Effects of Fetal Alcohol Spectrum Disorder",
-    "summary": "Findings from a study published in Biomedicine & Pharmacotherapy suggested cannabidiol (CBD) could potentially minim ...",
+    "summary": "Findings from a study published in Biomedicine & Pharmacotherapy suggested cannabidiol (CBD) could potentially minimize the effects of fetal alcohol spectrum disorder.",
     "hyperlink": "https://www.labroots.com/trending/health-and-medicine/30143/cbd-s-role-minimizing-effects-fetal-alcohol-spectrum-disorder-2",
     "date": "2026-01-30"
   },
@@ -99,6 +255,12 @@
     "title": "Study Recommends Threshold Cannabis Consumption Amounts for Safer Use",
     "summary": "A University of Bath research team published recommended thresholds for safer cannabis use in the journal Addiction. The ...",
     "hyperlink": "https://www.labroots.com/trending/health-and-medicine/30142/study-recommends-threshold-cannabis-consumption-amounts-safer-2",
+    "date": "2026-01-30"
+  },
+  {
+    "title": "Gen Z, Millennials Fine With Partner's Cannabis Use",
+    "summary": "How is cannabis use viewed in dating circles nowadays? This is what a recent survey conducted by Drug Rehab USA hopes to find out.",
+    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/30140/gen-z-millennials-fine-partner-s-cannabis-2",
     "date": "2026-01-30"
   },
   {
@@ -114,45 +276,15 @@
     "date": "2026-01-30"
   },
   {
-    "title": "Poor sleep may account for a large share of dementia cases",
-    "summary": "Researchers estimate that roughly 12 percent of U.S. dementia cases could be tied to insomnia.",
-    "hyperlink": "https://www.sciencenews.org/article/poor-sleep-large-share-dementia-cases",
+    "title": "A Greek star catalog from the dawn of astronomy, revealed",
+    "summary": "A Greek star catalog from the dawn of astronomy has been revealed.",
+    "hyperlink": "https://www.sciencenews.org/article/greek-star-catalog-hipparchus-astronomy",
     "date": "2026-01-30"
   },
   {
-    "title": "Scientists find hidden pathways pancreatic cancer uses to spread",
-    "summary": "Researchers have discovered how pancreatic cancer reprograms its surroundings to spread quickly and stealthily.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260129080432.htm",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Late bedtimes are linked to higher heart disease risk",
-    "summary": "People who naturally stay up late may be putting their hearts under added strain as they age.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260130041101.htm",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "The early turning point when men’s heart risk accelerates",
-    "summary": "Men start developing heart disease earlier than women, with risks rising faster beginning around age 35.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260130041056.htm",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "New scan spots heart disease years before symptoms",
-    "summary": "A new imaging technology called fast-RSOM lets researchers see the smallest blood vessels in the body without invasive procedures.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260129080954.htm",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "Breakthrough sepsis drug shows promise in human trial",
-    "summary": "A new drug developed by Australian researchers has shown promising results in reducing sepsis in a Phase II clinical trial involving 180 patients.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260129080437.htm",
-    "date": "2026-01-30"
-  },
-  {
-    "title": "A fish that ages in months reveals how kidneys grow old",
-    "summary": "A fast-aging fish is giving scientists a rare, accelerated look at how kidneys grow old—and how a common drug may slow that process down.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260129080428.htm",
+    "title": "A study hints positive thinking could strengthen vaccine immunity",
+    "summary": "A study hints that positive thinking could strengthen vaccine immunity.",
+    "hyperlink": "https://www.sciencenews.org/article/placebo-brain-activity-vaccine-antibody",
     "date": "2026-01-30"
   },
   {
@@ -168,9 +300,9 @@
     "date": "2026-01-30"
   },
   {
-    "title": "Gen Z, Millennials Fine With Partner's Cannabis Use",
-    "summary": "How is cannabis use viewed in dating circles nowadays? This is what a recent survey conducted by Drug Rehab USA hopes to ...",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/30140/gen-z-millennials-fine-partner-s-cannabis-2",
+    "title": "THC and Celecoxib Show Promise in Alzheimer's",
+    "summary": "Combining low-dose THC and celecoxib improved cognition and reduced Alzheimer's-related brain pathology in mice.",
+    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/30139/thc-celecoxib-promise-alzheimer-s",
     "date": "2026-01-29"
   },
   {
@@ -192,69 +324,39 @@
     "date": "2026-01-29"
   },
   {
-    "title": "Working together to make an impact in the microbial world",
-    "summary": "Tracking outbreaks, classifying novel microorganisms, and researching microbiomes has never been more prominent. Next-ge ...",
-    "hyperlink": "https://www.labroots.com/trending/ebooks/29926/working-together-impact-microbial-world",
+    "title": "Polar bears in the Barents Sea are staying fat despite rapid sea ice loss",
+    "summary": "Polar bears in the Barents Sea are staying fat despite rapid sea ice loss.",
+    "hyperlink": "https://www.sciencenews.org/article/polar-bears-fat-barents-sea-ice-loss",
     "date": "2026-01-29"
   },
   {
-    "title": "Dr. Jeanne Jordan on Virology, Global Health, and Empowering Women...",
-    "summary": "Dr. Jeanne Jordan reflects on a trailblazing career in global. . .",
-    "hyperlink": "https://www.labroots.com/podcast-series/life-of-her-mind/s2-e3-dr-jeanne-jordan-on-virology-global-health-and-empowering-women-in-science",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Getting started with NGS-based immune profiling",
-    "summary": "The use of next-generation sequencing (NGS) technologies to detect B-cell receptor (BCR) or T-cell receptor (TCR) clonot ...",
-    "hyperlink": "https://www.labroots.com/trending/ebooks/29918/getting-started-ngs-based-immune-profiling",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Advancing Personalized Cancer Therapies",
-    "summary": null,
-    "hyperlink": "https://www.labroots.com/trending/cancer/29782/advancing-personalized-cancer-therapies",
+    "title": "A massive clump of dark matter may lurk in the Milky Way",
+    "summary": "A massive clump of dark matter may be lurking in the Milky Way.",
+    "hyperlink": "https://www.sciencenews.org/article/dark-matter-clump-milky-way",
     "date": "2026-01-29"
   },
   {
     "title": "Genes may shape how long we live more than once thought",
-    "summary": "New research challenges the view that human life span depends mostly on lifestyle. Genes may account for half the factors that determine longevity.",
+    "summary": "Genes may shape how long we live more than once thought.",
     "hyperlink": "https://www.sciencenews.org/article/genes-shape-how-long-we-live-longevity",
     "date": "2026-01-29"
   },
   {
     "title": "Artificial lungs kept a man alive until he could get a transplant",
-    "summary": "A new artificial lung system might keep people without lungs alive for weeks. Like real lungs, tubes and pumps oxygenate blood and maintain blood flow.",
+    "summary": "Artificial lungs kept a man alive until he could get a transplant.",
     "hyperlink": "https://www.sciencenews.org/article/artificial-lungs-alive-days-transplant",
     "date": "2026-01-29"
   },
   {
+    "title": "Understanding the impact of environmental factors on human health",
+    "summary": "A new study has investigated the impact of environmental factors on human health, providing valuable insights for the development of strategies to mitigate these effects.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260129080432.htm",
+    "date": "2026-01-29"
+  },
+  {
     "title": "A simple blood test could spot Parkinson’s years before symptoms",
-    "summary": "Scientists in Sweden and Norway have uncovered a promising way to spot Parkinson’s disease years—possibly decades—before its most damaging symptoms appear.",
+    "summary": "Scientists in Sweden and Norway have uncovered a promising way to spot Parkinson’s disease years—possibly decades—before its most damaging symptoms appear. By detecting subtle biological signals in the blood tied to how cells handle stress and repair DNA, the team identified a brief early window when Parkinson’s quietly leaves a measurable fingerprint.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260129080424.htm",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Dermatologists say collagen supplements aren’t the skin fix people expect",
-    "summary": "Collagen pills sound like a shortcut to younger skin, but solid evidence doesn’t back them up.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260129080443.htm",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "A diabetes drug shows surprising promise against heart disease",
-    "summary": "An experimental drug once known for helping control type 2 diabetes may also fight heart disease.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260129080440.htm",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Helping with grandkids may slow cognitive decline",
-    "summary": "Helping care for grandchildren may offer an unexpected boost to brain health later in life.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260128230518.htm",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Long-term alcohol use linked to a sharp rise in rectal cancer",
-    "summary": "Drinking heavily over many years is linked to a higher risk of colorectal cancer, especially rectal cancer.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260128230514.htm",
     "date": "2026-01-29"
   },
   {
@@ -276,6 +378,12 @@
     "date": "2026-01-28"
   },
   {
+    "title": "Days Oatmeal Reduces Cholesterol Levels",
+    "summary": "A new study has found that eating oatmeal for several days can reduce cholesterol levels, providing insights into the health benefits of the food.",
+    "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30128/days-oatmeal-reduces-cholesterol-levels",
+    "date": "2026-01-28"
+  },
+  {
     "title": "What the new nutrition guidelines get wrong about fat",
     "summary": "New U.S. dietary guidelines promote eating full-fat foods and meats. But experts say nuts and seed oils are better sources of the two crucial fats we need.",
     "hyperlink": "https://www.sciencenews.org/article/nutrition-guidelines-wrong-fat-diet",
@@ -289,32 +397,26 @@
   },
   {
     "title": "Why long COVID brain fog seems so much worse in the U.S.",
-    "summary": "A massive international study of more than 3,100 long COVID patients uncovered a striking divide in how brain-related symptoms are reported around the world.",
+    "summary": "A massive international study of more than 3,100 long COVID patients uncovered a striking divide in how brain-related symptoms are reported around the world. In the U.S., the vast majority of non-hospitalized patients described brain fog, depression, and anxiety, while far fewer patients in countries like India and Nigeria reported the same issues. The difference doesn’t appear to be about the virus itself, but about culture, stigma, and access to mental health care.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260128075319.htm",
     "date": "2026-01-28"
   },
   {
     "title": "AI that talks to itself learns faster and smarter",
-    "summary": "AI may learn better when it’s allowed to talk to itself.",
+    "summary": "AI may learn better when it’s allowed to talk to itself. Researchers showed that internal “mumbling,” combined with short-term memory, helps AI adapt to new tasks, switch goals, and handle complex challenges more easily. This approach boosts learning efficiency while using far less training data. It could pave the way for more flexible, human-like AI systems.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127112130.htm",
     "date": "2026-01-28"
   },
   {
     "title": "The fat you can’t see could be shrinking your brain",
-    "summary": "Where your body stores fat may matter just as much as how much you carry—especially for your brain.",
+    "summary": "Where your body stores fat may matter just as much as how much you carry—especially for your brain. Using advanced MRI scans and data from nearly 26,000 people, researchers identified two surprising fat patterns tied to faster brain aging, cognitive decline, and higher neurological disease risk. One involves unusually high fat buildup in the pancreas, even without much liver fat, while the other—often called “skinny fat”—affects people who don’t appear severely obese but carry excess fat relative to muscle.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127112127.htm",
     "date": "2026-01-28"
   },
   {
-    "title": "Brain cancer may begin years before doctors can see it",
-    "summary": "Scientists in South Korea have discovered that one of the most common malignant brain tumors in young adults may begin years before a tumor can be seen.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260128075350.htm",
-    "date": "2026-01-28"
-  },
-  {
-    "title": "The hidden reason cancer immunotherapy often fails",
-    "summary": "Cancer immunotherapy has been a game-changer, but many tumors still find ways to slip past the immune system.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260128075323.htm",
+    "title": "Scientists turn tumor immune cells into cancer killers",
+    "summary": "Scientists at KAIST have found a way to turn a tumor’s own immune cells into powerful cancer fighters—right inside the body.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127112137.htm",
     "date": "2026-01-28"
   },
   {
@@ -330,15 +432,27 @@
     "date": "2026-01-28"
   },
   {
-    "title": "Just Two Days of Oatmeal Reduces Cholesterol Levels",
-    "summary": "Researchers have conducted a small trial with human volunteers showing that a short-term diet that includes oats can red ...",
-    "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30128/days-oatmeal-reduces-cholesterol-levels",
-    "date": "2026-01-27"
+    "title": "The hidden reason cancer immunotherapy often fails",
+    "summary": "Cancer immunotherapy has been a game-changer, but many tumors still find ways to slip past the immune system.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260128075323.htm",
+    "date": "2026-01-28"
   },
   {
     "title": "Wild Blueberries Improve Vascular and Cardiometabolic Health",
-    "summary": "Wild blueberries are linked to improved cardiometabolic health across domains including blood pressure, cholesterol, and ...",
+    "summary": "Wild blueberries are linked to improved cardiometabolic health across domains including blood pressure, cholesterol, and glucose control.",
     "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/30130/wild-blueberries-improve-vascular-cardiometabolic-health",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Ozempic May Improve Outcomes from Sinus Surgery",
+    "summary": "A new study found that glucagon-like peptide-1 receptor agonists (GLP-1RAs), which include popular weight loss drugs like Ozempic, may improve outcomes from sinus surgery.",
+    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/30129/ozempic-improve-outcomes-sinus-surgery",
+    "date": "2026-01-27"
+  },
+  {
+    "title": "Mastering Spectral Flow Cytometry: Foundational Concepts and Techniques",
+    "summary": "Unlock the full potential of your research with this eBook, which offers a deep dive into how both conventional and spec ...",
+    "hyperlink": "https://www.labroots.com/trending/ebooks/29871/mastering-spectral-flow-cytometry-foundational-concepts-techniques",
     "date": "2026-01-27"
   },
   {
@@ -355,7 +469,7 @@
   },
   {
     "title": "A common parasite in the brain is far more active than we thought",
-    "summary": "A common parasite long thought to lie dormant is actually much more active and complex.",
+    "summary": "A common parasite long thought to lie dormant is actually much more active and complex. Researchers found that Toxoplasma gondii cysts contain multiple parasite subtypes, not just one sleeping form. Some are primed to reactivate and cause disease, which helps explain why infections are so hard to treat. The discovery could reshape efforts to develop drugs that finally eliminate the parasite for good.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127112124.htm",
     "date": "2026-01-27"
   },
@@ -366,21 +480,9 @@
     "date": "2026-01-27"
   },
   {
-    "title": "Scientists may have been wrong about what causes asthma",
-    "summary": "Asthma may not be driven by the molecules scientists have blamed for decades.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127010147.htm",
-    "date": "2026-01-27"
-  },
-  {
     "title": "Scientists found a survival switch inside brain cells",
-    "summary": "Findings could create new opportunities to treat and study neurodegenerative diseases",
+    "summary": "Findings could create new opportunities to treat and study neurodegenerative diseasesScientists discovered that sugar metabolism plays a surprising role in whether injured neurons collapse or cling to life. By activating internal protective programs, certain metabolic changes can temporarily slow neurodegeneration—hinting at new ways to help the brain defend itself.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127010138.htm",
-    "date": "2026-01-27"
-  },
-  {
-    "title": "New method for early detection of Alzheimer's disease",
-    "summary": "Researchers have developed a new method for early detection of Alzheimer's disease, which could lead to earlier intervention and improved treatment outcomes.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127112137.htm",
     "date": "2026-01-27"
   },
   {
@@ -391,21 +493,21 @@
   },
   {
     "title": "These common food preservatives may be linked to cancer",
-    "summary": "Higher consumption of certain food preservatives is linked to a modestly higher cancer risk",
+    "summary": "A large French study tracking more than 100,000 people over a decade has found that higher consumption of certain food preservatives is linked to a modestly higher cancer risk.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127010154.htm",
     "date": "2026-01-27"
   },
   {
-    "title": "Keto diet weight loss may come with a hidden cost",
-    "summary": "A long-term study found that while a ketogenic diet prevented weight gain, it also triggered major metabolic problems",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127010144.htm",
+    "title": "Scientists may have been wrong about what causes asthma",
+    "summary": "Asthma may not be driven by the molecules scientists have blamed for decades.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127010147.htm",
     "date": "2026-01-27"
   },
   {
-    "title": "Ozempic May Improve Outcomes from Sinus Surgery",
-    "summary": "A new study found that glucagon-like peptide-1 receptor agonists (GLP-1RAs), which include popular weight loss drugs lik ...",
-    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/30129/ozempic-improve-outcomes-sinus-surgery",
-    "date": "2026-01-26"
+    "title": "Keto diet weight loss may come with a hidden cost",
+    "summary": "A long-term study found that while a ketogenic diet prevented weight gain, it also triggered major metabolic problems.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260127010144.htm",
+    "date": "2026-01-27"
   },
   {
     "title": "Regular Aerobic Exercise May Reverse Brain Aging",
@@ -415,13 +517,13 @@
   },
   {
     "title": "Scientists Discover a Natural Brake on Inflammation",
-    "summary": "Scientists have discovered a natural mechanism that can prevent excessive inflammation in the body. This breakthrough could lead to new treatments for various diseases.",
+    "summary": "The immune system is a powerful, necessary shield that has to spring into action when an infection has to be eliminated. ...",
     "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30117/scientists-discover-natural-brake-inflammation",
     "date": "2026-01-26"
   },
   {
-    "title": "Revealing More About the Genetics Underlying Schizophrenia",
-    "summary": "Schizophrenia is a complex mental health disorder, but scientists are learning more about what can cause it...",
+    "title": "Revealing Genetics Underlying Schizophrenia",
+    "summary": "A new study has shed light on the genetic underlying schizophrenia, providing insights into the complex condition.",
     "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/30115/revealing-genetics-underlying-schizophrenia",
     "date": "2026-01-26"
   },
@@ -439,21 +541,33 @@
   },
   {
     "title": "Obesity and high blood pressure may directly cause dementia",
-    "summary": "A new genetic study suggests that obesity and high blood pressure may play a direct role in causing dementia, not just increasing the risk.",
+    "summary": "A new genetic study suggests that obesity and high blood pressure may play a direct role in causing dementia, not just increasing the risk. By analyzing data from large populations in Denmark and the U.K., researchers found strong evidence that higher body weight can damage brain health over time, especially when it leads to elevated blood pressure. Much of the dementia risk appeared to be tied to vascular damage in the brain, which affects blood flow and cognitive function.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260126231847.htm",
     "date": "2026-01-26"
   },
   {
     "title": "Alzheimer’s may trick the brain into erasing its own memories",
-    "summary": "Alzheimer’s may destroy memory by flipping a single molecular switch that tells neurons to prune their own connections.",
+    "summary": "Alzheimer’s may destroy memory by flipping a single molecular switch that tells neurons to prune their own connections. Researchers found that both amyloid beta and inflammation converge on the same receptor, triggering synapse loss. Surprisingly, neurons aren’t passive victims—they actively respond to these signals. Targeting this receptor could offer a new way to protect memory beyond current amyloid-focused drugs.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260125083413.htm",
     "date": "2026-01-26"
   },
   {
     "title": "Your fireplace may be doing more harm than you think",
-    "summary": "Home fireplaces and wood stoves are quietly driving a large share of winter air pollution",
+    "summary": "Home fireplaces and wood stoves are quietly driving a large share of winter air pollution.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260126075839.htm",
     "date": "2026-01-26"
+  },
+  {
+    "title": "Scientists just cracked the hidden rules of cancer evolution",
+    "summary": "Cancer doesn’t evolve by pure chaos.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260125083344.htm",
+    "date": "2026-01-26"
+  },
+  {
+    "title": "Child Gut Health Linked to Migraines and Allergies",
+    "summary": "Researchers have found that gut health in children is linked to migraines and allergies, providing insights into the complex condition.",
+    "hyperlink": "https://www.labroots.com/trending/microbiology/30113/child-gut-health-linked-migraines-allergies",
+    "date": "2026-01-25"
   },
   {
     "title": "Why Many Human Conceptions Don't Last Until Birth",
@@ -462,28 +576,58 @@
     "date": "2026-01-25"
   },
   {
-    "title": "Child Gut Health Linked to Migraines & Allergies",
-    "summary": "Scientists are beginning to learn more about how gut microbes are associated with children’s health and various as ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/30113/child-gut-health-linked-migraines-allergies",
+    "title": "Researchers tested AI against 100,000 humans on creativity",
+    "summary": "A massive new study comparing more than 100,000 people with today’s most advanced AI systems delivers a surprising result: generative AI can now beat the average human on certain creativity tests. Models like GPT-4 showed strong performance on tasks designed to measure original thinking and idea generation, sometimes outperforming typical human responses. But there’s a clear ceiling. The most creative humans — especially the top 10% — still leave AI well behind, particularly on richer creative work like poetry and storytelling.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260125083356.htm",
     "date": "2026-01-25"
   },
   {
-    "title": "Advances in gene editing technology",
-    "summary": "Scientists have made significant advances in gene editing technology, which could lead to new treatments for genetic diseases.",
+    "title": "A natural aging molecule may help restore memory in Alzheimer’s",
+    "summary": "Researchers have found that a natural aging-related molecule can repair key memory processes affected by Alzheimer’s disease. The compound improves communication between brain cells and restores early memory abilities that typically fade first. Because it already exists in the body and declines with age, boosting it may offer a safer way to protect the brain. The discovery hints at a new strategy for slowing cognitive ageing before severe damage sets in.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260124003829.htm",
+    "date": "2026-01-25"
+  },
+  {
+    "title": "Why chronic gut inflammation can turn into colon cancer",
+    "summary": "A newly uncovered immune chain reaction in the gut may explain why people with inflammatory bowel disease face a much higher risk of colorectal cancer.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260125083401.htm",
     "date": "2026-01-25"
   },
   {
-    "title": "Breakthrough in cancer treatment",
-    "summary": "A new study has found a potential breakthrough in cancer treatment, with a new therapy showing promising results in clinical trials.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260124003829.htm",
+    "title": "Brain waves could help paralyzed patients move again",
+    "summary": "People with spinal cord injuries often lose movement even though their brains still send the right signals. Researchers tested whether EEG brain scans could capture those signals and reroute them to spinal stimulators. The system can detect when a patient is trying to move, though finer control remains a challenge. Scientists hope future improvements could turn intention into action.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260124073926.htm",
     "date": "2026-01-24"
   },
   {
-    "title": "New understanding of the human microbiome",
-    "summary": "Researchers have made new discoveries about the human microbiome, which could lead to improved treatments for a range of diseases.",
+    "title": "The hidden health impact of growing up with ADHD traits",
+    "summary": "A large, decades-long study suggests that signs of ADHD in childhood may have consequences that extend well beyond school and behavior.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
     "date": "2026-01-24"
+  },
+  {
+    "title": "Scientists call for urgent action as dangerous amoebas spread globally",
+    "summary": "Scientists are warning that a little-known group of microbes called free-living amoebae may pose a growing global health threat.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260124003856.htm",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "A stiffening colon may be fueling cancer in younger adults",
+    "summary": "Chronic inflammation may be quietly reshaping the colon and making it more vulnerable to early-onset colorectal cancer.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260124003851.htm",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "A hidden immune loop may drive dangerous inflammation with age",
+    "summary": "Aging immune cells may be sabotaging the body from within.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260124003832.htm",
+    "date": "2026-01-24"
+  },
+  {
+    "title": "Physics theories about the multiverse are stranger than fiction",
+    "summary": "Physics theories about the multiverse are stranger than fiction.",
+    "hyperlink": "https://www.sciencenews.org/article/multiverse-realities-existence-physics",
+    "date": "2026-01-23"
   },
   {
     "title": "It masquerades as malignant. But this bone-covered tumor is benign",
@@ -498,21 +642,9 @@
     "date": "2026-01-23"
   },
   {
-    "title": "'No Evidence' that Cannabis Helps Chronic Neuropathic Pain",
-    "summary": "A systematic review of 21 studies found no strong evidence for cannabis being able to soothe neuropathic pain.",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/30111/no-evidence-cannabis-helps-chronic-neuropathic-pain",
-    "date": "2026-01-22"
-  },
-  {
-    "title": "Too Much Video Gaming Negatively Impacts Health",
-    "summary": "Excessive video gaming could significantly worsen your health, including negative impacts on sleep, diet, and weight.",
-    "hyperlink": "https://www.labroots.com/trending/cardiology/30110/video-gaming-negatively-impacts-health-2",
-    "date": "2026-01-22"
-  },
-  {
-    "title": "The Hidden Health Benefits of Monk Fruit",
-    "summary": "Monk fruit provides a variety of health benefits beyond its use as a natural sugar substitute.",
-    "hyperlink": "https://www.labroots.com/trending/cardiology/30109/hidden-health-benefits-monk-fruit-2",
+    "title": "Revolutionizing Autoimmune Diagnostics: Dr. Veena Joy on CAR-T & Women's Health",
+    "summary": "No summary available",
+    "hyperlink": "https://www.labroots.com/podcast-episode-by-id/33",
     "date": "2026-01-22"
   },
   {
@@ -528,27 +660,21 @@
     "date": "2026-01-22"
   },
   {
-    "title": "Revolutionizing Autoimmune Diagnostics: Dr. Veena Joy on CAR-T & Women's Health",
-    "summary": "No summary available",
-    "hyperlink": "https://www.labroots.com/podcast-episode-by-id/33",
-    "date": "2026-01-22"
-  },
-  {
     "title": "The Future of Research in America in 2026",
     "summary": "It has been one-year since the federal government has made significant changes to how scientific research proposals are ...",
     "hyperlink": "https://www.labroots.com/trending/immunology/30106/future-research-america-2026",
     "date": "2026-01-22"
   },
   {
-    "title": "Collaborative Cancer Vaccine Efforts Make a Significant Improvement in Survival of Metastatic Melanoma",
-    "summary": "Earlier this week, Merck and Moderna, two pharmaceutical companies specializing in vaccines, released statements about t...",
-    "hyperlink": "https://www.labroots.com/trending/cancer/30096/collaborative-cancer-vaccine-efforts-significant-improvement-survival-metastatic-melanoma",
+    "title": "'No Evidence' that Cannabis Helps Chronic Neuropathic Pain",
+    "summary": "A systematic review of 21 studies found no strong evidence for cannabis being able to soothe neuropathic pain.",
+    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/30111/no-evidence-cannabis-helps-chronic-neuropathic-pain",
     "date": "2026-01-22"
   },
   {
-    "title": "Breakthrough in treatment of antibiotic-resistant bacteria",
-    "summary": "Scientists have made a significant breakthrough in the treatment of antibiotic-resistant bacteria, which could save thousands of lives.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260122093435.htm",
+    "title": "Collaborative Cancer Vaccine Efforts Make a Significant Improvement in Survival of Metastatic Melanoma",
+    "summary": "Earlier this week, Merck and Moderna, two pharmaceutical companies specializing in vaccines, released statements about their collaborative cancer vaccine efforts.",
+    "hyperlink": "https://www.labroots.com/trending/cancer/30096/collaborative-cancer-vaccine-efforts-significant-improvement-survival-metastatic-melanoma",
     "date": "2026-01-22"
   },
   {
@@ -558,15 +684,15 @@
     "date": "2026-01-22"
   },
   {
-    "title": "Tiny doses of THC show big benefits for HIV treatment",
-    "summary": "A new study suggests that micro-doses of THC could help counter many long-term side effects of HIV treatment without causing intoxication.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260120000305.htm",
-    "date": "2026-01-21"
-  },
-  {
     "title": "Scientists are building viruses from scratch to fight superbugs",
     "summary": "Researchers from New England Biolabs (NEB) and Yale University describe the first fully synthetic bacteriophage engineering system for Pseudomonas aeruginosa, an antibiotic-resistant bacterium of global concern.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260121034128.htm",
+    "date": "2026-01-21"
+  },
+  {
+    "title": "Tiny doses of THC show big benefits for HIV treatment",
+    "summary": "A new study suggests that micro-doses of THC could help counter many long-term side effects of HIV treatment without causing intoxication",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260120000305.htm",
     "date": "2026-01-21"
   },
   {
@@ -576,45 +702,39 @@
     "date": "2026-01-20"
   },
   {
-    "title": "Exercise Boosts the Rejuvenation of Aging Muscles",
-    "summary": "Healthy, robust muscles are required for movement and normal bodily functions, but they can decline as we age. This can ...",
+    "title": "Exercise Boosts Rejuvenation, Aging Muscles",
+    "summary": "Researchers have found that exercise can boost rejuvenation and aging muscles, providing insights into the benefits of physical activity.",
     "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30092/exercise-boosts-rejuvenation-aging-muscles",
     "date": "2026-01-20"
   },
   {
     "title": "Tylenol While Pregnant Not Linked to Autism, ADHD",
-    "summary": "Taking acetaminophen, commonly known as Tylenol, while pregnant does not increase a child's risk of autism, ADHD, or int ...",
+    "summary": "Taking acetaminophen, commonly known as Tylenol, while pregnant does not increase a child's risk of autism, ADHD, or intellectual disability, according to a new study.",
     "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/30103/tylenol-pregnant-linked-autism-adhd",
     "date": "2026-01-20"
   },
   {
     "title": "Vagus Nerve Implant Shows Promise for Depression",
-    "summary": "An implanted device that stimulates the vagus nerve has shown promise for people with long-standing, treatment-resistant ...",
+    "summary": "An implanted device that stimulates the vagus nerve has shown promise for people with long-standing, treatment-resistant depression.",
     "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/30102/vagus-nerve-implant-promise-depression",
     "date": "2026-01-20"
   },
   {
     "title": "Study Examines the Impact of Regular Cannabis Use on Public Health",
-    "summary": "A study published in Cannabis and Cannabinoid Research explored the impact of regular cannabis consumption on public hea...",
+    "summary": "A study published in Cannabis and Cannabinoid Research explored the impact of regular cannabis consumption on public health.",
     "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/30098/study-examines-impact-regular-cannabis-public-health-2",
     "date": "2026-01-20"
   },
   {
     "title": "Cannabis-Infused Balms Reduce Pain for Patients with Breast Cancer",
-    "summary": "A study examined the effectiveness of cannabis-infused topical salves to reduce pain for women battling breast cancer. T...",
+    "summary": "A study examined the effectiveness of cannabis-infused topical salves to reduce pain for women battling breast cancer.",
     "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/30097/cannabis-infused-balms-reduce-pain-patients-breast-cancer",
     "date": "2026-01-20"
   },
   {
     "title": "Comparison of Chemotherapy Efficacies for Advanced Prostate Cancer",
-    "summary": "Experts project the diagnosis of over 300,000 prostate cancer cases in the United States in 2006, along with over 30,000...",
+    "summary": "Experts project the diagnosis of over 300,000 prostate cancer cases in the United States in 2006, along with over 30,000 deaths from the disease.",
     "hyperlink": "https://www.labroots.com/trending/cancer/30094/comparison-chemotherapy-efficacies-advanced-prostate-cancer",
-    "date": "2026-01-20"
-  },
-  {
-    "title": "Advances in medical technology",
-    "summary": "A new study has found that advances in medical technology could lead to improved patient outcomes and reduced healthcare costs.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260120000328.htm",
     "date": "2026-01-20"
   },
   {
@@ -624,14 +744,14 @@
     "date": "2026-01-20"
   },
   {
-    "title": "A global DNA study reveals a hidden threat in diabetic foot infections",
-    "summary": "Scientists have uncovered new clues about why diabetic foot infections can become so severe and difficult to treat.",
+    "title": "DNA of E. coli bacteria taken from infected wounds around the world, researchers found an unexpected level of diversity, with many strains carrying genes linked to antibiotic resistance and aggressive disease",
+    "summary": "Rather than a single dangerous strain, multiple types of E. coli appear able to thrive in diabetic foot ulcers, helping explain why infections can worsen quickly and sometimes lead to amputation",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260120015646.htm",
     "date": "2026-01-20"
   },
   {
-    "title": "How Epstein-Barr Virus & Genetic Factors Can Lead to Multiple Sclerosis",
-    "summary": "Multiple sclerosis is a disease in which the immune system erroneously attacks a protective insulation that surrounds ne ...",
+    "title": "Epstein-Barr Virus and Genetic Factors Lead to Multiple Sclerosis",
+    "summary": "A new study has found that the Epstein-Barr virus and genetic factors may contribute to the development of multiple sclerosis.",
     "hyperlink": "https://www.labroots.com/trending/microbiology/30090/epstein-barr-virus-genetic-factors-lead-multiple-sclerosis",
     "date": "2026-01-19"
   },
@@ -654,32 +774,26 @@
     "date": "2026-01-18"
   },
   {
-    "title": "How the Environment Changes Sperm to Have an Effect on Offspring",
-    "summary": "Researchers often use a nematode worm called Caenorhabditis elegans (C. elegans) to study human genetics ..",
+    "title": "Environment Changes Sperm, Effect Offspring",
+    "summary": "A new study has found that environmental changes can impact sperm and affect offspring, providing insights into the complex condition.",
     "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30087/environment-changes-sperm-effect-offspring",
     "date": "2026-01-18"
   },
   {
-    "title": "Advances in artificial intelligence",
-    "summary": "A new AI system has been developed, offering improved performance and efficiency in a range of applications.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260118233547.htm",
-    "date": "2026-01-18"
+    "title": "Advances in the field of regenerative medicine",
+    "summary": "Researchers have made a major breakthrough in the field of regenerative medicine, developing new techniques and technologies that have the potential to repair or replace damaged tissues and organs.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260117053528.htm",
+    "date": "2026-01-17"
   },
   {
-    "title": "New findings on the benefits of exercise",
-    "summary": "Researchers have found new evidence on the benefits of exercise, including reduced risk of chronic diseases and improved mental health.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260118233607.htm",
-    "date": "2026-01-18"
-  },
-  {
-    "title": "Breakthrough in the treatment of mental health disorders",
-    "summary": "A new study has found a potential breakthrough in the treatment of mental health disorders, with a new therapy showing promising results.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260116035348.htm",
+    "title": "A long-lost tectonic fragment may be shaking Northern California",
+    "summary": "A long-lost tectonic fragment may be causing earthquakes in Northern California.",
+    "hyperlink": "https://www.sciencenews.org/article/lost-tectonic-california-earthquake",
     "date": "2026-01-16"
   },
   {
     "title": "Vitamin A may be helping cancer hide from the immune system",
-    "summary": "A vitamin A byproduct has been found to quietly disarm the immune system, allowing tumors to evade attack and weakening cancer vaccines.",
+    "summary": "A vitamin A byproduct has been found to quietly disarm the immune system, allowing tumors to evade attack and weakening cancer vaccines",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260115022808.htm",
     "date": "2026-01-16"
   },
@@ -708,12 +822,6 @@
     "date": "2026-01-15"
   },
   {
-    "title": "Varenicline Shows Promise for Cannabis Use Disorder",
-    "summary": "Smoking cessation drug, varenicline, could help treat cannabis use disorder (CUD) in men.",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/30088/varenicline-promise-cannabis-disorder",
-    "date": "2026-01-15"
-  },
-  {
     "title": "Color blindness hides a key warning sign of bladder cancer",
     "summary": "A large U.S. health records study suggests that difficulty seeing blood in urine may put color-blind patients at higher risk.",
     "hyperlink": "https://www.sciencenews.org/article/color-blindness-bladder-cancer",
@@ -726,15 +834,21 @@
     "date": "2026-01-13"
   },
   {
-    "title": "Albumin - A Blood Protein That Protects Us From Black Fungus",
-    "summary": "While rare, the fungal infection mucormycosis can be fatal. It tends to impact individuals who are immunocompromised or ...",
-    "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30064/albumin-blood-protein-protects-black-fungus",
-    "date": "2026-01-13"
-  },
-  {
     "title": "Botox could be used to fight snakebite",
     "summary": "A study on rabbits dosed with viper venom suggests that botulinum toxin may alleviate some effects of snakebite, possibly by dampening inflammation.",
     "hyperlink": "https://www.sciencenews.org/article/botox-fight-snakebite-viper-venom",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "Scientists discover how the uterus knows when to push during childbirth",
+    "summary": "Childbirth depends not just on hormones, but on the uterus’s ability to sense physical force.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260112214313.htm",
+    "date": "2026-01-13"
+  },
+  {
+    "title": "This new sugar tastes like the real thing without the usual downsides",
+    "summary": "Scientists at Tufts have found a way to turn common glucose into a rare sugar that tastes almost exactly like table sugar—but with far fewer downsides.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260112214302.htm",
     "date": "2026-01-13"
   },
   {
@@ -744,15 +858,21 @@
     "date": "2026-01-13"
   },
   {
+    "title": "Millions with dementia still prescribed drugs linked to falls and confusion",
+    "summary": "Despite longstanding guidelines, many dementia patients are still prescribed brain-altering medications that can raise the risk of falls and confusion. A new study shows that while prescribing has decreased overall, people with cognitive impairment remain more likely to receive these drugs. In many cases, there was no documented medical justification. The results suggest that medication safety remains a serious concern in dementia care.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260113220915.htm",
+    "date": "2026-01-13"
+  },
+  {
     "title": "TB Can Use the Immune System to Boost Infection",
     "summary": "People and animals are very susceptible to infections from Mycobacterium tuberculosis (MTB), the bacterium that causes t ...",
     "hyperlink": "https://www.labroots.com/trending/microbiology/30062/tb-immune-system-boost-infection",
     "date": "2026-01-12"
   },
   {
-    "title": "New Insights Into the Genetics of Blindness",
-    "summary": "In patients with retinitis pigmentosa (RP), crucial cells in the retina known as rods and cones die over time; night bli ...",
-    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/30063/insights-genetics-blindness",
+    "title": "Albumin - A Blood Protein That Protects Us From Black Fungus",
+    "summary": "While rare, the fungal infection mucormycosis can be fatal. It tends to impact individuals who are immunocompromised or ...",
+    "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30064/albumin-blood-protein-protects-black-fungus",
     "date": "2026-01-12"
   },
   {
@@ -763,14 +883,44 @@
   },
   {
     "title": "A new test reveals which antibiotics truly kill bacteria",
-    "summary": "Scientists at the University of Basel created a new test that tracks individual bacteria to see which drugs truly eliminate them.",
+    "summary": "Some antibiotics stop bacteria from growing without actually killing them, allowing infections to return later.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260112211455.htm",
+    "date": "2026-01-12"
+  },
+  {
+    "title": "A hidden brain signal may reveal Alzheimer’s long before diagnosis",
+    "summary": "Researchers have discovered a brain activity pattern that can predict which people with mild cognitive impairment are likely to develop Alzheimer’s disease. Using a noninvasive brain scanning technique and a custom analysis tool, they detected subtle changes in electrical signals tied to memory processing years before diagnosis. The findings point to a new way of spotting Alzheimer’s early—by listening directly to how neurons behave.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260112001041.htm",
+    "date": "2026-01-12"
+  },
+  {
+    "title": "Why music brings no joy to some people",
+    "summary": "A small group of people experience no pleasure from music despite normal hearing and intact emotions. Brain imaging reveals that their auditory and reward systems fail to properly communicate, leaving music emotionally flat. Researchers developed a questionnaire to measure how rewarding music feels across emotions, mood, movement, and social connection. The findings suggest pleasure isn’t all-or-nothing and may depend on how specific brain networks connect.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260112001008.htm",
     "date": "2026-01-12"
   },
   {
     "title": "A Flow Valve in the Gut is Found",
     "summary": "Scientists have studied one ofd the most common laxatives in the world to reveal more about how the regulation of fluid ...",
     "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30060/flow-valve-gut-found",
+    "date": "2026-01-11"
+  },
+  {
+    "title": "Newly discovered coffee compounds beat diabetes drug in lab tests",
+    "summary": "Roasted coffee may do more than wake you up—it could help control blood sugar.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260110211224.htm",
+    "date": "2026-01-11"
+  },
+  {
+    "title": "A massive gene hunt reveals how brain cells are made",
+    "summary": "A large genetic screen has revealed how stem cells transform into brain cells, exposing hundreds of genes that make this process possible. Among the discoveries is PEDS1, a gene now linked to a previously unknown neurodevelopmental disorder in children. When PEDS1 does not work properly, brain growth and nerve cell formation are impaired. The findings help explain how early genetic changes can shape brain development and disease.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260111214444.htm",
+    "date": "2026-01-11"
+  },
+  {
+    "title": "A room full of flu patients and no one got sick",
+    "summary": "In a striking real-world experiment, flu patients spent days indoors with healthy volunteers, but the virus never spread",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260110211204.htm",
     "date": "2026-01-11"
   },
   {
@@ -781,7 +931,7 @@
   },
   {
     "title": "This natural amino acid could help stop cavities before they start",
-    "summary": "Arginine can help fight back against sugar-loving mouth bacteria that create acids that damage teeth.",
+    "summary": "Sugar-loving mouth bacteria create acids that damage teeth, but arginine can help fight back.",
     "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260108231335.htm",
     "date": "2026-01-09"
   },
@@ -804,96 +954,111 @@
     "date": "2026-01-08"
   },
   {
-    "title": "What science says about the Trump administration’s new vaccine schedule",
-    "summary": "The federal move to no longer recommend certain vaccines for all U.S. children is not supported by new evidence and could undermine health gains.",
-    "hyperlink": "https://www.sciencenews.org/article/vaccine-schedule-trump-science",
-    "date": "2026-01-08"
-  },
-  {
-    "title": "Long COVID may be fueled by inflammation and tiny clots",
-    "summary": "Researchers now link symptoms to lingering virus, inflammation, micro-clots, and disrupted energy metabolism.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260107225532.htm",
-    "date": "2026-01-08"
-  },
-  {
     "title": "Gut Microbes May Have Aided the Evolution of the Human Brain",
     "summary": "The microorganisms in our gastrointestinal tract-the gut microbiome, can exert a profound influence on the human body, a ...",
     "hyperlink": "https://www.labroots.com/trending/microbiology/30047/gut-microbes-aided-evolution-human-brain",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "New dietary guidelines flip the food pyramid",
-    "summary": "The new guidelines emphasizes eating protein and full-fat dairy while reducing sugar, carbs and ultraprocessed foods.",
-    "hyperlink": "https://www.sciencenews.org/article/new-dietary-guidelines-food-pyramid",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "Researchers in Japan built a miniature human brain circuit using fused stem-cell–derived organoids",
-    "summary": "allowing them to watch the thalamus and cortex interact in real time",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260106224630.htm",
-    "date": "2026-01-07"
-  },
-  {
-    "title": "New discovery in the field of astronomy",
-    "summary": "Scientists have made a new discovery in the field of astronomy, which could lead to a better understanding of the universe.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260106001916.htm",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "A simple drug pair may succeed where liver fibrosis treatments failed",
-    "summary": "Scientists have found that combining silybin with carvedilol works far better against liver fibrosis than either drug alone.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260106001906.htm",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Scientists find a safer way for opioids to relieve pain",
-    "summary": "Researchers at USF Health have discovered a new way opioid receptors can work that may lead to safer pain medications.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260105165817.htm",
-    "date": "2026-01-06"
-  },
-  {
-    "title": "Infant Screen Time Linked to Higher Levels of Teen Anxiety",
-    "summary": "High levels of screen time before age two is linked to slower decision-making at age 8 and higher levels of anxiety by a ...",
-    "hyperlink": "https://www.labroots.com/trending/neuroscience/30041/infant-screen-time-linked-levels-teen-anxiety",
-    "date": "2026-01-05"
-  },
-  {
-    "title": "Infectious Disease Roundup: Rising US Measles, Syphilis; Lassa in Nigeria",
-    "summary": "The US has recently added 53 more measles cases to its groewing total, largely fueled by outbreaks in 3 states, though 4 ...",
-    "hyperlink": "https://www.labroots.com/trending/microbiology/30037/infectious-disease-roundup-rising-measles-syphilis-lassa-nigeria",
-    "date": "2026-01-04"
+    "date": "2026-01-08"
   },
   {
     "title": "Anxiety Sufferers Tend to Have Low Choline Levels",
     "summary": "A new study reported in Molecular Psychiatry has shown that people with anxiety disorders tend to have lower levels of a ...",
     "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30040/anxiety-sufferers-tend-low-choline-levels",
-    "date": "2026-01-04"
+    "date": "2026-01-08"
   },
   {
-    "title": "Breakthrough in renewable energy",
-    "summary": "A new technology has been developed, offering a significant increase in renewable energy production and reducing reliance on fossil fuels.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260104202815.htm",
-    "date": "2026-01-04"
+    "title": "Long COVID may be fueled by inflammation and tiny clots",
+    "summary": "Long COVID affects an estimated 65 million people worldwide and can damage the brain, heart, blood vessels, and immune system long after infection.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260107225532.htm",
+    "date": "2026-01-08"
   },
   {
-    "title": "New insights into the human genome",
-    "summary": "Scientists have made a major breakthrough in understanding the human genome, opening up new possibilities for medical research and treatment.",
-    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260104202750.htm",
-    "date": "2026-01-04"
+    "title": "This brain trick makes exercise feel easier",
+    "summary": "Exercise doesn’t just challenge the body; it challenges how the brain interprets effort. Scientists discovered that vibrating tendons before cycling allowed people to push harder without feeling like they were working more. Their muscles and hearts worked overtime, but their sense of strain stayed the same. This brain-body mismatch could one day help make exercise feel less intimidating, especially for people who struggle to stay active.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260107225519.htm",
+    "date": "2026-01-08"
   },
   {
-    "title": "THC and celecoxib may promise new treatment for Alzheimer's",
-    "summary": "Researchers have discovered that a combination of THC and celecoxib may be effective in treating Alzheimer's disease.",
-    "hyperlink": "https://www.labroots.com/trending/cannabis-sciences/30139/thc-celecoxib-promise-alzheimer-s"
+    "title": "Metformin Tied to 37% Lower Risk of Mid-Stage AMD",
+    "summary": "Diabetes medication, metformin, is linked to less progression of age-related macular degeneration (AMD).",
+    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/30155/metformin-tied-37-lower-risk-mid-stage-amd",
+    "date": "2026-01-07"
   },
   {
-    "title": "Experimental drug NU-9 may promise new treatment for Alzheimer's",
-    "summary": "Researchers have discovered that an experimental drug called NU-9 may be effective in treating Alzheimer's disease.",
-    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/30027/experimental-drug-nu-9-promise-alzheimer-s"
+    "title": "Sleep Meds Safer Than Antipsychotics for Delirium",
+    "summary": "Trazodone is linked to better outcomes among older adults hospitalized with delirium than commonly used antipsychotic me ...",
+    "hyperlink": "https://www.labroots.com/trending/drug-discovery-and-development/30154/sleep-meds-safer-antipsychotics-delirium",
+    "date": "2026-01-07"
   },
   {
-    "title": "Teens spend more time on social media during school hours",
-    "summary": "A new study has found that teenagers spend more time on social media during school hours.",
-    "hyperlink": "https://www.labroots.com/trending/technology/30055/teens-spend-school-phone-time-social-media-2"
+    "title": "A Cellular Adaptation to Aging is Revealed",
+    "summary": "The endoplasmic reticulum is usually the biggest organelle in eukaryotic cells and is invovled in many crucial processes ...",
+    "hyperlink": "https://www.labroots.com/trending/cell-and-molecular-biology/30150/cellular-adaptation-aging-revealed",
+    "date": "2026-01-07"
+  },
+  {
+    "title": "Gene Variants Influence Long-Term Illness Risk After Viral Infection",
+    "summary": "Infections with Epstein-Barr virus (EBV) are very common; the virus is estimated to have infected at least 90% of all ad ...",
+    "hyperlink": "https://www.labroots.com/trending/genetics-and-genomics/30148/gene-variants-influence-long-term-illness-risk-viral-infection",
+    "date": "2026-01-07"
+  },
+  {
+    "title": "Colorectal Cancer Becomes the Deadliest Cancer in Young Adults",
+    "summary": "Reports of cancer incidence in young adults, generally defined as those under 50 years of age, have increased in recent",
+    "hyperlink": "https://www.labroots.com/trending/cancer/30149/colorectal-cancer-deadliest-cancer-adults",
+    "date": "2026-01-07"
+  },
+  {
+    "title": "Bacteria Form Stronger Mars Bricks Despite Toxic Soil",
+    "summary": "How can engineers design bricks on Mars for future habitats despite the toxic Martian regolith, also called perchlorates ...",
+    "hyperlink": "https://www.labroots.com/trending/space/30153/bacteria-form-stronger-mars-bricks-despite-toxic-soil-2",
+    "date": "2026-01-07"
+  },
+  {
+    "title": "New dietary guidelines flip the food pyramid",
+    "summary": "New dietary guidelines flip the food pyramid.",
+    "hyperlink": "https://www.sciencenews.org/article/new-dietary-guidelines-food-pyramid",
+    "date": "2026-01-07"
+  },
+  {
+    "title": "Japanese scientists just built human brain circuits in the lab",
+    "summary": "Researchers in Japan built a miniature human brain circuit using fused stem-cell–derived organoids, allowing them to watch the thalamus and cortex interact in real time. They found that the thalamus plays a decisive role in maturing the cortex and organizing its neural networks. Signals from the thalamus triggered synchronized activity in specific neuron types, while others remained unaffected. The system closely mimics human brain development and could transform how scientists study neurological disorders.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260106224630.htm",
+    "date": "2026-01-07"
+  },
+  {
+    "title": "Harmful mouth bacteria may trigger Parkinson’s disease",
+    "summary": "A familiar mouth bacterium best known for causing cavities may also be quietly influencing the brain. Scientists found that when this microbe settles in the gut, it produces compounds that can travel through the bloodstream and harm neurons involved in movement. In animal studies, this process triggered inflammation, motor problems, and brain changes linked to Parkinson’s disease. The findings hint that protecting oral and gut health could help protect the brain as well.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260106001916.htm",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "Advances in medical technology",
+    "summary": "Researchers have developed a new medical device that has the potential to revolutionize the field of medicine, improving patient outcomes and saving lives.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260106001906.htm",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "Why multiple sclerosis slowly steals balance and movement",
+    "summary": "Many people with multiple sclerosis struggle with balance and coordination, and this study uncovers a hidden reason why. Researchers found that inflammation in the brain disrupts the energy supply of vital movement-controlling neurons. As their mitochondria fail, these cells weaken and eventually die, worsening motor problems over time. Protecting brain energy systems could open the door to slowing these symptoms.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260106001913.htm",
+    "date": "2026-01-06"
+  },
+  {
+    "title": "The secret to human intelligence? It might be in our gut",
+    "summary": "New research shows gut bacteria can directly influence how the brain develops and functions. When scientists transferred microbes from different primates into mice, the animals’ brains began to resemble those of the original host species. Microbes from large-brained primates boosted brain energy and learning pathways, while others triggered very different patterns. The results suggest gut microbes may have played a hidden role in shaping the human brain—and could influence mental health.",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260105165806.htm",
+    "date": "2026-01-05"
+  },
+  {
+    "title": "Scientists discover “migrions,” a viral shortcut that supercharges infection",
+    "summary": "Scientists have uncovered a surprising viral shortcut that turns moving cells into delivery vehicles for infection",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260105165820.htm",
+    "date": "2026-01-05"
+  },
+  {
+    "title": "Flu drug once blamed for seizures in kids gets a surprising reversal",
+    "summary": "A long-running debate over Tamiflu’s safety in children may finally be settled",
+    "hyperlink": "https://www.sciencedaily.com/releases/2026/01/260105165818.htm",
+    "date": "2026-01-05"
   }
 ]
