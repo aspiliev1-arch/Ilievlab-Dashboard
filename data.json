@@ -8,67 +8,107 @@
   "source_batch_label": "medical_news_biweekly_digest",
   "topic_groups": [
     {
-      "topic": "Neuroscience and Sensory Biology",
+      "topic": "Cancer Research and Oncology",
       "articles": [
         {
-          "title": "Scientists finally reveal why mint feels cold",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260306224220.htm",
+          "title": "Stanford scientists say colorblindness may hide a deadly bladder cancer warning",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260309225222.htm",
           "url_valid": true,
           "source": "ScienceDaily",
-          "published_at": "2026-03-08",
-          "summary_4_sentences": "Scientists report how the body\u2019s cold sensor TRPM8 detects both cold temperatures and menthol. The finding explains at a molecular level why mint produces a cooling sensation. The work links the same microscopic sensor to responses from both environmental cold and chemical cooling. The researchers say the discovery could inspire treatments for pain and eye disorders.",
-          "keywords": ["TRPM8", "menthol", "cold sensation"]
-        }
-      ]
-    },
-    {
-      "topic": "Infectious Disease Research and Pathogens",
-      "articles": [
+          "published_at": "2026-03-10",
+          "summary_4_sentences": "Researchers analyzed millions of medical records to examine outcomes in people with bladder cancer who also have color vision deficiency. They found that bladder cancer patients who are colorblind had a 52% higher mortality rate over 20 years compared with patients with normal vision. The report suggests the difference may be related to difficulty seeing red, which could delay noticing blood in urine, a common early sign of bladder cancer. The findings highlight how a sensory impairment could affect symptom recognition and long-term outcomes.",
+          "keywords": ["bladder cancer", "colorblindness", "hematuria"]
+        },
         {
-          "title": "Scientists discover the protein that malaria parasites can\u2019t live without",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
+          "title": "How does early pregnancy lower breast cancer risk? Odd cells could offer clues",
+          "url": "https://www.sciencenews.org/article/early-pregnancy-breast-cancer-risk-women",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "A study examined why early pregnancy is associated with lower breast cancer risk. Scientists identified specific cell types that are altered by pregnancy hormones. Experiments indicated these cells suppress tumor formation. The results could help inform breast cancer prevention strategies.",
+          "keywords": ["breast cancer", "pregnancy", "hormones"]
+        },
+        {
+          "title": "Hidden metabolism found operating inside the cell nucleus",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "Researchers reported finding hundreds of metabolic enzymes attached to human DNA inside the cell nucleus. They observed that different tissues and cancers show distinct patterns of these enzymes, described as a \"nuclear metabolic fingerprint.\" The study also noted that some enzymes cluster near damaged DNA and may assist with repair. The discovery links metabolism with gene regulation in ways that could influence how cancers grow and respond to treatment.",
+          "keywords": ["nuclear metabolism", "DNA repair", "cancer biology"]
+        },
+        {
+          "title": "Scientists discover the switch that revives exhausted cancer-fighting T cells",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260304184235.htm",
           "url_valid": true,
           "source": "ScienceDaily",
           "published_at": "2026-03-05",
-          "summary_4_sentences": "Researchers identified a malaria-parasite protein called Aurora-related kinase 1 (ARK1) as a critical vulnerability. The study describes ARK1 as acting like a traffic controller during the parasite\u2019s unusual cell division. Because the parasite cannot live without this protein, it represents a potential target for new treatments. The report frames the finding as opening the door to antimalarial drug development.",
-          "keywords": ["malaria", "ARK1", "cell division"]
+          "summary_4_sentences": "Researchers built a genetic atlas of CD8 T cell states to understand why some tumor-fighting T cells remain effective while others become exhausted. The work identified molecular switches that steer cells toward resilience or exhaustion. The report states that disabling two previously unknown genes restored tumor-killing function in exhausted T cells while preserving features of long-term immune protection. These findings point to potential strategies to improve cancer immunotherapy by reversing T cell dysfunction.",
+          "keywords": ["T cell exhaustion", "CD8 T cells", "immunotherapy"]
         },
         {
-          "title": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
-          "url": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
+          "title": "Iron Nanomaterial Eradicates Cancer in Animal Model",
+          "url": "https://www.labroots.com/trending/drug-discovery-and-development/30271/iron-nanomaterial-eradicates-cancer-animal-model",
           "url_valid": true,
-          "source": "ScienceDaily",
-          "published_at": "2026-02-28",
-          "summary_4_sentences": "Scientists looking for new antibiotic targets report that multiple unrelated viruses can disable a bacterial protein called MurJ. MurJ is described as essential for building the bacterial cell wall. The work suggests that blocking MurJ functions like a kill switch for bacteria. The finding is presented as a potentially important avenue in efforts to combat drug-resistant infections.",
-          "keywords": ["MurJ", "antibiotic targets", "drug-resistant bacteria"]
+          "source": "Labroots",
+          "published_at": "2026-03-03",
+          "summary_4_sentences": "Scientists engineered an iron-based nanomaterial intended to selectively destroy cancer cells. The report says the nanomaterial induced tumor cell death while sparing surrounding healthy tissue in animal models. In vivo experiments were described as showing complete tumor regression without observable toxicity. The findings suggest a possible new avenue for targeted cancer therapy, pending further validation.",
+          "keywords": ["nanomaterial", "targeted therapy", "animal model"]
         },
         {
-          "title": "A 4,000-year-old sheep reveals the secret of an ancient plague",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260306224232.htm",
+          "title": "Scientists find the genetic switch that makes pancreatic cancer resist chemotherapy",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260303050624.htm",
           "url_valid": true,
           "source": "ScienceDaily",
-          "published_at": "2026-03-07",
-          "summary_4_sentences": "Scientists report a clue about an ancient plague that spread across Eurasia long before the Black Death. By analyzing ancient DNA, they detected Yersinia pestis in a 4,000-year-old domesticated sheep. The sheep came from a Bronze Age settlement in the Ural Mountains. The discovery is presented as evidence helping explain early forms of plague transmission and history.",
-          "keywords": ["Yersinia pestis", "ancient DNA", "Bronze Age"]
+          "published_at": "2026-03-03",
+          "summary_4_sentences": "Researchers identified a molecular switch associated with whether pancreatic cancer cells resist chemotherapy or respond to it. The report highlights the gene GATA6 as maintaining tumors in a more structured, treatable form, and describes its suppression by an overactive KRAS-driven pathway. When researchers blocked that pathway, GATA6 levels increased and cancer cells became more sensitive to chemotherapy. The findings suggest a potential strategy for making some pancreatic tumors more controllable with existing treatments.",
+          "keywords": ["pancreatic cancer", "chemotherapy resistance", "GATA6"]
+        },
+        {
+          "title": "Eating less protein may slow liver cancer growth, study finds",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260305223240.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-06",
+          "summary_4_sentences": "A Rutgers-led study examined whether lowering dietary protein could affect liver cancer in the context of impaired liver function. The report explains that when damaged livers cannot clear ammonia from protein metabolism, the excess ammonia can support tumor growth. In mice, reducing protein intake lowered ammonia levels, slowed tumor growth, and improved survival. The findings suggest diet may influence tumor biology in liver disease, though translation to humans is not established here.",
+          "keywords": ["liver cancer", "dietary protein", "ammonia"]
         }
       ]
     },
     {
-      "topic": "Vaccines, Aging, and Inflammation",
+      "topic": "Neurology, Mental Health, and Brain Science",
       "articles": [
         {
-          "title": "Shingles vaccine may slow biological aging and reduce inflammation",
-          "url": "https://www.sciencedaily.com/releases/2026/02/260225081153.htm",
+          "title": "Researchers find alarming Alzheimer’s pattern in rural America",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260309225154.htm",
           "url_valid": true,
           "source": "ScienceDaily",
-          "published_at": "2026-02-26",
-          "summary_4_sentences": "A national study examined whether shingles vaccination is associated with measures of biological aging. The analysis included more than 3,800 Americans age 70 and older. Those who received the shingles vaccine showed slower biological aging in the reported results. The summary also links vaccination with reduced inflammation.",
-          "keywords": ["shingles vaccine", "biological aging", "inflammation"]
-        }
-      ]
-    }
-  ],
-  "excluded_items": [],
-  "topic_count": 3,
-  "article_count": 5
-}
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "An analysis of more than 422,000 patients reported differences in Alzheimer’s diagnosis and care between urban and rural communities in Maryland. Rural regions were described as having fewer hospitals and dementia specialists, requiring longer travel for evaluation and treatment. Researchers found areas with high Alzheimer’s death rates but low diagnosis rates, suggesting under-identification of cases. The report frames these findings as evidence of a rural Alzheimer’s care gap.",
+          "keywords": ["Alzheimer's disease", "rural health", "diagnosis gap"]
+        },
+        {
+          "title": "Scientists discover hidden brain cells that may stop Alzheimer’s tau buildup",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260307155945.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-08",
+          "summary_4_sentences": "Researchers reported a role for specialized brain cells called tanycytes in handling toxic tau protein. The study suggests these cells can transport tau from cerebrospinal fluid into the bloodstream. When tanycytes are damaged or dysfunctional, tau may accumulate in the brain, which is described as a hallmark of Alzheimer’s disease. The findings propose a mechanism that could influence tau buildup and Alzheimer’s progression.",
+          "keywords": ["tanycytes", "tau", "Alzheimer's disease"]
+        },
+        {
+          "title": "Scientists just found the brain’s hidden defense against Alzheimer’s",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260303145730.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-03",
+          "summary_4_sentences": "A study investigated why some brain cells are more resistant to Alzheimer’s-related damage than others. Researchers described a natural cleanup system that removes toxic tau before it forms clumps. The report also states that cellular stress can generate a tau fragment associated with Alzheimer’s disease. The findings suggest that strengthening protective clearance mechanisms could be relevant for future treatment development.",
+          "keywords": ["tau clearance", "cellular stress", "neurodegeneration"]
+        },
+        {
+          "title": "Brain scans reveal how ketamine quickly lifts severe depression",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260307213234.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-08",
+          "
