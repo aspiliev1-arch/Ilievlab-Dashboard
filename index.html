@@ -113,6 +113,38 @@
       color: var(--muted);
     }
 
+    .topic-filter-bar {
+      margin-top: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .topic-filter-label {
+      font-size: 13px;
+      color: var(--muted);
+      margin-right: 2px;
+    }
+
+    .topic-option {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 10px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: var(--surface);
+      font-size: 13px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .topic-option input {
+      margin: 0;
+      cursor: pointer;
+    }
+
     .stats {
       margin-top: 10px;
       font-size: 13px;
@@ -212,6 +244,7 @@
         </div>
       </div>
 
+      <div id="topicFilters" class="topic-filter-bar" aria-label="Topic filters"></div>
       <div id="stats" class="stats">Loading…</div>
     </div>
 
@@ -225,6 +258,8 @@
       items: [],
       filtered: [],
       filterTimer: null,
+      activeTopic: "",
+      topics: [],
     };
 
     const els = {
@@ -232,6 +267,7 @@
       filterInput: document.getElementById("filterInput"),
       themeToggle: document.getElementById("themeToggle"),
       stats: document.getElementById("stats"),
+      topicFilters: document.getElementById("topicFilters"),
     };
 
     const dateFormatter = new Intl.DateTimeFormat("en-GB", {
@@ -343,7 +379,8 @@
     }
 
     function updateStats(shown, total) {
-      els.stats.textContent = `${shown} of ${total} article${total === 1 ? "" : "s"}`;
+      const topicPart = state.activeTopic ? ` | Topic: ${state.activeTopic}` : "";
+      els.stats.textContent = `${shown} of ${total} article${total === 1 ? "" : "s"}${topicPart}`;
     }
 
     function makeMetaRow(item) {
@@ -442,12 +479,65 @@
       updateStats(items.length, state.items.length);
     }
 
+    function renderTopicFilters() {
+      els.topicFilters.textContent = "";
+
+      const label = document.createElement("span");
+      label.className = "topic-filter-label";
+      label.textContent = "Theme:";
+      els.topicFilters.appendChild(label);
+
+      const options = ["", ...state.topics];
+
+      for (const topic of options) {
+        const wrapper = document.createElement("label");
+        wrapper.className = "topic-option";
+
+        const input = document.createElement("input");
+        input.type = "checkbox";
+        input.name = "topic-filter";
+        input.value = topic;
+        input.checked = topic === state.activeTopic;
+
+        input.addEventListener("change", () => {
+          setActiveTopic(topic, input.checked);
+        });
+
+        const text = document.createElement("span");
+        text.textContent = topic || "All topics";
+
+        wrapper.appendChild(input);
+        wrapper.appendChild(text);
+        els.topicFilters.appendChild(wrapper);
+      }
+    }
+
+    function syncTopicCheckboxes() {
+      const inputs = els.topicFilters.querySelectorAll('input[name="topic-filter"]');
+      inputs.forEach((input) => {
+        input.checked = input.value === state.activeTopic;
+      });
+    }
+
+    function setActiveTopic(topic, checked) {
+      if (!checked) {
+        state.activeTopic = "";
+      } else {
+        state.activeTopic = topic;
+      }
+
+      syncTopicCheckboxes();
+      applyFilter();
+    }
+
     function applyFilter() {
       const q = els.filterInput.value.trim().toLowerCase();
 
-      state.filtered = q
-        ? state.items.filter((item) => item.searchText.includes(q))
-        : state.items;
+      state.filtered = state.items.filter((item) => {
+        const matchesText = !q || item.searchText.includes(q);
+        const matchesTopic = !state.activeTopic || item.topic === state.activeTopic;
+        return matchesText && matchesTopic;
+      });
 
       render(state.filtered);
     }
@@ -502,6 +592,12 @@
           .map(normalizeItem)
           .sort((a, b) => b.timestamp - a.timestamp || a.title.localeCompare(b.title));
 
+        state.topics = [...new Set(state.items.map((item) => item.topic).filter(Boolean))].sort(
+          (a, b) => a.localeCompare(b)
+        );
+
+        state.activeTopic = "";
+        renderTopicFilters();
         applyFilter();
       } catch (err) {
         console.error(err);
