@@ -8,84 +8,93 @@
   "source_batch_label": "medical_news_biweekly_digest",
   "topic_groups": [
     {
-      "topic": "Cancer Research and Oncology",
+      "topic": "Cardiovascular Health and Stroke",
       "articles": [
         {
-          "title": "Stanford scientists say colorblindness may hide a deadly bladder cancer warning",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260309225222.htm",
-          "url_valid": true,
-          "source": "ScienceDaily",
-          "published_at": "2026-03-10",
-          "summary_4_sentences": "Researchers analyzed millions of medical records to examine outcomes in people with bladder cancer who also have color vision deficiency. They found that bladder cancer patients who are colorblind had a 52% higher mortality rate over 20 years compared with patients with normal vision. The report suggests the difference may be related to difficulty seeing red, which could delay noticing blood in urine, a common early sign of bladder cancer. The findings highlight how a sensory impairment could affect symptom recognition and long-term outcomes.",
-          "keywords": ["bladder cancer", "colorblindness", "hematuria"]
-        },
-        {
-          "title": "How does early pregnancy lower breast cancer risk? Odd cells could offer clues",
-          "url": "https://www.sciencenews.org/article/early-pregnancy-breast-cancer-risk-women",
-          "url_valid": true,
-          "source": "Science News",
-          "published_at": "2026-03-09",
-          "summary_4_sentences": "A study examined why early pregnancy is associated with lower breast cancer risk. Scientists identified specific cell types that are altered by pregnancy hormones. Experiments indicated these cells suppress tumor formation. The results could help inform breast cancer prevention strategies.",
-          "keywords": ["breast cancer", "pregnancy", "hormones"]
-        },
-        {
-          "title": "Hidden metabolism found operating inside the cell nucleus",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260309183010.htm",
-          "url_valid": true,
-          "source": "ScienceDaily",
-          "published_at": "2026-03-09",
-          "summary_4_sentences": "Researchers reported finding hundreds of metabolic enzymes attached to human DNA inside the cell nucleus. They observed that different tissues and cancers show distinct patterns of these enzymes, described as a \"nuclear metabolic fingerprint.\" The study also noted that some enzymes cluster near damaged DNA and may assist with repair. The discovery links metabolism with gene regulation in ways that could influence how cancers grow and respond to treatment.",
-          "keywords": ["nuclear metabolism", "DNA repair", "cancer biology"]
-        },
-        {
-          "title": "Scientists discover the switch that revives exhausted cancer-fighting T cells",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260304184235.htm",
-          "url_valid": true,
-          "source": "ScienceDaily",
-          "published_at": "2026-03-05",
-          "summary_4_sentences": "Researchers built a genetic atlas of CD8 T cell states to understand why some tumor-fighting T cells remain effective while others become exhausted. The work identified molecular switches that steer cells toward resilience or exhaustion. The report states that disabling two previously unknown genes restored tumor-killing function in exhausted T cells while preserving features of long-term immune protection. These findings point to potential strategies to improve cancer immunotherapy by reversing T cell dysfunction.",
-          "keywords": ["T cell exhaustion", "CD8 T cells", "immunotherapy"]
-        },
-        {
-          "title": "Iron Nanomaterial Eradicates Cancer in Animal Model",
-          "url": "https://www.labroots.com/trending/drug-discovery-and-development/30271/iron-nanomaterial-eradicates-cancer-animal-model",
+          "title": "Insomnia Plus Sleep Apnea Dramatically Raises Heart Risks",
+          "url": "https://www.labroots.com/trending/cardiology/30281/insomnia-plus-sleep-apnea-dramatically-raises-heart-risks-2",
           "url_valid": true,
           "source": "Labroots",
-          "published_at": "2026-03-03",
-          "summary_4_sentences": "Scientists engineered an iron-based nanomaterial intended to selectively destroy cancer cells. The report says the nanomaterial induced tumor cell death while sparing surrounding healthy tissue in animal models. In vivo experiments were described as showing complete tumor regression without observable toxicity. The findings suggest a possible new avenue for targeted cancer therapy, pending further validation.",
-          "keywords": ["nanomaterial", "targeted therapy", "animal model"]
+          "published_at": "2026-03-10",
+          "summary_4_sentences": "A cohort study found that having both insomnia and sleep apnea is associated with a markedly higher risk of cardiovascular disease than having either condition alone. Researchers reported a synergistic effect of the two sleep disorders on heart health. The work emphasizes early identification of both disorders. It also suggests that integrated treatment may reduce the elevated heart risk.",
+          "keywords": ["insomnia", "sleep apnea", "cardiovascular disease"]
         },
         {
-          "title": "Scientists find the genetic switch that makes pancreatic cancer resist chemotherapy",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260303050624.htm",
+          "title": "Pecans Improve Heart Health and Cholesterol",
+          "url": "https://www.labroots.com/trending/nocat/30243/pecans-improve-heart-health-cholesterol-2",
           "url_valid": true,
-          "source": "ScienceDaily",
-          "published_at": "2026-03-03",
-          "summary_4_sentences": "Researchers identified a molecular switch associated with whether pancreatic cancer cells resist chemotherapy or respond to it. The report highlights the gene GATA6 as maintaining tumors in a more structured, treatable form, and describes its suppression by an overactive KRAS-driven pathway. When researchers blocked that pathway, GATA6 levels increased and cancer cells became more sensitive to chemotherapy. The findings suggest a potential strategy for making some pancreatic tumors more controllable with existing treatments.",
-          "keywords": ["pancreatic cancer", "chemotherapy resistance", "GATA6"]
+          "source": "Labroots",
+          "published_at": "2026-03-10",
+          "summary_4_sentences": "A clinical trial reported that eating pecans daily lowered LDL cholesterol and raised HDL cholesterol. Participants also showed improved endothelial function and a modest reduction in systolic blood pressure. Researchers attributed the changes to pecans' monounsaturated fats, fiber, and antioxidants. The findings support including pecans as part of a balanced diet for cardiovascular health.",
+          "keywords": ["pecans", "cholesterol", "endothelial function"]
         },
         {
-          "title": "Eating less protein may slow liver cancer growth, study finds",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260305223240.htm",
+          "title": "Mediterranean Diet Linked to Lower Risk of Stroke in Women",
+          "url": "https://www.labroots.com/trending/neuroscience/30174/mediterranean-diet-linked-lower-risk-stroke-women",
           "url_valid": true,
-          "source": "ScienceDaily",
-          "published_at": "2026-03-06",
-          "summary_4_sentences": "A Rutgers-led study examined whether lowering dietary protein could affect liver cancer in the context of impaired liver function. The report explains that when damaged livers cannot clear ammonia from protein metabolism, the excess ammonia can support tumor growth. In mice, reducing protein intake lowered ammonia levels, slowed tumor growth, and improved survival. The findings suggest diet may influence tumor biology in liver disease, though translation to humans is not established here.",
-          "keywords": ["liver cancer", "dietary protein", "ammonia"]
+          "source": "Labroots",
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "An observational study found that women with higher adherence to a Mediterranean diet had a significantly lower risk of stroke. The analysis adjusted for factors including age, smoking, and physical activity. The results align with prior evidence of cardiovascular benefits from this dietary pattern. The study reinforces diet as an important modifiable factor for stroke prevention in women.",
+          "keywords": ["Mediterranean diet", "stroke", "women"]
+        },
+        {
+          "title": "Women's Heart Disease Risk Is Surging",
+          "url": "https://www.labroots.com/trending/cardiology/30279/women-s-heart-disease-risk-surging-2",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-05",
+          "summary_4_sentences": "An epidemiological analysis reported a sharp increase in cardiovascular disease risk among women worldwide. The study projects prevalence will rise substantially by 2050, driven by aging populations and lifestyle factors. Authors highlighted gaps in prevention and screening tailored to women. They called for targeted public-health strategies to curb the trend.",
+          "keywords": ["women", "heart disease", "public health"]
+        },
+        {
+          "title": "A safer, more effective atrial fibrillation treatment method using magnetic gel may be on the way",
+          "url": "https://medicalxpress.com/news/2026-03-safer-effective-atrial-fibrillation-treatment.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-05",
+          "summary_4_sentences": "Researchers developed a magnetic hydrogel intended to target atrial tissue and restore normal heart rhythm. In animal studies, the gel reduced arrhythmia episodes without causing tissue damage. The magnetic component enables non-invasive guidance of the therapy. The approach could become a less invasive alternative to existing ablation methods.",
+          "keywords": ["atrial fibrillation", "hydrogel", "magnetic targeting"]
         }
       ]
     },
     {
-      "topic": "Neurology, Mental Health, and Brain Science",
+      "topic": "Neuroscience, Dementia, and Mental Health",
       "articles": [
+        {
+          "title": "Dementia Drug Linked to Higher Stroke Risk",
+          "url": "https://www.labroots.com/trending/neuroscience/30291/dementia-drug-linked-stroke-risk",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "An investigation reported that risperidone use in dementia patients is associated with an elevated incidence of stroke. The analysis found a statistically significant increase in cerebrovascular events compared with dementia patients not receiving the drug. Authors recommended careful risk assessment when prescribing risperidone to this population. They also suggested considering alternatives with lower vascular risk profiles.",
+          "keywords": ["risperidone", "dementia", "stroke risk"]
+        },
+        {
+          "title": "165,000 dementia patients reveal hidden stroke risk from common drug",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260307213244.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-08",
+          "summary_4_sentences": "A UK study of more than 165,000 dementia patients found risperidone increases stroke risk. The reported elevation in risk applied even to patients without prior heart disease or stroke. The findings challenge the idea that some dementia patients may be safer candidates for this antipsychotic. The report notes that risperidone is the only drug of its type licensed for dementia and is often used as a last resort for severe agitation.",
+          "keywords": ["risperidone", "dementia agitation", "cerebrovascular events"]
+        },
+        {
+          "title": "Genetic Changes in Alzheimer's Patient Brains are Revealed",
+          "url": "https://www.labroots.com/trending/genetics-and-genomics/30289/genetic-changes-alzheimer-s-patient-brains-revealed",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-10",
+          "summary_4_sentences": "Researchers performed genomic analyses on brain tissue from Alzheimer's patients and identified genetic alterations associated with disease progression. The study reported mutations and expression changes that differentiated affected brains from healthy controls. Authors stated these findings provide potential targets for therapeutic intervention. The work also supports the idea of precision-medicine approaches in Alzheimer's treatment.",
+          "keywords": ["Alzheimer's disease", "genomics", "mutations"]
+        },
         {
           "title": "Researchers find alarming Alzheimer’s pattern in rural America",
           "url": "https://www.sciencedaily.com/releases/2026/03/260309225154.htm",
           "url_valid": true,
           "source": "ScienceDaily",
           "published_at": "2026-03-09",
-          "summary_4_sentences": "An analysis of more than 422,000 patients reported differences in Alzheimer’s diagnosis and care between urban and rural communities in Maryland. Rural regions were described as having fewer hospitals and dementia specialists, requiring longer travel for evaluation and treatment. Researchers found areas with high Alzheimer’s death rates but low diagnosis rates, suggesting under-identification of cases. The report frames these findings as evidence of a rural Alzheimer’s care gap.",
-          "keywords": ["Alzheimer's disease", "rural health", "diagnosis gap"]
+          "summary_4_sentences": "An analysis of more than 422,000 patients reported an Alzheimer's care gap between urban and rural communities in Maryland. Rural regions were described as lacking hospitals and dementia specialists, forcing longer travel for diagnosis and treatment. Researchers found areas with high Alzheimer's death rates but low diagnosis rates. They suggested this pattern indicates many cases may go unidentified.",
+          "keywords": ["Alzheimer's", "rural health", "diagnosis gap"]
         },
         {
           "title": "Scientists discover hidden brain cells that may stop Alzheimer’s tau buildup",
@@ -93,8 +102,17 @@
           "url_valid": true,
           "source": "ScienceDaily",
           "published_at": "2026-03-08",
-          "summary_4_sentences": "Researchers reported a role for specialized brain cells called tanycytes in handling toxic tau protein. The study suggests these cells can transport tau from cerebrospinal fluid into the bloodstream. When tanycytes are damaged or dysfunctional, tau may accumulate in the brain, which is described as a hallmark of Alzheimer’s disease. The findings propose a mechanism that could influence tau buildup and Alzheimer’s progression.",
+          "summary_4_sentences": "Researchers described tanycytes as specialized brain cells that may influence Alzheimer's disease by helping remove tau protein. The study suggests tanycytes transport tau from cerebrospinal fluid into the bloodstream. When tanycytes are damaged or dysfunctional, tau may accumulate in the brain. Tau accumulation is described as a hallmark of Alzheimer's disease.",
           "keywords": ["tanycytes", "tau", "Alzheimer's disease"]
+        },
+        {
+          "title": "Brain‑clearing cells offer clues to slowing Alzheimer's disease progression",
+          "url": "https://medicalxpress.com/news/2026-03-brain-cells-clues-alzheimer-disease.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-05",
+          "summary_4_sentences": "Researchers reported a type of glial cell that enhances clearance of toxic protein aggregates in the brain. In mouse models, boosting these cells reduced tau pathology and improved cognition. The findings suggest that enhancing brain-clearing mechanisms may slow Alzheimer's progression. Future work is planned to explore pharmacological activation of these cells.",
+          "keywords": ["glial cells", "protein clearance", "tau pathology"]
         },
         {
           "title": "Scientists just found the brain’s hidden defense against Alzheimer’s",
@@ -102,8 +120,8 @@
           "url_valid": true,
           "source": "ScienceDaily",
           "published_at": "2026-03-03",
-          "summary_4_sentences": "A study investigated why some brain cells are more resistant to Alzheimer’s-related damage than others. Researchers described a natural cleanup system that removes toxic tau before it forms clumps. The report also states that cellular stress can generate a tau fragment associated with Alzheimer’s disease. The findings suggest that strengthening protective clearance mechanisms could be relevant for future treatment development.",
-          "keywords": ["tau clearance", "cellular stress", "neurodegeneration"]
+          "summary_4_sentences": "A study reported that some brain cells are more resistant to Alzheimer's damage due to a natural cleanup system that removes toxic tau. The researchers also described that cellular stress can produce a tau fragment linked to Alzheimer's disease. The findings point to mechanisms that affect tau clumping and vulnerability across cells. Strengthening these natural defenses was suggested as a potential therapeutic direction.",
+          "keywords": ["tau", "cellular stress", "Alzheimer's defense"]
         },
         {
           "title": "Brain scans reveal how ketamine quickly lifts severe depression",
@@ -111,4 +129,393 @@
           "url_valid": true,
           "source": "ScienceDaily",
           "published_at": "2026-03-08",
-          "
+          "summary_4_sentences": "A brain-imaging study examined how ketamine produces rapid antidepressant effects in treatment-resistant depression. Researchers tracked changes in a receptor involved in neuronal communication and observed altered activity in brain regions linked to mood and reward. The reported receptor changes closely matched improvements in patients' symptoms. Authors said the findings could help predict who will benefit from ketamine therapy.",
+          "keywords": ["ketamine", "treatment-resistant depression", "brain imaging"]
+        },
+        {
+          "title": "A new “magic mushroom” drug could treat depression without psychedelic hallucinations",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260307213232.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-08",
+          "summary_4_sentences": "Researchers created modified versions of psilocin to target serotonin pathways linked to depression and other brain disorders. The report states these modified compounds appear to produce far fewer psychedelic-like effects. The work aims to preserve therapeutic activity while reducing hallucination-related side effects. The findings support continued development of non-hallucinogenic psychedelic-inspired treatments.",
+          "keywords": ["psilocin", "serotonin pathways", "depression"]
+        },
+        {
+          "title": "Better sleep could reduce anxiety in later life",
+          "url": "https://medicalxpress.com/news/2026-03-anxiety-life.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-04",
+          "summary_4_sentences": "A longitudinal analysis linked sleep quality in older adults with anxiety levels over time. Participants with consistently good sleep reported lower anxiety scores. The study controlled for health status and socioeconomic factors. The findings support sleep improvement as a potential strategy to mitigate anxiety in later life.",
+          "keywords": ["sleep quality", "anxiety", "older adults"]
+        },
+        {
+          "title": "Q&A: Exploring the neural basis of visual imagination",
+          "url": "https://medicalxpress.com/news/2026-03-qa-exploring-neural-basis-visual.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-08",
+          "summary_4_sentences": "In a Q&A, neuroscientists discussed research on how the brain generates visual imagery. They described functional imaging evidence for networks that overlap with perception and are modulated by memory and attention. The discussion highlighted gaps in understanding and individual variability. Future work aims to connect imagination capacity with creativity and mental health.",
+          "keywords": ["visual imagery", "functional imaging", "memory and attention"]
+        }
+      ]
+    },
+    {
+      "topic": "Cancer Research, Screening, and Therapies",
+      "articles": [
+        {
+          "title": "Stanford scientists say colorblindness may hide a deadly bladder cancer warning",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260309225222.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-10",
+          "summary_4_sentences": "An analysis of millions of medical records found that bladder cancer patients with colorblindness had a 52% higher mortality rate over 20 years than those with normal vision. The report suggests the likely reason is reduced ability to notice blood in urine, a common early sign of bladder cancer. Many people with color vision deficiency struggle to see red, which could delay detection. The findings imply that color vision may affect recognition of early warning signs.",
+          "keywords": ["bladder cancer", "colorblindness", "hematuria"]
+        },
+        {
+          "title": "Cancer Immunotherapies Work Better When Administered Early in the Day",
+          "url": "https://www.labroots.com/trending/cancer/30171/cancer-immunotherapies-administered-day",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "A chronobiology study examined whether immunotherapy timing affects cancer treatment response. Patients receiving immunotherapy in the morning showed improved response rates in the report. The findings suggest biological clocks influence immune activation. The article proposes scheduling as a simple strategy to potentially enhance outcomes.",
+          "keywords": ["immunotherapy", "chronobiology", "treatment timing"]
+        },
+        {
+          "title": "Microplastics Found in Prostate Cancer Tissue",
+          "url": "https://www.labroots.com/trending/cancer/30267/microplastics-found-prostate-cancer-tissue",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-08",
+          "summary_4_sentences": "Researchers reported detecting microplastic particles in prostate cancer tissue samples. The analysis was presented at the ASCO Genitourinary Cancers Symposium and compared malignant tissue with benign controls. The report states microplastics were present at higher concentrations in malignant tissue. Authors called for further studies to evaluate causality and health implications.",
+          "keywords": ["microplastics", "prostate cancer", "environmental exposure"]
+        },
+        {
+          "title": "Preventing breast cancer resistance to CDK4/6 inhibitors using genomic findings",
+          "url": "https://medicalxpress.com/news/2026-03-breast-cancer-resistance-cdk46-inhibitors.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-08",
+          "summary_4_sentences": "A genomic study identified mutations associated with resistance to CDK4/6 inhibitors in breast cancer. Functional assays showed that targeting linked pathways could restore drug sensitivity. The authors proposed combination therapies guided by patient-specific genomic profiles. Clinical validation was described as the next step to improve outcomes.",
+          "keywords": ["breast cancer", "CDK4/6 inhibitors", "drug resistance"]
+        },
+        {
+          "title": "AI blood test detects early pancreatic cancer with up to 94% accuracy",
+          "url": "https://medicalxpress.com/news/2026-03-ai-blood-early-pancreatic-cancer.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-05",
+          "summary_4_sentences": "The PanMETAI platform uses AI to analyze metabolic fingerprints from a blood sample. Validation on clinical cohorts reported up to 94% accuracy for detecting early-stage pancreatic cancer. The article notes that early detection can enable timely surgical intervention and improve survival. Further trials were described as necessary before routine screening use.",
+          "keywords": ["pancreatic cancer", "AI diagnostics", "metabolic fingerprints"]
+        },
+        {
+          "title": "Scientists find the genetic switch that makes pancreatic cancer resist chemotherapy",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260303050624.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-03",
+          "summary_4_sentences": "Researchers identified GATA6 as a molecular switch influencing whether pancreatic cancer cells resist chemotherapy. The report states GATA6 is suppressed by an overactive KRAS-driven pathway, pushing tumors toward a more resistant state. Blocking that pathway restored GATA6 levels and increased chemo sensitivity in the described experiments. The findings suggest a strategy to make some pancreatic tumors more controllable with existing treatments.",
+          "keywords": ["pancreatic cancer", "GATA6", "chemotherapy resistance"]
+        },
+        {
+          "title": "Iron Nanomaterial Eradicates Cancer in Animal Model",
+          "url": "https://www.labroots.com/trending/drug-discovery-and-development/30271/iron-nanomaterial-eradicates-cancer-animal-model",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-03",
+          "summary_4_sentences": "Scientists engineered an iron-based nanomaterial designed to selectively destroy cancer cells through catalytic reactions. In mouse tumor models, intravenous delivery led to complete tumor regression as reported. The approach generated reactive oxygen species primarily within the tumor microenvironment. The findings suggest a potential non-invasive therapeutic strategy that warrants further development.",
+          "keywords": ["nanomaterial", "reactive oxygen species", "mouse tumor model"]
+        }
+      ]
+    },
+    {
+      "topic": "Metabolism, Obesity, and Liver Disease",
+      "articles": [
+        {
+          "title": "Scientists found a surprising way to make exercise work better",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260308201620.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "Researchers reported that high blood sugar can blunt exercise-driven improvements in oxygen use. In mice, a ketogenic diet normalized blood sugar and improved muscle responses to exercise. The study described better oxygen use and more endurance fibers in muscles. The findings suggest diet and exercise can interact to improve metabolic health in this model.",
+          "keywords": ["ketogenic diet", "blood sugar", "exercise adaptation"]
+        },
+        {
+          "title": "Mayo Clinic discovers rare gene mutation that causes fatty liver disease",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260306224238.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-07",
+          "summary_4_sentences": "Mayo Clinic researchers identified a rare MET gene mutation that can directly cause metabolic dysfunction-associated steatotic liver disease. The mutation was reported to disrupt fat processing and contribute to inflammation, scarring, and potentially cirrhosis. The discovery began with a father and daughter who had disease without typical risk factors. The report adds that large-scale genomic data suggest similar rare variants may contribute more broadly.",
+          "keywords": ["fatty liver disease", "MET mutation", "genomics"]
+        },
+        {
+          "title": "AI blood test finds silent liver disease years before symptoms",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260305223204.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-06",
+          "summary_4_sentences": "Researchers developed an AI-driven liquid biopsy based on genome-wide patterns in circulating DNA fragments. The system detected early liver fibrosis and cirrhosis, conditions that can be clinically silent. The method analyzes fragmentation patterns rather than specific mutations to infer health signals. The article suggests earlier detection could enable earlier treatment and potentially prevent cancer.",
+          "keywords": ["liquid biopsy", "liver fibrosis", "circulating DNA"]
+        },
+        {
+          "title": "Anti‑obesity treatment could cost as little as $3 per month: Study",
+          "url": "https://medicalxpress.com/news/2026-03-anti-obesity-treatment-month.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-06",
+          "summary_4_sentences": "An economic analysis estimated the manufacturing cost of a popular anti-obesity drug after patent expiry. The study suggested production could be as low as $3 per month at scale. Authors argued such pricing could expand global access substantially. They proposed policy incentives to support affordable distribution.",
+          "keywords": ["anti-obesity drug", "manufacturing cost", "access"]
+        }
+      ]
+    },
+    {
+      "topic": "Microbiome, Nutrition, and Inflammation",
+      "articles": [
+        {
+          "title": "Gut Microbes Make a Metabolite That Increases Inflammation",
+          "url": "https://www.labroots.com/trending/nocat/30270/gut-microbes-metabolite-increases-inflammation",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-10",
+          "summary_4_sentences": "Scientists identified a metabolite produced by gut microbiota that triggers pro-inflammatory signaling in host tissues. Higher levels were associated with elevated cytokines including IL-16 and TNF-α in blood samples. In mouse autoimmune disease models, the metabolite exacerbated symptoms. The work suggests reducing microbial production of the compound could be a therapeutic approach for chronic inflammation.",
+          "keywords": ["gut microbiota", "metabolite", "inflammation"]
+        },
+        {
+          "title": "The Ratio of Fats in Diet Has a Significant Effect on Immunity",
+          "url": "https://www.labroots.com/trending/nocat/30287/ratio-fats-diet-significant-effect-immunity",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-10",
+          "summary_4_sentences": "A nutrition study reported that a higher ratio of unsaturated to saturated fats enhanced immune-cell activity, including macrophages and T-lymphocytes. Participants with higher polyunsaturated fat intake showed stronger antibody responses to vaccination. The high-ratio group also had lower circulating inflammatory markers such as C-reactive protein. The results suggest dietary fat composition can influence immunity and inflammation.",
+          "keywords": ["unsaturated fats", "immune response", "C-reactive protein"]
+        },
+        {
+          "title": "Inactive Ingredient in Semaglutide Alters Gut Bacteria, Raises Inflammatory Markers",
+          "url": "https://www.labroots.com/trending/drug-discovery-and-development/30272/inactive-ingredient-semaglutide-alters-gut-bacteria-raises-inflammatory-markers",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-03",
+          "summary_4_sentences": "A study reported that an inactive excipient in semaglutide altered gut microbiota composition in animal models. The microbiome changes were associated with higher inflammatory markers. Authors suggested these effects could contribute to unexpected side effects in patients. They recommended reevaluating excipient safety and monitoring gut health during semaglutide therapy.",
+          "keywords": ["semaglutide", "excipient", "gut microbiome"]
+        }
+      ]
+    },
+    {
+      "topic": "Infectious Diseases, Vaccines, and Antimicrobial Resistance",
+      "articles": [
+        {
+          "title": "A potential broad coronavirus drug target: Blocking tRNA‑modifying enzymes slows viral proteins",
+          "url": "https://medicalxpress.com/news/2026-03-potential-broad-coronavirus-drug-blocking.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-07",
+          "summary_4_sentences": "Researchers identified host tRNA-modifying enzymes as important for coronavirus protein synthesis. In cell culture, inhibiting these enzymes reduced viral replication across multiple coronavirus strains. The approach is presented as a host-targeted antiviral strategy that may be less prone to resistance. Further development was suggested to pursue pan-coronavirus therapeutics.",
+          "keywords": ["coronavirus", "tRNA-modifying enzymes", "antiviral strategy"]
+        },
+        {
+          "title": "HIV‑seq tool finds active reservoir cells during therapy",
+          "url": "https://medicalxpress.com/news/2026-03-hiv-seq-tool-reservoir-cells.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-07",
+          "summary_4_sentences": "A sequencing platform called HIV-seq was used on blood samples from people receiving antiretroviral therapy. The tool detected rare cells containing transcriptionally active proviruses. Mapping these cells was described as providing insight into HIV persistence mechanisms during therapy. The work is positioned as informing future strategies to eradicate latent HIV reservoirs.",
+          "keywords": ["HIV-seq", "viral reservoirs", "antiretroviral therapy"]
+        },
+        {
+          "title": "When floods hit, the risk of malaria follows: How disaster systems can prepare better",
+          "url": "https://medicalxpress.com/news/2026-03-malaria-disaster.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-07",
+          "summary_4_sentences": "An epidemiological analysis linked floods in southern Africa to subsequent increases in malaria cases. The study identified gaps in vector control and health-system readiness after disasters. Modeling suggested that targeted interventions could reduce outbreak risk. The authors recommended integrating malaria surveillance into disaster response planning.",
+          "keywords": ["malaria", "floods", "disaster response"]
+        },
+        {
+          "title": "Scientists discover the protein that malaria parasites can’t live without",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260304184221.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-05",
+          "summary_4_sentences": "Researchers identified Aurora-related kinase 1 (ARK1) as critical for malaria parasite replication. The protein was described as coordinating genetic material separation during the parasite's atypical cell division. Switching off ARK1 in laboratory experiments prevented proper replication and blocked completion of the life cycle in both humans and mosquitoes. The findings highlight ARK1 as a potential target for new antimalarial treatments.",
+          "keywords": ["malaria", "ARK1", "parasite replication"]
+        }
+      ]
+    },
+    {
+      "topic": "Sleep, Youth Health, and Behavioral Development",
+      "articles": [
+        {
+          "title": "Popular pre-workout supplements linked to dangerous sleep loss",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260308201618.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "A study of people aged 16 to 30 found pre-workout supplement users were more than twice as likely to sleep five hours or less per night. The report attributes this to large doses of caffeine and other stimulants that can persist for hours. Researchers raised concerns about impacts on health and development in young people. The findings suggest that perceived workout benefits may come with substantial sleep costs.",
+          "keywords": ["pre-workout supplements", "sleep loss", "caffeine"]
+        },
+        {
+          "title": "Teenagers are getting far less sleep now than they did in late 2000s, finds new study",
+          "url": "https://medicalxpress.com/news/2026-03-teenagers-late-2000s.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-08",
+          "summary_4_sentences": "Survey data show adolescents sleep less now than in the late 2000s. The decline was linked to increased screen time and academic pressures. Sleep deprivation was associated with poorer mental health outcomes. The study called for policy measures to support healthier teen sleep habits.",
+          "keywords": ["teen sleep", "screen time", "mental health"]
+        },
+        {
+          "title": "Harsh parenting may cancel routine's benefits during the preschool‑to‑first‑grade shift",
+          "url": "https://medicalxpress.com/news/2026-03-harsh-parenting-cancel-routine-benefits.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-08",
+          "summary_4_sentences": "A longitudinal study examined routine stability and parenting style during the preschool-to-first-grade transition. Children exposed to harsh parenting had reduced academic-adjustment benefits from established routines. Behavioral assessments indicated increased stress and lower engagement in this group. The authors suggested supportive parenting interventions to help preserve routine-related advantages.",
+          "keywords": ["parenting", "school transition", "child stress"]
+        },
+        {
+          "title": "Ultra-processed foods in preschool years associated with behavioral difficulties in childhood",
+          "url": "https://medicalxpress.com/news/2026-03-ultra-foods-preschool-years-behavioral.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-03",
+          "summary_4_sentences": "A longitudinal study linked higher intake of ultra-processed foods in preschool years to later behavioral and emotional difficulties. Researchers tracked dietary patterns and child development outcomes over time. Higher consumption correlated with increased behavioral problems. The findings support recommendations to limit ultra-processed foods in early childhood.",
+          "keywords": ["ultra-processed foods", "child behavior", "longitudinal study"]
+        }
+      ]
+    },
+    {
+      "topic": "Diagnostics, Wearables, and Bioengineering",
+      "articles": [
+        {
+          "title": "Smart underwear measures how often humans fart",
+          "url": "https://www.sciencenews.org/article/smart-underwear-human-fart-frequency",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-10",
+          "summary_4_sentences": "Researchers described a wearable device embedded in underwear that records how often people pass gas. Volunteers wore the device in everyday settings to collect frequency data. Results showed substantial variation between individuals, with some producing much more gas than others. The report suggests the data could help scientists study gut microbiome activity.",
+          "keywords": ["wearable device", "flatulence", "gut microbiome"]
+        },
+        {
+          "title": "Painless skin patch offers new way to monitor immune health",
+          "url": "https://medicalxpress.com/news/2026-03-painless-skin-patch-immune-health.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-02-03",
+          "summary_4_sentences": "Researchers developed a bandage-like microneedle patch that samples interstitial fluid from the skin without pain. The device is designed to capture immune biomarkers for real-time monitoring. The article describes potential uses in both clinical care and research settings. The technology could simplify assessment of immune health compared with more invasive sampling.",
+          "keywords": ["microneedle patch", "interstitial fluid", "immune biomarkers"]
+        },
+        {
+          "title": "Transplanted neural stem cells help preserve vision in retinal degeneration",
+          "url": "https://medicalxpress.com/news/2026-03-transplanted-neural-stem-cells-vision.html",
+          "url_valid": true,
+          "source": "Medical Xpress",
+          "published_at": "2026-03-07",
+          "summary_4_sentences": "In mouse models of retinal degeneration, transplanted neural stem cells integrated with host tissue and released neuroprotective factors. The treatment preserved photoreceptor function in the reported experiments. Visual acuity measures showed sustained improvement over months. The work suggests a potential path toward cell-based therapies for human retinal diseases.",
+          "keywords": ["retinal degeneration", "neural stem cells", "neuroprotection"]
+        }
+      ]
+    },
+    {
+      "topic": "Other Medical and Science News",
+      "articles": [
+        {
+          "title": "Tree tops sparkle with electricity during thunderstorms",
+          "url": "https://www.sciencenews.org/article/tree-sparkle-electricity-thunderstorms",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-10",
+          "summary_4_sentences": "Researchers observed electrical discharges at tree tips during thunderstorms. High-speed cameras captured bright sparks moving along branches. The phenomenon is linked to static charge buildup in foliage. The report suggests understanding it could improve outdoor safety guidelines.",
+          "keywords": ["thunderstorms", "electrical discharge", "tree canopy"]
+        },
+        {
+          "title": "Lakes are growing in Alaska. That’s not entirely a bad thing",
+          "url": "https://www.sciencenews.org/article/glacier-lakes-alaska-growing-climate",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "Satellite data indicate many lakes in Alaska have expanded in recent years. The growth is attributed to melting permafrost and increased precipitation. Larger lakes may support wildlife but can also alter local ecosystems. Researchers are assessing the mixture of benefits and challenges posed by these changes.",
+          "keywords": ["Alaska", "lake expansion", "permafrost"]
+        },
+        {
+          "title": "When the pressure’s off, this superconductor appears to break records",
+          "url": "https://www.sciencenews.org/article/pressure-superconductor-record-break",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-09",
+          "summary_4_sentences": "Researchers reported a superconducting material with a record-high critical temperature under low pressure. Follow-up experiments described superconductivity at 250 K in a hydrogen-rich compound under 200 GPa of pressure. The findings are presented as progress toward practical superconductors for energy transmission. Future work aims to reproduce the effect at lower pressures and scale the technology.",
+          "keywords": ["superconductivity", "critical temperature", "high pressure"]
+        }
+      ]
+    }
+  ],
+  "excluded_items": [
+    {
+      "title": "Bacteria Form Stronger Mars Bricks Despite Toxic Soil",
+      "url": "https://www.labroots.com/trending/space/30153/bacteria-form-stronger-mars-bricks-despite-toxic-soil-2",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Gene Variants Influence Long-Term Illness Risk After Viral Infection",
+      "url": "https://www.labroots.com/trending/genetics-and-genomics/30148/gene-variants-influence-long-term-illness-risk-viral-infection",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Re-thinking 'in-house' targeted GBS testing strategies can save time & money",
+      "url": "https://www.labroots.com/trending/genetics-and-genomics/30118/re-thinking-in-house-targeted-gbs-testing-strategies-save-time-money",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Improving reproducibility in scientific research",
+      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/29940/improving-reproducibility-scientific-research",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "How Gut Microbes Can Help Determine if Tumors Grow",
+      "url": "https://www.labroots.com/trending/microbiology/30176/gut-microbes-help-determine-tumors-grow",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Tardigrades Reveal Risks and Rewards of Martian Regolith",
+      "url": "https://www.labroots.com/trending/space/30263/tardigrades-reveal-risks-rewards-martian-regolith-2",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Genes That Help Shape the Oral Microbiome",
+      "url": "https://www.labroots.com/trending/microbiology/30147/genes-help-shape-oral-microbiome",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Survival Improves in Breast Cancer Patients Following Medicaid Expansion",
+      "url": "https://www.labroots.com/trending/cancer/30258/survival-improves-breast-cancer-patients-following-medicaid-expansion",
+      "reason": "too_old"
+    },
+    {
+      "title": "Sleep Helps Clean Neuronal Houses",
+      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30255/sleep-helps-clean-neuronal-houses",
+      "reason": "too_old"
+    },
+    {
+      "title": "Fast‐food AI drive‐thrus may nudge you toward junk food",
+      "url": "https://www.labroots.com/trending/technology/30248/fast-food-ai-drive-thrus-nudge-junk-food-2",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Persistent Signaling Drives Immune Cell Memory",
+      "url": "https://www.labroots.com/trending/immunology/30211/persistent-signaling-drives-immune-cell-memory",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "No title available",
+      "url": "https://example.com",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Inflammatory Bowel Disease Drives Colorectal Cancer",
+      "url": "https://www.labroots.com/trending/immunology/30136/inflammatory-bowel-disease-drives-colorectal-cancer",
+      "reason": "too_old"
+    }
+  ],
+  "topic_count": 8,
+  "article_count": 34
+}
