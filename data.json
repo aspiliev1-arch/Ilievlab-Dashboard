@@ -1,116 +1,868 @@
 {
   "digest_type": "biweekly_medical_news",
-  "digest_date": "2026-03-30",
+  "digest_date": "2026-04-02",
   "date_range": {
-    "start": "2026-03-16",
-    "end": "2026-03-30"
+    "start": "2026-03-19",
+    "end": "2026-04-02"
   },
   "source_batch_label": "medical_news_biweekly_digest",
-  "topic_groups": [],
+  "topic_groups": [
+    {
+      "topic": "Cancer Biology, Diagnostics, and Treatments",
+      "articles": [
+        {
+          "title": "What’s hiding inside colon cancer could change treatment",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260401071951.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-04-01",
+          "summary_4_sentences": "Researchers analyzed DNA from more than 9,000 patients to look for tumor-associated microbial patterns. They report that only colorectal tumors consistently host distinct microbial communities compared with other cancers. The finding challenges the idea that all cancers have their own consistent microbial signatures. The authors suggest the colorectal cancer microbial \"fingerprint\" could inform future diagnosis and treatment approaches.",
+          "keywords": ["colorectal cancer", "microbiome", "tumor fingerprint"]
+        },
+        {
+          "title": "Scientists discover hidden “winds” inside cells that could explain cancer spread",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331001102.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-04-01",
+          "summary_4_sentences": "Scientists report that cells can generate internal currents that move proteins rapidly within the cell. These \"cellular winds\" push materials toward the front of the cell, supporting faster movement and repair. The system was discovered by chance and then confirmed with advanced imaging. The authors suggest this mechanism could help explain why some cancer cells spread quickly.",
+          "keywords": ["cell biology", "intracellular transport", "metastasis"]
+        },
+        {
+          "title": "3 million-cell map shows menopause reshapes breast tissue, possibly raising cancer risk",
+          "url": "https://medicalxpress.com/news/2026-03-million-cell-menopause-reshapes-breast.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Researchers created a single-cell atlas of more than 3 million cells to examine how menopause affects breast tissue. The map shows menopause is associated with structural and cellular changes in breast tissue architecture. The authors note these changes may be linked to increased breast cancer risk. They say the atlas provides detailed insight into hormonal effects that could shape cancer susceptibility research.",
+          "keywords": ["menopause", "single-cell atlas", "breast cancer risk"]
+        },
+        {
+          "title": "Heat-activated skin patch can kill melanoma cells without surgery",
+          "url": "https://medicalxpress.com/news/2026-04-skin-patch-melanoma-cells-surgery.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "A heat-activated skin patch was engineered to target melanoma cells without requiring surgery. The patch generates localized heat intended to kill cancer cells while sparing healthy tissue. Preclinical experiments in mouse models showed tumor reduction. The researchers frame the patch as a potential non-invasive melanoma treatment approach.",
+          "keywords": ["melanoma", "localized hyperthermia", "noninvasive therapy"]
+        },
+        {
+          "title": "New, more effective delivery method for eye cancer treatment is derived from pig semen",
+          "url": "https://medicalxpress.com/news/2026-03-effective-delivery-method-eye-cancer.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Researchers developed a drug-delivery method derived from pig semen to improve penetration of the eye barrier. The technique is intended to enhance drug delivery to retinoblastoma tumors. Preclinical testing showed increased efficacy compared with existing approaches described in the summary. The authors suggest the method could improve outcomes for pediatric eye cancer patients.",
+          "keywords": ["retinoblastoma", "drug delivery", "ocular barrier"]
+        },
+        {
+          "title": "Pesticides linked to cancer reveals biological mechanisms",
+          "url": "https://medicalxpress.com/news/2026-03-pesticides-cancer-reveals-biological-mechanisms.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "A study in Nature Health assessed pesticide exposure and cancer incidence across the United States. Researchers combined cancer registry data with environmental measurements of pesticide levels. They report a strong statistical association between pesticide exposure and increased cancer risk. The authors state the results suggest biological mechanisms that could link pesticides to carcinogenesis.",
+          "keywords": ["pesticides", "cancer risk", "environmental exposure"]
+        },
+        {
+          "title": "Choosing Between Quality of Life and Prolonged Survival",
+          "url": "https://www.labroots.com/trending/cancer/30365/choosing-quality-life-prolonged-survival",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-29",
+          "summary_4_sentences": "This commentary discusses the ethical tradeoff between life extension and quality of life in cancer care. It describes cases in which aggressive treatment prolonged survival but reduced functional well-being. The authors argue for patient-centered decisions that explicitly weigh personal values. They recommend integrating quality-of-life metrics into oncology care plans.",
+          "keywords": ["oncology ethics", "quality of life", "shared decision-making"]
+        },
+        {
+          "title": "Gut Inflammation can Alter the Epigenome to Boost Cancer",
+          "url": "https://www.labroots.com/trending/genetics-and-genomics/30362/gut-inflammation-alter-epigenome-boost-cancer",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-29",
+          "summary_4_sentences": "Researchers report that chronic gut inflammation can change the epigenetic landscape of intestinal cells. The described epigenetic alterations promote oncogenic pathways and increase cancer risk. In animal models, reducing inflammation reversed some of these epigenetic changes. The findings highlight inflammation control as a potential cancer-prevention strategy.",
+          "keywords": ["gut inflammation", "epigenetics", "cancer risk"]
+        },
+        {
+          "title": "Soft Robots Mimic Snails for Precise Cancer Drug Delivery",
+          "url": "https://www.labroots.com/trending/technology/30360/soft-robots-mimic-snails-precise-cancer-drug-delivery-2",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-27",
+          "summary_4_sentences": "Engineers developed soft robotic devices that emulate snail-like locomotion to move through tumor tissue. The devices can carry chemotherapy agents and release them at targeted sites. In vitro testing showed improved penetration compared with conventional delivery methods. The authors suggest the approach could reduce systemic toxicity and improve treatment efficacy.",
+          "keywords": ["soft robotics", "targeted delivery", "chemotherapy"]
+        },
+        {
+          "title": "Scientists discover why cancer drugs don’t work for everyone",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260326075550.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-27",
+          "summary_4_sentences": "Researchers describe a mechanism in which certain cancer drugs become trapped inside lysosomes in tumor cells. They report the trapped drug can form slow-release reservoirs that create uneven distribution within tumors. This may leave some cancer cells highly exposed while others receive little exposure. The authors suggest understanding this process could support more tailored treatment strategies.",
+          "keywords": ["lysosomes", "drug resistance", "tumor heterogeneity"]
+        },
+        {
+          "title": "Scientists turn probiotic bacteria into tumor-hunting cancer killers",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260321004445.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-21",
+          "summary_4_sentences": "Scientists engineered probiotic bacteria to act as tumor-seeking drug producers in mice. The bacteria infiltrated tumors and generated a cancer-fighting drug locally. The researchers suggest this could improve effectiveness while reducing side effects compared with less targeted delivery. They note more research is needed before testing in people.",
+          "keywords": ["probiotics", "tumor targeting", "engineered bacteria"]
+        },
+        {
+          "title": "New AI tool predicts cancer spread with surprising accuracy",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260321012709.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-21",
+          "summary_4_sentences": "Researchers studied colon tumor cells and identified gene patterns associated with metastatic potential. They developed an AI model called MangroveGS to predict metastasis risk. The summary reports the model achieved about 80% accuracy and generalized across multiple cancer types. The authors suggest it could help guide decisions about who needs more aggressive treatment.",
+          "keywords": ["metastasis prediction", "AI model", "gene signatures"]
+        },
+        {
+          "title": "Non‑Invasive Device Approved for Pancreatic Cancer Treatment",
+          "url": "https://www.labroots.com/trending/cancer/30309/non-invasive-device-approved-pancreatic-cancer-treatment",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-19",
+          "summary_4_sentences": "Labroots reports the FDA approved a wearable device intended to treat pancreatic cancer non-invasively. The device is described as delivering targeted therapy without surgery. The summary states clinical trials showed improved outcomes and tolerability compared with standard treatments. The approval is presented as a notable advance in pancreatic cancer management.",
+          "keywords": ["pancreatic cancer", "FDA approval", "wearable device"]
+        }
+      ]
+    },
+    {
+      "topic": "Cardiovascular Health, Lipids, and Blood Pressure",
+      "articles": [
+        {
+          "title": "Cholesterol Drug Lowers Stroke Risk in High-Risk Patients",
+          "url": "https://www.labroots.com/trending/drug-discovery-and-development/30376/cholesterol-drug-lowers-stroke-risk-high-risk-patients",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "A study reported that the cholesterol-lowering drug evolocumab reduced the risk of first-time heart attack and stroke. The medication was tested in a large cohort of high-risk patients over multiple years. Findings showed a statistically significant reduction in cardiovascular events compared with standard therapy. The results support evolocumab as a preventive option in high-risk populations.",
+          "keywords": ["evolocumab", "stroke prevention", "cardiovascular risk"]
+        },
+        {
+          "title": "Hardly anyone uses this surprisingly simple blood pressure fix",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331034337.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "A national analysis spanning nearly two decades found that few Americans use salt substitutes. The report describes salt substitutes as a low-cost way to reduce sodium intake and improve blood pressure. Usage remained low over time, including among people likely to benefit most. Researchers characterize this as a missed opportunity to prevent heart disease and stroke.",
+          "keywords": ["salt substitutes", "hypertension", "sodium reduction"]
+        },
+        {
+          "title": "Treatment guided by noninvasive device to monitor lung congestion improves heart failure outcomes",
+          "url": "https://medicalxpress.com/news/2026-03-treatment-noninvasive-device-lung-congestion.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "A clinical trial evaluated a noninvasive device that monitors lung congestion in patients with heart failure with preserved ejection fraction. Treatment adjustments guided by the device reduced hospitalizations and deaths. The summary reports improved outcomes compared with usual care. The authors suggest this approach could become part of standard management.",
+          "keywords": ["heart failure", "lung congestion monitoring", "noninvasive device"]
+        },
+        {
+          "title": "This overlooked hormone could be why your blood pressure won’t drop",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330001131.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "A large U.S. study found elevated cortisol in 27% of people with hard-to-treat high blood pressure. The summary describes this as much higher than expected and potentially overlooked in routine care. Researchers suggest this hormone abnormality could explain why standard medications fail for some patients. The findings point to possible new testing and treatment approaches for resistant hypertension.",
+          "keywords": ["cortisol", "resistant hypertension", "endocrine causes"]
+        },
+        {
+          "title": "Powerful cholesterol drug cuts heart attack risk by 31%",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330001129.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "Researchers reported that evolocumab reduced first-time heart attacks and strokes in high-risk patients with diabetes. The summary states the benefit was observed even before any plaque was detected. The report frames this as a shift in how the drug could be used in prevention, beyond patients with established cardiovascular disease. The findings highlight expanding options for lowering risk in high-risk groups.",
+          "keywords": ["evolocumab", "primary prevention", "diabetes"]
+        },
+        {
+          "title": "New pill cuts “bad” cholesterol by 60% in major trial",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260321012659.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-21",
+          "summary_4_sentences": "A large clinical trial found that enlicitide lowered LDL cholesterol by about 60%. The summary reports that the pill’s effect was comparable to injectable therapies. Researchers suggest an oral option could reduce barriers to using potent cholesterol-lowering treatments. They note many patients do not reach safe cholesterol levels even when taking statins.",
+          "keywords": ["enlicitide", "LDL cholesterol", "oral therapy"]
+        },
+        {
+          "title": "New cholesterol guidelines could change when you get tested",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260328043554.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-29",
+          "summary_4_sentences": "A new U.S. cholesterol guideline emphasizes earlier and more personalized prevention of heart disease. It recommends starting screening sooner, sometimes in childhood, and tracking genetic risk factors such as lipoprotein(a). The guideline also describes an updated risk calculator using broader health data to estimate long-term risk. The changes aim to improve prediction of heart attack and stroke risk over decades.",
+          "keywords": ["cholesterol screening", "lipoprotein(a)", "risk calculator"]
+        },
+        {
+          "title": "Start cholesterol tests in childhood, new guidelines say",
+          "url": "https://www.sciencenews.org/article/cholesterol-ldl-childhood-guidelines",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-26",
+          "summary_4_sentences": "New health guidelines recommend beginning cholesterol screening in children. The policy is based on evidence linking early lipid levels to later cardiovascular risk. The article describes implementing screening during routine pediatric check-ups. The goal is earlier detection and prevention-focused care.",
+          "keywords": ["pediatric screening", "LDL", "prevention"]
+        },
+        {
+          "title": "Scientists discover surprising brain trigger behind high blood pressure",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260322020302.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-22",
+          "summary_4_sentences": "Researchers traced a potential trigger for high blood pressure to a region in the brainstem associated with breathing control. The summary states this region activates during forceful exhalations and may also stimulate nerves that constrict blood vessels. When the region was switched off in experiments, blood pressure returned to normal. The findings suggest a direct brain-based contribution to hypertension.",
+          "keywords": ["brainstem", "hypertension", "neural control"]
+        },
+        {
+          "title": "This common vaccine cuts heart risk nearly in half in new study",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260319044659.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-20",
+          "summary_4_sentences": "A study reported that shingles vaccination was associated with a 46% reduction in major cardiac events in high-risk people. The summary also reports a 66% reduction in deaths within a year in the vaccinated group. Researchers propose that preventing shingles may reduce clot-related complications that contribute to heart attacks and strokes. The article compares the magnitude of effect to other major risk-reduction measures described in the summary.",
+          "keywords": ["shingles vaccine", "cardiac events", "mortality"]
+        },
+        {
+          "title": "Shingles Vaccine Linked to 46% Lower Risk of Cardiac Event",
+          "url": "https://www.labroots.com/trending/drug-discovery-and-development/30348/shingles-vaccine-linked-46-lower-risk-cardiac-event",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-24",
+          "summary_4_sentences": "A study found shingles vaccination was associated with a 46% lower incidence of cardiac events among people with pre-existing heart conditions. The analysis also reported reduced mortality within one year after vaccination. Researchers evaluated outcomes in a cohort with cardiovascular risk factors. The findings suggest the vaccine may have cardiovascular benefits beyond preventing shingles.",
+          "keywords": ["zoster vaccine", "cardiovascular outcomes", "prevention"]
+        }
+      ]
+    },
+    {
+      "topic": "Neurology, Brain Health, and Neurodegeneration",
+      "articles": [
+        {
+          "title": "Mirror fragments intercept Alzheimer's-causing protein",
+          "url": "https://medicalxpress.com/news/2026-03-mirror-fragments-intercept-alzheimer-protein.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Scientists at Kobe University designed a small mirror protein intended to bind amyloid-beta. The mirror fragments are reported to intercept and neutralize the pathogenic protein linked to Alzheimer's disease. Preliminary results described in the summary showed reduced amyloid aggregation. The approach is presented as a potential new therapeutic strategy.",
+          "keywords": ["Alzheimer's disease", "amyloid-beta", "protein engineering"]
+        },
+        {
+          "title": "Small molecule could slow or stop progress of Parkinson's disease and related brain disorders, not just treat symptoms",
+          "url": "https://medicalxpress.com/news/2026-03-small-molecule-parkinson-disease-brain.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Researchers at NYU Abu Dhabi and the University of Denver identified a small molecule aimed at disease modification in Parkinson's and related disorders. The summary states the compound targets disease-causing pathways rather than only symptoms. Preclinical findings are reported to show neuroprotective effects. The authors suggest the work opens avenues for therapies that could slow or halt progression.",
+          "keywords": ["Parkinson's disease", "disease-modifying therapy", "neuroprotection"]
+        },
+        {
+          "title": "Alzheimer's risk reduced after high-dose influenza vaccination vs. standard dose, study finds",
+          "url": "https://medicalxpress.com/news/2026-04-alzheimer-high-dose-influenza-vaccination.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Researchers at UTHealth Houston compared high-dose and standard-dose influenza vaccines in older adults. The high-dose vaccine was associated with a significantly lower risk of developing Alzheimer's disease. The analysis controlled for demographic and health factors to isolate the association. The findings support considering higher-dose flu vaccination as a strategy linked to brain health protection.",
+          "keywords": ["influenza vaccine", "Alzheimer's risk", "older adults"]
+        },
+        {
+          "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260328043556.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-29",
+          "summary_4_sentences": "Researchers analyzed brain scans from more than 500 stroke survivors. They found the damaged side of the brain appeared to age faster, while the opposite side could appear younger. The summary suggests this may reflect compensatory rewiring in unaffected regions. The findings point to asymmetric brain aging patterns after stroke.",
+          "keywords": ["stroke", "brain aging", "neuroplasticity"]
+        },
+        {
+          "title": "Why your brain may be sabotaging your balance as you age",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260324230102.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-25",
+          "summary_4_sentences": "Scientists reported that balance problems in aging and Parkinson's may involve excessive activation rather than insufficient response. The summary states that brain and muscle overactivity during minor disturbances can weaken balance recovery. It also describes muscles stiffening against each other, which can reduce stability. The authors suggest these patterns could help predict fall risk.",
+          "keywords": ["balance", "aging", "fall risk"]
+        },
+        {
+          "title": "This tiny implant, smaller than a grain of salt, can read your brain",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-24",
+          "summary_4_sentences": "Researchers developed an ultra-miniature neural implant small enough to rest on a grain of salt. The device can track and wirelessly transmit brain activity for over a year. It is powered by laser light that passes through tissue and uses infrared signals for communication. The summary suggests the implant could enable brain studies without invasive wiring.",
+          "keywords": ["neural implant", "wireless recording", "brain monitoring"]
+        },
+        {
+          "title": "Scientists just solved a major mystery about how your brain stores memories",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260324024247.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-24",
+          "summary_4_sentences": "Scientists reported that the brain separates memories into \"what\" and \"where/when\" using two neuron groups. One group responds to specific objects or people, while another tracks contextual information. The summary states that correct recall involves brief coupling between these groups to reconstruct a complete memory. The work is presented as a clue to how recognition remains stable across different experiences.",
+          "keywords": ["memory", "neurons", "context encoding"]
+        },
+        {
+          "title": "Caffeinated Tea and Coffee Linked to 18% Lower Dementia Risk",
+          "url": "https://www.labroots.com/trending/neuroscience/30345/caffeinated-tea-coffee-linked-18-lower-dementia-risk",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-23",
+          "summary_4_sentences": "An epidemiological study associated moderate caffeinated coffee or tea consumption with an 18% lower dementia risk. Researchers followed a large cohort for several years and adjusted for lifestyle and health factors. Cognitive assessments were reported as better among regular caffeine consumers. The authors note the findings do not establish causality but are consistent with possible neuroprotective effects.",
+          "keywords": ["caffeine", "dementia", "epidemiology"]
+        },
+        {
+          "title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260323005526.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-23",
+          "summary_4_sentences": "Researchers identified a toxic pairing of two proteins that they describe as a brain \"death switch\" in Alzheimer's disease. The summary states this pairing triggers neuron destruction and contributes to memory loss. In mice, a compound that disrupted the protein pairing slowed disease progression and protected brain cells. The report also notes reduced amyloid buildup in treated mice.",
+          "keywords": ["Alzheimer's disease", "protein interaction", "preclinical therapy"]
+        },
+        {
+          "title": "Tunneling Nanotubes' are Revealed As a Player in Huntington's",
+          "url": "https://www.labroots.com/trending/genetics-and-genomics/30340/tunneling-nanotubes-revealed-player-huntington-s",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-22",
+          "summary_4_sentences": "A study identified tunneling nanotubes as a factor in Huntington's disease pathology. The summary suggests these cellular connections may facilitate the spread of toxic proteins between cells. The work provides a new perspective on how neurodegeneration may propagate. The authors propose the finding could inform targeted therapeutic strategies.",
+          "keywords": ["Huntington's disease", "tunneling nanotubes", "protein spread"]
+        }
+      ]
+    },
+    {
+      "topic": "Infectious Diseases, Vaccines, and Post-Viral Syndromes",
+      "articles": [
+        {
+          "title": "Are Autoantibodies to Blame for Long COVID?",
+          "url": "https://www.labroots.com/trending/microbiology/30375/autoantibodies-blame-covid",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "This article reviews evidence that autoantibodies may contribute to persistent symptoms after COVID-19 infection. It frames long COVID as a major health concern given the scale of global COVID-19 cases and deaths. Researchers discuss mechanisms by which autoantibodies could target host tissues and prolong illness. The piece suggests autoantibodies may offer diagnostic markers and therapeutic targets for managing long COVID.",
+          "keywords": ["long COVID", "autoantibodies", "immune dysregulation"]
+        },
+        {
+          "title": "What you should know about the new COVID-19 \"Cicada\" variant",
+          "url": "https://medicalxpress.com/news/2026-03-covid-cicada-variant.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "MedicalXpress reports that the COVID-19 \"Cicada\" variant has an unusually high number of mutations. Experts cited in the summary warn these mutations may help the virus evade existing immunity. The variant is described as spreading quietly worldwide. The article emphasizes monitoring its impact on vaccine effectiveness.",
+          "keywords": ["SARS-CoV-2 variant", "immune evasion", "vaccine effectiveness"]
+        },
+        {
+          "title": "COVID‑19 variant BA.3.2 is spreading quickly across the US—a doctor explains what you need to know",
+          "url": "https://medicalxpress.com/news/2026-03-covid19-variant-ba32-quickly-doctor.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "The article states that the BA.3.2 COVID-19 variant is spreading rapidly across the United States. It notes the variant has circulated since late 2024 and that a pulmonologist has observed increased cases among high-risk patients. The summary suggests BA.3.2 may have enhanced transmissibility. Clinicians are advised to stay informed as the situation evolves.",
+          "keywords": ["BA.3.2", "COVID-19", "transmissibility"]
+        },
+        {
+          "title": "This new test could transform UTI treatment with same-day results",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331001054.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Researchers developed a urine test that can identify effective antibiotics for UTIs in under six hours. The method tests directly from urine rather than relying on the usual culture step that takes days. In trials involving hundreds of patient samples, the summary reports the test matched standard methods in over 96% of cases. The authors suggest faster results could improve antibiotic selection and treatment timing.",
+          "keywords": ["UTI", "rapid diagnostics", "antibiotic susceptibility"]
+        },
+        {
+          "title": "For severe babesiosis, red blood cell exchange is associated with markedly improved outcomes",
+          "url": "https://medicalxpress.com/news/2026-03-severe-babesiosis-red-blood-cell.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "A study from Mass General Brigham and Yale School of Public Health evaluated red blood cell exchange transfusion for severe babesiosis. The procedure was associated with markedly reduced mortality and complications. The summary notes the benefit may be especially important for hospitalized patients. The authors recommend considering exchange transfusion as a therapeutic option in severe cases.",
+          "keywords": ["babesiosis", "exchange transfusion", "clinical outcomes"]
+        },
+        {
+          "title": "Amid vaccine policy whiplash, here's how a pediatrician talks to families",
+          "url": "https://www.sciencenews.org/article/vaccine-policy-pediatric-advice-trump",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-20",
+          "summary_4_sentences": "The article describes communication strategies pediatricians use when vaccine recommendations change. It emphasizes empathy, clear explanation of evidence, and addressing parental concerns directly. The piece includes examples of dialogue approaches in clinical settings. The aim is to preserve trust and support vaccine uptake.",
+          "keywords": ["vaccine communication", "pediatrics", "public trust"]
+        },
+        {
+          "title": "Scientists find immune cell linked to long COVID fatigue and symptoms",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260325005922.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-26",
+          "summary_4_sentences": "Scientists analyzed individual immune cells and identified a distinct molecular state in key white blood cells in people with long COVID. The summary notes the state was especially common among patients whose initial infections were mild or moderate. The finding is presented as a clue to long COVID fatigue and other persistent symptoms. The work adds evidence that long COVID involves measurable immune-system alterations.",
+          "keywords": ["long COVID", "immune profiling", "fatigue"]
+        }
+      ]
+    },
+    {
+      "topic": "Metabolic Health, Diabetes, and Weight Management",
+      "articles": [
+        {
+          "title": "Millions start work too early. This drug helps them stay awake",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260401071936.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-04-01",
+          "summary_4_sentences": "A clinical trial evaluated solriamfetol for early-morning shift workers with shift work disorder. Participants taking the drug showed improved alertness across full shifts. The summary reports better functioning with gains in productivity, safety, and daily performance. The findings suggest a medication option for people whose work schedules conflict with typical sleep timing.",
+          "keywords": ["shift work disorder", "solriamfetol", "wake-promoting drug"]
+        },
+        {
+          "title": "Metformin’s hidden brain pathway revealed after 60 years",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-25",
+          "summary_4_sentences": "Researchers report that metformin influences blood sugar partly through a pathway in the brain. The summary states the drug switches off a key protein and activates specific neurons. This neural mechanism is described as previously unrecognized despite decades of metformin use. The findings suggest new directions for diabetes treatment research.",
+          "keywords": ["metformin", "brain pathway", "blood glucose"]
+        },
+        {
+          "title": "Scientists say this simple habit may help you lose more weight",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330233357.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "A study found that participants who ate the same meals and kept calorie intake consistent lost more weight during a 12-week program. The summary contrasts this with people who frequently changed what they ate and lost less weight. Researchers propose that predictable routines reduce decision-making burdens and support adherence. The findings frame dietary simplification as a potentially useful behavior for weight management.",
+          "keywords": ["weight loss", "diet routine", "behavioral adherence"]
+        },
+        {
+          "title": "What happens after Ozempic shocked researchers",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260319044648.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-19",
+          "summary_4_sentences": "A real-world study of nearly 8,000 patients examined outcomes after discontinuing weight-loss injections such as Ozempic or Mounjaro. The summary reports most people maintained weight loss or continued losing weight. Many did so by restarting treatment, switching medications, or using lifestyle changes. The findings contrast with earlier clinical trial reports of rapid weight regain after stopping therapy.",
+          "keywords": ["GLP-1 therapy", "weight regain", "real-world study"]
+        },
+        {
+          "title": "Weight loss drug Ozempic cuts depression, anxiety, and addiction risk",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260322020250.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-22",
+          "summary_4_sentences": "A large study associated GLP-1 medications such as semaglutide with reduced depression and anxiety outcomes. The summary also reports fewer psychiatric-related hospital visits among users. It further notes lower rates of substance use disorders during treatment. Researchers suggest both lifestyle changes and direct brain effects could contribute to these associations.",
+          "keywords": ["semaglutide", "mental health", "substance use disorders"]
+        },
+        {
+          "title": "Semaglutide Lowers Risk of Worsening Depression and Anxiety",
+          "url": "https://www.labroots.com/trending/drug-discovery-and-development/30347/semaglutide-lowers-risk-worsening-depression-anxiety",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-24",
+          "summary_4_sentences": "An investigation found semaglutide use was associated with a reduced likelihood of worsening depression and anxiety. The effect was reported among patients with type 2 diabetes and obesity receiving the drug. Compared with control groups, the semaglutide cohort had statistically significant improvements in mental health measures. The results suggest possible neuropsychiatric benefits of GLP-1 receptor agonists.",
+          "keywords": ["semaglutide", "depression", "anxiety"]
+        }
+      ]
+    },
+    {
+      "topic": "Cannabis, Psychoactive Substances, and Public Health",
+      "articles": [
+        {
+          "title": "Study Indicates An Association Between Medical Cannabis Use and Decreases in Anxiety",
+          "url": "https://www.labroots.com/trending/cannabis-sciences/30370/study-indicates-association-medical-cannabis-decreases-anxiety-2",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "A study published in Nature examined legal medical cannabis consumption and anxiety outcomes. The authors report a statistically significant association between cannabis use and reduced anxiety levels. The analysis controlled for demographic and health variables to isolate the association. The findings are presented as evidence of potential therapeutic relevance for anxiety disorders.",
+          "keywords": ["medical cannabis", "anxiety", "observational study"]
+        },
+        {
+          "title": "Study Highlights How Acute Cannabis Use Impairs Memory Function",
+          "url": "https://www.labroots.com/trending/cannabis-sciences/30369/study-highlights-acute-cannabis-impairs-memory-function-2",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Researchers at Washington State University used brain imaging to assess memory after acute cannabis exposure. The summary reports disruptions in memory-related neural pathways. The authors conclude short-term cannabis use can impair aspects of memory function. They emphasize the importance of public awareness about cognitive effects.",
+          "keywords": ["cannabis", "memory impairment", "brain imaging"]
+        },
+        {
+          "title": "Cannabis and tobacco use linked to smaller brain volume",
+          "url": "https://medicalxpress.com/news/2026-03-cannabis-tobacco-linked-smaller-brain.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "A systematic review and meta-analysis of more than 103 studies linked cannabis and tobacco use to reduced brain volume. The association was reported for cannabis alone, tobacco alone, and combined use. The authors interpret the findings as raising concerns about long-term neurocognitive effects. They call for increased public health awareness regarding potential structural brain impacts.",
+          "keywords": ["brain volume", "tobacco", "meta-analysis"]
+        },
+        {
+          "title": "Large Review Finds Cannabis Ineffective for Anxiety, PTSD",
+          "url": "https://www.labroots.com/trending/cannabis-sciences/30358/review-cannabis-ineffective-anxiety-ptsd",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-26",
+          "summary_4_sentences": "A comprehensive review assessed medicinal cannabis for anxiety and PTSD. The analysis concluded cannabis did not significantly reduce symptoms across the conditions evaluated. The authors based the conclusion on multiple clinical trials and observational studies. They caution against using cannabis as a primary treatment for these disorders.",
+          "keywords": ["PTSD", "anxiety treatment", "systematic review"]
+        },
+        {
+          "title": "Kratom cases are exploding across the U.S. and doctors are alarmed",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330233401.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "New data show kratom-related poison center calls have risen by more than 1,200% over the past decade. The summary reports increases in hospitalizations and deaths associated with kratom as well. The rise is attributed in part to stronger, unregulated products now widely sold in the U.S. Experts warn that risks may be higher when kratom is used with other substances.",
+          "keywords": ["kratom", "poison center calls", "drug safety"]
+        },
+        {
+          "title": "Study Highlights Misleading Labels on Delta-8 Products",
+          "url": "https://www.labroots.com/trending/cannabis-sciences/30338/study-highlights-misleading-labels-delta-8-products-2",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-20",
+          "summary_4_sentences": "Researchers tested commercial delta-8 THC products and found labeling was often inaccurate or incomplete. Laboratory analysis showed discrepancies between labeled potency and actual cannabinoid content. The study raised consumer safety concerns and highlighted the need for oversight. The authors recommend standardized labeling to better protect public health.",
+          "keywords": ["delta-8 THC", "product labeling", "consumer safety"]
+        },
+        {
+          "title": "State‑Regulated Recreational Cannabis Markets Displace the Illegal Cannabis Market Supply",
+          "url": "https://www.labroots.com/trending/cannabis-sciences/30337/state-regulated-recreational-cannabis-markets-displace-illegal-cannabis-market-supply-2",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-20",
+          "summary_4_sentences": "An analysis reported that state-regulated recreational cannabis markets reduced illegal cannabis sales. The summary states legal outlets captured a significant share of consumer demand. Researchers attribute the shift to factors such as product quality, pricing, and accessibility. The authors suggest legalization policies can undermine illicit supply under certain regulatory conditions.",
+          "keywords": ["cannabis policy", "illegal market", "regulation"]
+        },
+        {
+          "title": "THC Creates False Memories at Mid- High Doses",
+          "url": "https://www.labroots.com/trending/cannabis-sciences/30333/thc-creates-false-memories-mid-doses",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-19",
+          "summary_4_sentences": "A study examined cognitive effects of moderate-to-high THC doses. Participants showed increased false memory formation and more difficulty with everyday memory tasks. The summary describes a dose-dependent relationship between THC and these effects. The authors conclude the findings support caution in both recreational and medicinal THC use.",
+          "keywords": ["THC", "false memories", "cognition"]
+        },
+        {
+          "title": "Legalizing Cannabis Helps Lower Specific Crime Statistics",
+          "url": "https://www.labroots.com/trending/cannabis-sciences/30331/legalizing-cannabis-helps-lower-specific-crime-statistics-2",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-19",
+          "summary_4_sentences": "An economic study evaluated associations between cannabis legalization and crime rates across jurisdictions. The authors report declines in certain categories, including property offenses, after legalization. The reduction was described as most pronounced where regulatory frameworks were robust. The findings are presented as suggesting legalization may contribute to public safety improvements in specific contexts.",
+          "keywords": ["legalization", "crime rates", "public policy"]
+        }
+      ]
+    },
+    {
+      "topic": "Genetics, Cell Biology, and Immunology",
+      "articles": [
+        {
+          "title": "Cracking the Code of a Crucial Class of Enzymes - E3 Ligases",
+          "url": "https://www.labroots.com/trending/genetics-and-genomics/30373/cracking-code-crucial-class-enzymes-e3-ligases",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "This review discusses ubiquitination as a process that selects molecules for elimination. It summarizes advances in understanding E3 ligases, which help control protein turnover. The article notes that dysregulation of these enzymes contributes to disease. It proposes E3 ligases as potential therapeutic targets.",
+          "keywords": ["ubiquitination", "E3 ligases", "drug targets"]
+        },
+        {
+          "title": "How T cells amplify signals: New study reveals key molecular switch",
+          "url": "https://medicalxpress.com/news/2026-03-cells-amplify-reveals-key-molecular.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Researchers identified a molecular switch that amplifies signaling in T cells. The summary states the switch strengthens immune responses by boosting signal transduction. Experimental results suggest manipulating the switch can enhance T-cell activation against pathogens. The work is framed as useful for designing improved immunotherapies.",
+          "keywords": ["T cells", "signal amplification", "immunotherapy"]
+        },
+        {
+          "title": "A New Display in Antigen Presentation is Revealed",
+          "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30361/display-antigen-presentation-revealed",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-29",
+          "summary_4_sentences": "A study described a previously uncharacterized mode of antigen presentation on cell surfaces. It explains how antigens composed of proteins and other molecules are displayed to immune cells. The findings expand understanding of immune surveillance mechanisms. The authors suggest the insight could inform vaccine design and immunotherapy strategies.",
+          "keywords": ["antigen presentation", "immune surveillance", "vaccine design"]
+        },
+        {
+          "title": "Newly discovered recessive neurodevelopmental disorder may be most prevalent ever",
+          "url": "https://medicalxpress.com/news/2026-03-newly-recessive-neurodevelopmental-disorder-prevalent.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "Researchers at Icahn School of Medicine described a previously unknown recessive neurodevelopmental disorder and its genetic basis. The summary states it may be the most prevalent neurodevelopmental disorder discovered so far. The study also characterized clinical features and estimated prevalence. The authors suggest broader screening may be needed.",
+          "keywords": ["neurodevelopmental disorder", "recessive genetics", "screening"]
+        },
+        {
+          "title": "Your DNA is constantly moving—and it may explain cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330001147.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Researchers report that the genome is a dynamic, folding structure rather than a static blueprint. The study found different genome regions loop and unloop at different speeds. The summary notes that more active regions are constantly reshaping to support gene activity. The authors suggest the dynamics may help explain aspects of cancer biology.",
+          "keywords": ["genome folding", "chromatin dynamics", "gene regulation"]
+        }
+      ]
+    },
+    {
+      "topic": "Diagnostics, Research Tools, and Medical AI",
+      "articles": [
+        {
+          "title": "Deepfake X-rays are so real even doctors can’t tell the difference",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260326011452.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-26",
+          "summary_4_sentences": "Researchers generated AI-created deepfake X-rays that were difficult to distinguish from real images. The summary reports radiologists had limited success detecting fakes, especially when unaware that fakes were included. It also states that AI models were similarly fooled in testing. The article warns about risks such as fraudulent medical claims and tampered diagnoses and calls for stronger safeguards.",
+          "keywords": ["deepfakes", "radiology", "medical AI security"]
+        },
+        {
+          "title": "Most mass spectrometers handle a few molecules. This new prototype handles billions",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260325005916.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-25",
+          "summary_4_sentences": "A new mass spectrometry prototype is described as analyzing thousands of molecules at once rather than one by one. The summary states this increases sensitivity enough to detect rare molecules. The advance could affect drug discovery and single-cell biology applications. The report frames the device as a way to scale molecular analysis substantially.",
+          "keywords": ["mass spectrometry", "sensitivity", "single-cell biology"]
+        },
+        {
+          "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Scientists are developing DNA-based programmable machines described as \"DNA robots.\" The summary says these structures are built using DNA folding techniques and ideas from traditional robotics. They can be guided using chemical reactions or external signals such as light and magnetic fields. Potential applications include drug delivery, virus targeting, and building molecular-scale devices.",
+          "keywords": ["DNA nanotechnology", "drug delivery", "nanorobots"]
+        }
+      ]
+    },
+    {
+      "topic": "Sleep, Mental Health, and Behavior",
+      "articles": [
+        {
+          "title": "Depression Increases in Fathers 1 Year After Childbirth",
+          "url": "https://www.labroots.com/trending/neuroscience/30368/depression-increases-fathers-1-childbirth",
+          "url_valid": true,
+          "source": "Labroots",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "A cohort study found that depression and stress-related disorders rise among fathers one year after childbirth. Researchers compared outcomes to baseline levels to identify changes over time. The findings highlight a period of vulnerability that may be under-recognized in paternal mental health. The authors recommend increased screening and support during the postpartum year.",
+          "keywords": ["paternal depression", "postpartum", "screening"]
+        },
+        {
+          "title": "Coffee at night may increase risky behavior, especially in women",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331001105.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "A study in fruit flies examined the behavioral effects of caffeine timing. The summary reports caffeine given after dark increased impulsive behavior, while daytime caffeine did not. It also states females were more sensitive than males. The findings suggest timing can shape caffeine-related behavioral effects in this model.",
+          "keywords": ["caffeine timing", "impulsivity", "sex differences"]
+        },
+        {
+          "title": "Scientists discover sleep switch that builds muscle, burns fat, and boosts brainpower",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "Researchers mapped neural circuits linking deep sleep to growth hormone control. The summary states this system influences muscle and bone strength, metabolism, and mental performance. It describes a feedback loop in which sleep boosts growth hormone, and growth hormone helps regulate wakefulness. The findings connect sleep physiology to broader body and brain functions described in the report.",
+          "keywords": ["deep sleep", "growth hormone", "neural circuits"]
+        },
+        {
+          "title": "Vivid dreams may be the secret to deeper, more restful sleep",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-26",
+          "summary_4_sentences": "Researchers reported that immersive dreaming can be associated with sleep that feels deeper and more refreshing. The summary notes participants reported their deepest sleep after intense dream experiences even when brain activity was high. This contrasts with the expectation that lower brain activity necessarily corresponds to deeper sleep. The findings suggest dreaming may contribute to subjective restfulness.",
+          "keywords": ["dreaming", "sleep quality", "subjective sleep"]
+        },
+        {
+          "title": "Just a few minutes of effort could lower your risk of 8 major diseases",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "A study of nearly 100,000 people linked short bursts of vigorous activity to lower risk of multiple major diseases. The summary emphasizes that intensity, not just total movement, was associated with the reductions. Examples include brief activities that make people get out of breath, such as climbing stairs quickly. The report notes particularly strong associations for inflammatory conditions and brain health outcomes described in the summary.",
+          "keywords": ["vigorous activity", "disease risk", "physical activity intensity"]
+        }
+      ]
+    },
+    {
+      "topic": "Environmental and Occupational Health Risks",
+      "articles": [
+        {
+          "title": "Common disinfectant chemicals far more toxic when inhaled, study finds",
+          "url": "https://medicalxpress.com/news/2026-03-common-disinfectant-chemicals-toxic-inhaled.html",
+          "url_valid": true,
+          "source": "MedicalXpress",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "A mouse study led by UC Davis found inhalation of quaternary ammonium compounds (QACs) was more toxic than ingestion. The summary reports the chemicals caused severe respiratory damage in animal models. The findings raise concerns about occupational exposure risks. The authors call for stricter exposure limits based on inhalation hazards.",
+          "keywords": ["QACs", "inhalation toxicity", "occupational health"]
+        },
+        {
+          "title": "Cold weather linked to 40,000 extra heart deaths each year in the U.S.",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260325005910.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-25",
+          "summary_4_sentences": "A large U.S. study linked cold weather to substantially more cardiovascular deaths than heat. The summary attributes tens of thousands of extra heart-related deaths per year to cold temperatures. Researchers estimated the lowest-risk temperature around 74°F, with risk increasing as temperatures move colder or hotter. The report suggests the threat from extreme cold may grow as more people live with chronic illnesses.",
+          "keywords": ["cold exposure", "cardiovascular mortality", "temperature risk"]
+        },
+        {
+          "title": "Scientists solved the mystery of missing ocean plastic—and the answer is alarming",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260329041649.htm",
+          "url_valid": true,
+          "source": "ScienceDaily",
+          "published_at": "2026-03-29",
+          "summary_4_sentences": "Scientists report that much of the ocean's \"missing\" plastic has broken down into nanoplastics. The summary states these particles are spread through water, air, and living organisms. It also notes concerns that nanoplastics may be pervasive and could be present in human bodies. The findings raise questions about potential impacts that require further study.",
+          "keywords": ["nanoplastics", "ocean pollution", "human exposure"]
+        }
+      ]
+    },
+    {
+      "topic": "Other Medical and Science News",
+      "articles": [
+        {
+          "title": "Pronatalists want more babies. Their solutions aren’t rooted in science",
+          "url": "https://www.sciencenews.org/article/pronatalists-babies-birth-rate-family",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "The article examines pronatalist movements that seek higher birth rates. It describes proposed policies such as financial incentives and parental support. The piece argues that many proposals lack robust scientific backing. It concludes that demographic goals should be guided by evidence-based research.",
+          "keywords": ["pronatalism", "birth rates", "policy evidence"]
+        },
+        {
+          "title": "_Secrets of the Bees_ zooms in on life in a hive",
+          "url": "https://www.sciencenews.org/article/secrets-bees-james-cameron",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "The documentary focuses on the social structure of honeybee colonies. It presents footage of communication, foraging, and brood care. Researchers in the summary emphasize bees' importance for pollination and ecosystem health. The film also highlights conservation challenges affecting bee populations.",
+          "keywords": ["honeybees", "pollination", "conservation"]
+        },
+        {
+          "title": "A comet may have flipped its spin and entered into a death spiral",
+          "url": "https://www.sciencenews.org/article/comet-41p-reversed-spin-death-spiral",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-31",
+          "summary_4_sentences": "Astronomers observed a comet whose rotation appears to have reversed. The analysis attributes the spin flip to outgassing forces. The changed rotation may push the comet toward a decaying orbital path described as a potential death spiral. The study is presented as improving understanding of comet evolution and possible hazards.",
+          "keywords": ["comets", "outgassing", "rotation dynamics"]
+        },
+        {
+          "title": "Quantum physics can confirm where someone is located",
+          "url": "https://www.sciencenews.org/article/quantum-physics-location-security",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-30",
+          "summary_4_sentences": "An experiment used quantum entanglement to confirm a person's location with high precision. The technique relies on quantum correlations to improve geolocation accuracy. The summary notes potential applications in navigation and security. The authors also describe limitations and directions for future improvements.",
+          "keywords": ["quantum entanglement", "geolocation", "security"]
+        },
+        {
+          "title": "Water has a newfound ‘critical point’ that may help explain its quirks",
+          "url": "https://www.sciencenews.org/article/water-critical-point-supercooled-liquid",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-26",
+          "summary_4_sentences": "Scientists identified a previously unknown critical point in supercooled water. Experiments found anomalous behavior near this temperature affecting properties such as density and viscosity. The finding is presented as helping explain long-standing mysteries about water. The article notes potential relevance to climate modeling and materials science.",
+          "keywords": ["supercooled water", "critical point", "anomalous properties"]
+        },
+        {
+          "title": "A rare star in a tiny galaxy preserves a record of the early universe",
+          "url": "https://www.sciencenews.org/article/primitive-star-galaxy-early-universe",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-27",
+          "summary_4_sentences": "Researchers found an ancient star in a dwarf galaxy with primordial chemical signatures. Spectroscopy indicated low metallicity consistent with very early star formation. The star is described as a fossil record of the universe's first generations. The findings contribute to models of cosmic evolution.",
+          "keywords": ["ancient star", "dwarf galaxy", "early universe"]
+        },
+        {
+          "title": "Earth's continental plates were moving 3.48 billion years ago",
+          "url": "https://www.sciencenews.org/article/earth-tectonic-plates-earliest-evidence",
+          "url_valid": true,
+          "source": "Science News",
+          "published_at": "2026-03-19",
+          "summary_4_sentences": "Geologists reported evidence that tectonic plate motion existed more than 3.4 billion years ago. The summary cites rock formations and mineral alignments consistent with early continental drift. This would push back the timeline for plate tectonics by billions of years. The discovery is described as reshaping ideas about early Earth dynamics.",
+          "keywords": ["plate tectonics", "early Earth", "geology"]
+        }
+      ]
+    }
+  ],
   "excluded_items": [
     {
-      "title": "Novel Molecular Trigger Initiates Innate Immunity",
-      "url": "https://www.labroots.com/trending/immunology/30301/novel-molecular-trigger-initiates-innate-immunity",
+      "title": "Streamlined Respiratory Molecular Diagnostics for Oncology Care",
+      "url": "https://www.labroots.com/trending/ebooks/30261/streamlined-respiratory-molecular-diagnostics-oncology-care",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Amplifying innovation: Endpoint, qPCR, and dPCR Explained",
+      "url": "https://www.labroots.com/trending/ebooks/30208/amplifying-innovation-endpoint-qpcr-dpcr-explained",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Overcoming TSA Limitations for Membrane Proteins",
+      "url": "https://www.labroots.com/trending/ebooks/30251/overcoming-tsa-limitations-membrane-proteins",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Confident protein validation: The power of SDS-PAGE and Western blot in ÄKTA™ chromatography workflow",
+      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30336/confident-protein-validation-power-sds-page-western-blot-kta-chromatography-workflow",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "An Array of Powerful New Biological Atlases are now Available",
+      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30339/array-powerful-biological-atlases",
+      "reason": "insufficient_information"
+    },
+    {
+      "title": "Re-thinking 'in-house' targeted GBS testing strategies can save time & money",
+      "url": "https://www.labroots.com/trending/genetics-and-genomics/30118/re-thinking-in-house-targeted-gbs-testing-strategies-save-time-money",
       "reason": "too_old"
     },
     {
-      "title": "Ketone Diet Improves Immunotherapy Treatment",
-      "url": "https://www.labroots.com/trending/immunology/30296/ketone-diet-improves-immunotherapy-treatment",
+      "title": "Camel Proteins Improve Treatment Against Drug –Resistant Bacteria",
+      "url": "https://www.labroots.com/trending/immunology/30245/camel-proteins-improve-treatment-drug-resistant-bacteria",
       "reason": "too_old"
     },
     {
-      "title": "Researchers Discover That Lung Cells Have Different Aging Rates",
-      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30313/researchers-discover-lung-cells-age-faster",
+      "title": "Fast‑food AI drive‑thrus may nudge you toward junk food",
+      "url": "https://www.labroots.com/trending/technology/30248/fast-food-ai-drive-thrus-nudge-junk-food-2",
       "reason": "too_old"
     },
     {
-      "title": "The Link Between Cannabis, Depression and Anxiety",
-      "url": "https://www.labroots.com/trending/cannabis-sciences/30300/link-cannabis-depression-anxiety-2",
+      "title": "Giant DNA Viruses Have a Feature Like One in Complex Cells",
+      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30226/giant-dna-viruses-feature-complex-cells",
       "reason": "too_old"
     },
     {
-      "title": "Study Highlights Parallels Between Cannabis Use and Alcohol Use Patterns Among Teens",
-      "url": "https://www.labroots.com/trending/cannabis-sciences/30299/study-highlights-parallels-cannabis-alcohol-patterns-teens-2",
+      "title": "5,000 Year Old Cave Ice Bacteria is Resistant to Ten Modern Antibiotics",
+      "url": "https://www.labroots.com/trending/microbiology/30225/5-000-year-old-cave-ice-bacteria-resistant-ten-modern-antibiotics",
       "reason": "too_old"
     },
     {
-      "title": "Millions Swap Painkillers for CBD Alternatives",
-      "url": "https://www.labroots.com/trending/cannabis-sciences/30306/millions-swap-painkillers-cbd-alternatives-2",
+      "title": "A Gut Microbe Linked to Good Health is Discovered",
+      "url": "https://www.labroots.com/trending/microbiology/30223/gut-microbe-linked-health-discovered",
       "reason": "too_old"
     },
     {
-      "title": "CBD and CBG Show Promise for Fatty Liver Disease",
-      "url": "https://www.labroots.com/trending/cannabis-sciences/30305/cbd-cbg-promise-fatty-liver-disease",
+      "title": "Scientists Find Parts of the Human Genome That Influence Gut Microbes",
+      "url": "https://www.labroots.com/trending/genetics-and-genomics/30222/scientists-human-genome-influence-gut-microbes",
       "reason": "too_old"
     },
     {
-      "title": "Genetic Changes in Alzheimer's Patient Brains are Revealed",
-      "url": "https://www.labroots.com/trending/genetics-and-genomics/30289/genetic-changes-alzheimer-s-patient-brains-revealed",
+      "title": "Space Station Microbes Harvest Metals from Meteorites",
+      "url": "https://www.labroots.com/trending/space/30213/space-station-microbes-harvest-metals-meteorites-2",
       "reason": "too_old"
     },
     {
-      "title": "When Gut-Brain Signaling Improved in Aging Mice, So Did Cognition",
-      "url": "https://www.labroots.com/trending/microbiology/30312/gut-brain-signaling-improved-aging-mice-cognition",
+      "title": "Destructive Meningitis Cases Highlight an Emerging Pathogen",
+      "url": "https://www.labroots.com/trending/microbiology/30196/destructive-meningitis-highlight-emerging-pathogen",
       "reason": "too_old"
     },
     {
-      "title": "New Drug Reduces Seizures by up to 91% in Severe Epilepsy",
-      "url": "https://www.labroots.com/trending/drug-discovery-and-development/30293/drug-reduces-seizures-91-severe-epilepsy",
+      "title": "A Sugar Made by Gut Bacteria Can Drive Neurodegeneration",
+      "url": "https://www.labroots.com/trending/microbiology/30193/sugar-gut-bacteria-drive-neurodegeneration",
       "reason": "too_old"
     },
     {
-      "title": "Insomnia Plus Sleep Apnea Dramatically Raises Heart Risks",
-      "url": "https://www.labroots.com/trending/cardiology/30281/insomnia-plus-sleep-apnea-dramatically-raises-heart-risks-2",
+      "title": "How has the Loss of Intestinal Parasites Affected Humans?",
+      "url": "https://www.labroots.com/trending/microbiology/30343/loss-intestinal-parasites-affected-humans",
       "reason": "too_old"
     },
     {
-      "title": "Plant Product Induces Anticancer Activity Against Breast Cancer Cells",
-      "url": "https://www.labroots.com/trending/cancer/30290/plant-product-induces-anticancer-activity-breast-cancer-cells",
+      "title": "An Immune Reaction to EBV can Lead to MS-Related Brain Damage",
+      "url": "https://www.labroots.com/trending/microbiology/30341/immune-reaction-ebv-lead-ms-related-brain-damage",
       "reason": "too_old"
     },
     {
-      "title": "The Ratio of Fats in Diet Has a Significant Effect on Immunity",
-      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30287/ratio-fats-diet-significant-effect-immunity",
-      "reason": "too_old"
-    },
-    {
-      "title": "Dementia Drug Linked to Higher Stroke Risk",
-      "url": "https://www.labroots.com/trending/neuroscience/30291/dementia-drug-linked-stroke-risk",
-      "reason": "too_old"
-    },
-    {
-      "title": "Scientists Find Plasmids That Encourage Tough Biofilms to Form",
-      "url": "https://www.labroots.com/trending/microbiology/30288/scientists-plasmids-encourage-tough-biofilms-form",
-      "reason": "too_old"
-    },
-    {
-      "title": "Cannabis Extracts Significantly Reduce Myofascial Pain",
-      "url": "https://www.labroots.com/trending/cannabis-sciences/30277/cannabis-extracts-significantly-reduce-myofascial-pain-2",
-      "reason": "too_old"
-    },
-    {
-      "title": "GLP\u20111 Drugs Show Promise for Substance Use Disorders",
-      "url": "https://www.labroots.com/trending/cannabis-sciences/30274/glp-1-drugs-promise-substance-disorders",
-      "reason": "too_old"
-    },
-    {
-      "title": "New Antibiotic Stops C. Difficile, Protects Microbiome",
-      "url": "https://www.labroots.com/trending/nocat/30326/antibiotic-stops-c-difficile-protects-microbiome",
-      "reason": "too_old"
-    },
-    {
-      "title": "A Cells' Active Genes Can Now be Seen in Unprecedented Detail",
-      "url": "https://www.labroots.com/trending/nocat/30344/cells-active-genes-seen-unprecedented-detail",
-      "reason": "too_old"
-    },
-    {
-      "title": "Deep space moons could support life for billions of years",
-      "url": "https://www.labroots.com/trending/nocat/30323/deep-space-moons-support-life-billions-2",
-      "reason": "too_old"
-    },
-    {
-      "title": "An Immune Reaction to EBV can Lead to MS\u2011Related Brain Damage",
-      "url": "https://www.labroots.com/trending/nocat/30341/immune-reaction-ebv-lead-ms-related-brain-damage",
+      "title": "Recognizing the Importance of the Thymus",
+      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30342/recognizing-importance-thymus",
       "reason": "too_old"
     },
     {
@@ -119,46 +871,81 @@
       "reason": "too_old"
     },
     {
-      "title": "Just a few minutes of effort could lower your risk of 8 major diseases",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
+      "title": "How has the Loss of Intestinal Parasites Affected Humans?",
+      "url": "https://www.labroots.com/trending/nocat/30343/loss-intestinal-parasites-affected-humans",
       "reason": "too_old"
     },
     {
-      "title": "Gut Inflammation can Alter the Epigenome to Boost Cancer",
-      "url": "https://www.labroots.com/trending/genetics-and-genomics/30362/gut-inflammation-alter-epigenome-boost-cancer",
+      "title": "A Cells' Active Genes Can Now be Seen in Unprecedented Detail",
+      "url": "https://www.labroots.com/trending/nocat/30344/cells-active-genes-seen-unprecedented-detail",
       "reason": "too_old"
     },
     {
-      "title": "A New Display in Antigen Presentation is Revealed",
-      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30361/display-antigen-presentation-revealed",
+      "title": "Tardigrades Reveal Risks and Rewards of Martian Regolith",
+      "url": "https://www.labroots.com/trending/space/30263/tardigrades-reveal-risks-rewards-martian-regolith-2",
       "reason": "too_old"
     },
     {
-      "title": "Stroke triggers a hidden brain change that looks like rejuvenation",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043556.htm",
+      "title": "This Symbiotic Organism Has the Smallest Genome",
+      "url": "https://www.labroots.com/trending/genetics-and-genomics/30256/symbiotic-organism-genome",
       "reason": "too_old"
     },
     {
-      "title": "Scientists solved the mystery of missing ocean plastic\u2014and the answer is alarming",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260329041649.htm",
+      "title": "Low‑dose Lithium May Slow Cognitive Decline",
+      "url": "https://www.labroots.com/trending/neuroscience/30264/low-dose-lithium-slow-cognitive-decline",
       "reason": "too_old"
     },
     {
-      "title": "What teens eat could be affecting their mental health more than we thought",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043602.htm",
+      "title": "Energy Depletion Dysregulates Antitumor Immunity",
+      "url": "https://www.labroots.com/trending/nocat/30330/energy-depletion-dysregulates-antitumor-immunity",
       "reason": "too_old"
     },
     {
-      "title": "New cholesterol guidelines could change when you get tested",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043554.htm",
+      "title": "New automation example for fast, high-purity DNA from cells",
+      "url": "https://www.labroots.com/trending/ebooks/30232/automation-example-fast-high-purity-dna-cells",
       "reason": "too_old"
     },
     {
-      "title": "Scientists say the evidence is clear: E-cigarettes beat patches and gum in helping smokers quit",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260328043552.htm",
+      "title": "How Gut Biomarkers Could Track Disease",
+      "url": "https://www.labroots.com/trending/microbiology/30254/gut-biomarkers-track-disease",
       "reason": "too_old"
+    },
+    {
+      "title": "Sleep Helps Clean Neuronal Houses",
+      "url": "https://www.labroots.com/trending/cell-and-molecular-biology/30255/sleep-helps-clean-neuronal-houses",
+      "reason": "too_old"
+    },
+    {
+      "title": "Digital heart twins can guide a lifesaving procedure",
+      "url": "https://www.sciencenews.org/article/digital-heart-replica-guide-ablation",
+      "reason": "too_old"
+    },
+    {
+      "title": "The oldest known dice date back about 12,000 years in North America",
+      "url": "https://www.sciencenews.org/article/oldest-known-dice-north-america",
+      "reason": "too_old"
+    },
+    {
+      "title": "A fossil reveals early relatives of spiders — armed with claws",
+      "url": "https://www.sciencenews.org/article/fossil-claws-spider-scorpions-evolution",
+      "reason": "too_old"
+    },
+    {
+      "title": "Artemis II sends humans around the moon for first time since Apollo",
+      "url": "https://www.sciencenews.org/article/nasa-artemis-launch-humans-moon",
+      "reason": "too_old"
+    },
+    {
+      "title": "Just 10,000 quantum bits might crack internet encryption schemes",
+      "url": "https://www.sciencenews.org/article/quantum-bits-crack-internet-encryption",
+      "reason": "too_old"
+    },
+    {
+      "title": "No articles found",
+      "url": "https://example.com",
+      "reason": "insufficient_information"
     }
   ],
-  "topic_count": 0,
-  "article_count": 0
+  "topic_count": 9,
+  "article_count": 62
 }
