@@ -378,7 +378,7 @@
     function normalizeItem(item) {
       const title = String(item.title || "").trim() || "(Untitled)";
       const summary =
-        String(item.summary || item.summary_4_sentences || "").trim() || "(No summary)";
+        String(item.summary || item.summary_3_sentences || item.summary_4_sentences || "").trim() || "(No summary)";
       const hyperlink = String(item.hyperlink || item.url || "").trim();
       const dateRaw = String(item.date || item.published_at || "").trim();
       const topic = String(item.topic || "").trim();
